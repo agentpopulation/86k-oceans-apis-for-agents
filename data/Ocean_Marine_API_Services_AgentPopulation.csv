@@ -1,0 +1,2242 @@
+service,host,endpoints,countries
+GRIIDC ERDDAP (Gulf of Mexico),erddap.griidc.org,11688,US
+Tamu,gcoos5.geos.tamu.edu,7739,US
+Usgs,data.usgs.gov,3718,US
+Glos,seagull-erddap.glos.org,3619,US
+Noaa,data.ngdc.noaa.gov,3261,US
+Bodc,erddap.bodc.ac.uk,2529,GB
+Noaa,polarwatch.noaa.gov,2088,US
+Noaa,coastwatch.noaa.gov,2083,US
+Secoora,erddap.secoora.org,2040,US
+Bco Dmo,erddap.bco-dmo.org,1919,US
+Esipfed,geoport.usgs.esipfed.org,1469,
+Voiceoftheocean,erddap.observations.voiceoftheocean.org,1375,
+Icos Cp,erddap.icos-cp.eu,1189,EU
+Cencoos,erddap.cencoos.org,1085,US
+OBIS (Ocean Biodiversity Information System),api.obis.org,1000,
+Copernicus,stac.marine.copernicus.eu,998,EU
+Marinespecies,www.marinespecies.org,998,BE
+Northeastoceandata,devservices.northeastoceandata.org,996,
+Fathomnet,database.fathomnet.org,993,US
+Mosdac,mosdac.gov.in,993,IN
+Rutgers,tds.marine.rutgers.edu,983,US
+Csiro,www.cmar.csiro.au,979,AU
+Noaa,www.ncei.noaa.gov,962,US
+Digitraffic,meri.digitraffic.fi,922,FI
+Emodnet Physics,erddap.emodnet-physics.eu,921,EU
+Noaa,erddap.aoml.noaa.gov,914,US
+Noaa,www.ndbc.noaa.gov,835,US
+Emodnet,erddap.emodnet.eu,792,EU
+Oceanobservatories,erddap.dataexplorer.oceanobservatories.org,768,
+Bio-ORACLE ERDDAP,erddap.bio-oracle.org,712,
+NIRD Research Data Archive,data.archive.sigma2.no,702,NO
+Caribbeanmarineatlas,www.caribbeanmarineatlas.net,684,
+Ireland Open Data Portal,erddap.marine.ie,591,IE
+Noaa,data.pmel.noaa.gov,573,US
+PNDB Open Data,pndb.opendatasoft.com,544,
+Permafrostnet,data.permafrostnet.ca,489,CA
+Canadian Urban Data Catalogue (CUDC),api-proxy.edh-cde.dfo-mpo.gc.ca,465,CA
+Oca,iocean.oca.gov.tw,461,TW
+Hawaii,pae-paha.pacioos.hawaii.edu,460,CA|US
+Maracoos,erddap.maracoos.org,452,US
+Doi,doi.org,441,
+ArcGIS Online: Blue Whiting Spawning & Nursery Grounds,msp-opendata-marineplan.hub.arcgis.com,405,IE
+Ioos,atn.ioos.us,403,US
+Noaa,apps.glerl.noaa.gov,402,US
+NOAA GeoPlatform (ArcGIS Online),services2.arcgis.com,379,US
+Aodn,thredds.aodn.org.au,364,AU
+Compute 1 (AWS),ec2-50-19-218-171.compute-1.amazonaws.com,362,
+Canadian Urban Data Catalogue (CUDC),geodiscover.alberta.ca,346,CA
+Noaa,oceanwatch.pifsc.noaa.gov,344,US
+Smhi,opendata-download-ocobs.smhi.se,334,SE
+Alaska Center for Conservation Science (ArcGIS Online),services7.arcgis.com,297,US
+Neracoos,data.neracoos.org,285,
+Noaa,oceanview.pfeg.noaa.gov,254,US
+Tnc,cumulus-ags.tnc.org,234,
+Mpi,geospatial.mpi.govt.nz,213,GB|NZ|US
+University of North Carolina Wilmington (ArcGIS Online),services1.arcgis.com,204,GB|US
+Linkedsystems,linkedsystems.uk,199,GB
+Ioc Sealevelmonitoring,www.ioc-sealevelmonitoring.org,196,AG|BM|BS|CC|CW|CY|EG|ER|FJ|FM|GE|GL|GT|GU|HT|JM|JO|KE|KI|KW|LB|MA|ME|MG|MS|MT|MV|NI|NR|NU|OM|PE|PG|RS|RU|SC|SI|TC|TD|TO|VC|VG|WS
+Gcoos,erddap.gcoos.org,193,US
+Cioosatlantic,cioosatlantic.ca,190,CA
+BSH geospatial data (Germany),gdi.bsh.de,186,DE
+ArcGIS Online: Vegetation,data-cdfw.opendata.arcgis.com,179,US
+Rutgers,oceandata.rad.rutgers.edu,175,US
+Understanding Gulf Ocean Systems Data Ca,ugos.info,166,
+Noaa,cwcgom.aoml.noaa.gov,148,US
+Boldsystems,portal.boldsystems.org,143,CA
+ArcGIS Online: opendata,opendata-daerani.hub.arcgis.com,137,GB
+Osupytheas,erddap.osupytheas.fr,137,FR
+Noaa,ferret.pmel.noaa.gov,133,US
+Ogsl,erddap.ogsl.ca,130,CA
+Cioospacific,data.cioospacific.ca,127,CA
+Noaa,coast.noaa.gov,127,US
+Ioos,hfradar.ioos.us,124,US
+Baw,mdi-dienste.baw.de,119,DE
+Environmental Data Center (ArcGIS Online),services2.arcgis.com,116,US
+Nanoos,erddap.nanoos.org,114,US
+Canadian Urban Data Catalogue (CUDC),data.novascotia.ca,104,CA
+ArcGIS organization 71oyC8DzwxKjKDO8,services1.arcgis.com,102,ES|US
+Incois,erddap.incois.gov.in,102,IN
+New York State Department of State (ArcGIS Online),services2.arcgis.com,99,US
+NOAA CO-OPS tides and currents,api.tidesandcurrents.noaa.gov,98,US
+Udel,basin.ceoe.udel.edu,97,US
+GCOOS (ArcGIS Online),services6.arcgis.com,96,US
+Hubocean,api.hubocean.earth,95,
+Ubc,salishsea.eos.ubc.ca,91,CA
+Admin,ocean.bazg.admin.ch,88,CH
+National Park Service (ArcGIS Online),services1.arcgis.com,84,US
+Ifremer,erddap.ifremer.fr,83,FR
+Ifremer,www.ifremer.fr,83,FR
+Smartatlantic,www.smartatlantic.ca,74,CA
+ArcGIS organization qr14biwnHA6Vis6l,services1.arcgis.com,71,US
+Nersc,thredds.nersc.no,71,NO
+The Nature Conservancy (ArcGIS Online),services.arcgis.com,71,US
+University of Rhode Island (ArcGIS Online),services5.arcgis.com,68,US
+Emilia Romagna,mappegis.regione.emilia-romagna.it,65,IT
+Northeastoceandata,services.northeastoceandata.org,65,US
+Hakai,catalogue.hakai.org,64,
+Nbnatlas,records-ws.nbnatlas.org,62,GB
+Open Data Portal | Queensland Government,data.qld.gov.au,62,AU
+Vliz,geo.vliz.be,61,EU
+s3-ap-southeast-2.amazonaws.com,s3-ap-southeast-2.amazonaws.com,61,AU
+ArcGIS organization EDmXP1QjmSmZlvBw,services.arcgis.com,59,US
+Hawaii,geodata.hawaii.gov,59,US
+Mardep,www.mardep.gov.hk,59,HK
+National Institute of Water and Atmospheric Research (ArcGIS Online),services3.arcgis.com,58,GB|NZ|US
+Destination Earth,hda.data.destination-earth.eu,57,EU
+World Wide Fund for Nature (ArcGIS Online),services1.arcgis.com,54,CA|CL|DE|ES|GB|NL|PH|US
+Delaware,hosting.firstmap.delaware.gov,54,US
+Esri Ocean and Coastal Environments (ArcGIS Online),services.arcgis.com,52,FR|US
+California Department of Fish and Wildlife (ArcGIS Online),services2.arcgis.com,51,US
+Canada,open.canada.ca,51,CA
+Marine,atlas.marine.ie,51,IE
+Geodata,gsi.geodata.gov.ie,50,GB|IE
+ArcGIS organization 65nQ6lypeJh7OW1K,services5.arcgis.com,49,AU|US
+ArcGIS organization fC0fYJWjKF3otPE3,services5.arcgis.com,49,JP
+Unh,nhgeodata.unh.edu,48,US
+Motcmpb,imarine.motcmpb.gov.tw,47,TW
+ArcGIS organization x4h61KaW16vFs7PM,services1.arcgis.com,46,US
+Amerigeo,www.amerigeo.org,46,
+David Suzuki Foundation (ArcGIS Online),services9.arcgis.com,45,CA|US
+Naturalsciences,erddap.naturalsciences.be,45,BE
+S4oceanice,er1.s4oceanice.eu,45,EU
+Canadian Urban Data Catalogue (CUDC),openmaps.gov.bc.ca,43,CA
+Emodnet Chemistry,erddap.emodnet-chemistry.eu,43,EU
+Umanitoba,canwinerddap.ad.umanitoba.ca,43,CA
+Pacific Salmon Foundation (ArcGIS Online),services7.arcgis.com,40,CA|US
+California Natural Resources Agency Open,data.cnra.ca.gov,40,US
+Noaa,pub-data.diver.orr.noaa.gov,39,US
+Tamu,gcoos4.tamu.edu,37,US
+ArcGIS organization 4wyiGdBozuyU8M6k,services9.arcgis.com,36,US
+California State University San Marcos GIS Lab (ArcGIS Online),services.arcgis.com,36,US
+Liguria,geoservizi.regione.liguria.it,36,IT
+WorldMap @ Harvard Community (ArcGIS Online),services7.arcgis.com,36,
+Defra group ArcGIS Online organisation (ArcGIS Online),services.arcgis.com,35,GB|US
+Esa Earthcode (Github),esa-earthcode.github.io,35,IO
+MA Executive Office of Energy and Environmental Affairs (ArcGIS Online),services1.arcgis.com,35,US
+ODYSEA LLC (ArcGIS Online),services5.arcgis.com,35,US
+Santee Cooper GIS Laboratory - College of Charleston (ArcGIS Online),services1.arcgis.com,35,US
+ArcGIS organization 6wQDrmShAknsVQfn,services1.arcgis.com,34,US
+ArcGIS organization FDIcdEEqy1cBDX8N,services5.arcgis.com,34,US
+California State Lands Commission (ArcGIS Online),services3.arcgis.com,34,US
+Havochvatten,geodata.havochvatten.se,34,SE
+State of Maine (ArcGIS Online),services1.arcgis.com,34,US
+mdgeodata.md.gov,mdgeodata.md.gov,34,US
+GIS Online at UCLA (ArcGIS Online),services7.arcgis.com,33,US
+Rutgers University (ArcGIS Online),services1.arcgis.com,32,US
+ArcGIS Online: Major Ocean Currents arrowPolys 11 - CSV,climate-amerigeoss.hub.arcgis.com,32,
+ArcGIS Living Atlas Team (ArcGIS Online),services.arcgis.com,31,GB|US
+Admin,ocean.nivel.bazg.admin.ch,31,CH
+Noaa,comet.nefsc.noaa.gov,31,US
+Sciencebase,www.sciencebase.gov,31,US
+Data WA Catalogue,services.slip.wa.gov.au,30,GB|US
+ArcGIS organization 2hkgSaFLPcil5qfg,services4.arcgis.com,30,US
+ArcGIS organization 6EuFgO4fLTqfNOhu,services9.arcgis.com,30,US
+ArcGIS organization JZPISF0sj1UatnZ8,services5.arcgis.com,30,US
+Ucsd,spraydata.ucsd.edu,29,US
+ArcGIS organization vTs6mag4EJANhVTW,services5.arcgis.com,29,
+ArcGIS organization jDGuO8tYggdCCnUJ,services.arcgis.com,28,US
+California Natural Resources Agency Open,gis.data.cnra.ca.gov,28,US
+Nioz,doi.nioz.nl,28,NL
+ArcGIS Online: Parcels - Honolulu County (Island of Oahu) - GeoJSON,prod-histategis.opendata.arcgis.com,27,US
+U.S. Geological Survey (ArcGIS Online),services.arcgis.com,27,US
+IATI Registry,storage.googleapis.com,27,
+Nairobi Convention Secretariat (ArcGIS Online),services8.arcgis.com,26,KE|US
+Auckland Council (ArcGIS Online),services1.arcgis.com,26,NZ
+Geospatial Support for EAST Students and Facilitators (ArcGIS Online),services1.arcgis.com,26,US
+Maui County (ArcGIS Online),services3.arcgis.com,26,US
+Noaa,gis.ngdc.noaa.gov,26,US
+South African Environmental Observation Network (SAEON) (ArcGIS Online),services7.arcgis.com,26,ZA
+open.canada.ca,www.canada.ca,26,CA
+FAO Data Catalogue,data.apps.fao.org,26,
+BrisMAP Public (ArcGIS Online),services2.arcgis.com,25,AU|US
+CIOOS/SIOOC Data catalogue,catalogue.ogsl.ca,25,CA
+National Audubon Society (ArcGIS Online),services1.arcgis.com,25,US
+Statistics Norway PxWeb,data.ssb.no,25,NO
+University of Central Florida Federated Identity (ArcGIS Online),services.arcgis.com,25,US
+NTNU (ArcGIS Online),services1.arcgis.com,24,DE|ES|NO|US
+Hawaiʻi Statewide GIS Program (ArcGIS Online),services.arcgis.com,24,US
+The Claremont Colleges Library (ArcGIS Online),services.arcgis.com,24,US
+Tplgis,server6.tplgis.org,24,US
+University of California San Diego (ArcGIS Online),services1.arcgis.com,24,US
+ArcGIS organization 9NvE8jKNWWlDGsUJ,services1.arcgis.com,23,CA|KR|US
+ArcGIS organization T1XS85Rf93qeUx9G,services1.arcgis.com,23,US
+Marine,data.marine.ie,23,IE
+mapsdep.nj.gov,mapsdep.nj.gov,23,US
+ArcGIS organization HmwnYiJTBZ4UkySc,services1.arcgis.com,22,US
+ArcGIS organization IsDCghZ73NgoYoz5,services2.arcgis.com,22,US
+CENDHOC (ArcGIS Online),services1.arcgis.com,22,CL
+College of the Atlantic GIS (ArcGIS Online),services1.arcgis.com,22,US
+Dept. of Primary Industries and Regional Development (ArcGIS Online),services.arcgis.com,22,AU
+Greece National Data Portal,geoserver.hcmr.gr,22,GR
+Nasa,cmr.earthdata.nasa.gov,22,US
+URSpatial (ArcGIS Online),services.arcgis.com,22,US
+ArcGIS Online: National Water Model (10 Day Forecast) - KML,water-amerigeoss.opendata.arcgis.com,22,
+Cogitatiopress,www.cogitatiopress.com,22,
+Canadian Urban Data Catalogue (CUDC),raw.githubusercontent.com,21,AS|CK|CX|FJ|FM|GU|KI|MH|MP|NF|NU|PF|PN|PW|SB|TK|TO|TV|UM|VU|WF
+data.gov.au,services.ga.gov.au,21,AU|US
+Boem,geoseas.boem.gov,21,US
+Esri (ArcGIS Online),services.arcgis.com,21,US
+NYC Open Data (Socrata),data.cityofnewyork.us,21,US
+Poltekpel Banten,ejournal.poltekpel-banten.ac.id,21,ID
+USGS Water Services,waterservices.usgs.gov,21,US
+data.gis.ny.gov,data.gis.ny.gov,21,US
+ArcGIS organization d4npRwdPs3CyJzig,services1.arcgis.com,20,GB|US
+City of Oceanside AGOL (ArcGIS Online),services5.arcgis.com,20,US
+Esri GIS Education (ArcGIS Online),services.arcgis.com,20,US
+Kingcounty,data.kingcounty.gov,20,US
+NC Dept. of Environmental Quality (ArcGIS Online),services2.arcgis.com,20,US
+data.imas.utas.edu.au,data.imas.utas.edu.au,20,AU
+Портал відкритих даних,data.gov.ua,20,UA
+Napsgfoundation,prep-response-portal.napsgfoundation.org,20,
+Tufts University (ArcGIS Online),services3.arcgis.com,19,ES|JP|US
+data.gov.au,public-services.slip.wa.gov.au,19,AU|GB|US
+Applications Prototype Lab (ArcGIS Online),services.arcgis.com,19,US
+Canadian Watershed Information Network,canwin-datahub.ad.umanitoba.ca,19,CA
+Cohasset Center for Student Coastal Research (ArcGIS Online),services4.arcgis.com,19,US
+Psa,openstat.psa.gov.ph,19,PH
+Stanford University (ArcGIS Online),services.arcgis.com,19,US
+gis.dnr.wa.gov,gis.dnr.wa.gov,19,US
+ArcGIS organization RbjlVNAtGGPx1hPV,services5.arcgis.com,18,GB|US
+Hakai Institute (ArcGIS Online),services1.arcgis.com,18,CA|US
+Spatial Sciences Institute (ArcGIS Online),services1.arcgis.com,18,CN|US
+Department of Energy & Environmental Protection (ArcGIS Online),services1.arcgis.com,18,US
+Idee,www.idee.es,18,ES
+STEMworks Hawaii K12 GIS Education (ArcGIS Online),services.arcgis.com,18,US
+Smhi,opendata-view.smhi.se,18,SE
+University of Delaware (ArcGIS Online),services.arcgis.com,18,US
+Washington State Department of Ecology (ArcGIS Online),services.arcgis.com,18,US
+kart.hi.no,kart.hi.no,18,NO
+risegis.ri.gov,risegis.ri.gov,18,US
+ArcGIS organization 0BLakgVcDpWpuh4i,services1.arcgis.com,17,AU|CO|GB|US
+ArcGIS organization 9nfxWATFamVUTTGb,services3.arcgis.com,17,US
+ArcGIS organization OKRmMRUG6dRnfUBh,services2.arcgis.com,17,NZ
+Maryland,opendata.maryland.gov,17,US
+Monmouth University (ArcGIS Online),services6.arcgis.com,17,US
+Noaa,opendap.co-ops.nos.noaa.gov,17,US
+Oregon ArcGIS Online (ArcGIS Online),services.arcgis.com,17,US
+Shom,services.data.shom.fr,17,FR
+"University of California, Santa Barbara (ArcGIS Online)",services1.arcgis.com,17,US
+"MaREI Centre for Energy, Climate and Marine research (ArcGIS Online)",services6.arcgis.com,16,IE|US
+Coastal Resources Center (ArcGIS Online),services7.arcgis.com,16,US
+Luke,statdb.luke.fi,16,FI
+gis.lcd.state.or.us,gis.lcd.state.or.us,16,US
+ArcGIS Online publisher,lkfyxb9zdq7vaoam.svcsdev.arcgis.com,15,US
+ArcGIS organization 8veDRDlhXWywYP3S,services.arcgis.com,15,US
+ArcGIS organization NzAqpeLbvbvoP3qh,services2.arcgis.com,15,US
+Boxxapps,opendata2.boxxapps.com,15,IT
+Invemar,gis.invemar.org.co,15,ES
+MTC/ABAG (ArcGIS Online),services3.arcgis.com,15,US
+Miljodirektoratet,kart.miljodirektoratet.no,15,NO
+Nrc,nrcmaps.nrc.govt.nz,15,US
+Nrp Nautilus,s3-west.nrp-nautilus.io,15,IO
+The University of British Columbia (ArcGIS Online),services2.arcgis.com,14,CA|US
+ArcGIS organization BSnEnFfEn54YLVeq,services1.arcgis.com,14,US
+Bmdc,www.bmdc.be,14,BE
+City of Virginia Beach - Online Mapping (ArcGIS Online),services2.arcgis.com,14,US
+County of Kauai (ArcGIS Online),services1.arcgis.com,14,US
+Fmi,opendata.fmi.fi,14,FI
+Marine Conservation Institute (ArcGIS Online),services5.arcgis.com,14,US
+Oceansideca,gis.oceansideca.org,14,US
+Oregon State University GISci (ArcGIS Online),services1.arcgis.com,14,US
+Pwcva,gisweb.pwcva.gov,14,US
+Usgs,water.usgs.gov,14,US
+Microsoft Planetary Computer,planetarycomputer.microsoft.com,14,
+Office of Treaty Settlements and Takutai Moana (ArcGIS Online),services9.arcgis.com,13,GB|NZ|US
+"UNEP, Office of Science (ArcGIS Online)",services6.arcgis.com,13,GB|US
+ArcGIS Instant Apps (ArcGIS Online),services5.arcgis.com,13,US
+ArcGIS organization PUlaSm4kMYdvsVw9,services3.arcgis.com,13,US
+Eurostat dissemination API,ec.europa.eu,13,EU
+James Madison University (ArcGIS Online),services1.arcgis.com,13,US
+Mass,arcgisserver.digital.mass.gov,13,US
+Ncem,devemgis.ncem.org,13,US
+Open data van de Overheid,geo.rijkswaterstaat.nl,13,NL
+Psmfc,gis.psmfc.org,13,US
+Strafford Regional Planning Commission (ArcGIS Online),services1.arcgis.com,13,US
+The University of Georgia (ArcGIS Online),services2.arcgis.com,13,US
+University of Minnesota (ArcGIS Online),services.arcgis.com,13,US
+s3-eu-west-1.amazonaws.com,s3-eu-west-1.amazonaws.com,13,GB
+Hogeschool Van Hall Larenstein (ArcGIS Online),services6.arcgis.com,12,GB|NL|US
+ArcGIS organization 0uK40YtWoUkQMlYW,services-eu1.arcgis.com,12,DK
+ArcGIS organization iA7fZQOnjY9D67Zx,services-ap1.arcgis.com,12,US
+Blue Water GIS (ArcGIS Online),services2.arcgis.com,12,US
+Bureau of Ocean Energy Management ArcGIS Online (AGOL) (ArcGIS Online),services7.arcgis.com,12,US
+Cengage (ArcGIS Online),services2.arcgis.com,12,US
+Cityofventura,map.cityofventura.net,12,US
+Ecan,gis.ecan.govt.nz,12,US
+Florida Fish and Wildlife Conservation Commission (ArcGIS Online),services2.arcgis.com,12,US
+HRPDC & HRTPO (ArcGIS Online),services3.arcgis.com,12,US
+Icon Water - AGOL (ArcGIS Online),services7.arcgis.com,12,AU
+Michigan State University Online ArcGIS (ArcGIS Online),services.arcgis.com,12,US
+Miljodirektoratet,kart3.miljodirektoratet.no,12,NO
+Myfwc,gis.myfwc.com,12,US
+Naturalsciences,spatial.naturalsciences.be,12,BE
+Old Dominion University (ArcGIS Online),services.arcgis.com,12,US
+San Mateo County (ArcGIS Online),services.arcgis.com,12,US
+U.S. EPA (ArcGIS Online),services.arcgis.com,12,US
+U.S. Fish & Wildlife Service (ArcGIS Online),services.arcgis.com,12,US
+Understanding Gulf Ocean Systems Data Ca,gulfhub.tamucc.edu,12,US
+catalogue.aodn.org.au,catalogue.aodn.org.au,12,AU
+data.gov.au,api.aims.gov.au,12,AU
+Ondeckdata,erddap.ondeckdata.com,12,
+pro-ags1.dfs.un.org,pro-ags1.dfs.un.org,12,
+GEOcentro USFQ (ArcGIS Online),services5.arcgis.com,11,EC|GB|US
+ArcGIS organization Lmcs3aS4AodOs221,services5.arcgis.com,11,GB|US
+Canadian Parks and Wilderness Society (ArcGIS Online),services5.arcgis.com,11,CA|US
+FEMA AGOL (ArcGIS Online),services.arcgis.com,11,GB|US
+Northeastern University (ArcGIS Online),services1.arcgis.com,11,CN|US
+Stat,osp-sdg.stat.gov.lt,11,LT|US
+543rd Engineer Detachment GPC (ArcGIS Online),services5.arcgis.com,11,US
+ArcGIS StoryMaps (ArcGIS Online),services.arcgis.com,11,US
+Brickell Academy at Old Donation School (ArcGIS Online),services4.arcgis.com,11,US
+County of Los Angeles (ArcGIS Online),services.arcgis.com,11,US
+Esri U.S. Federal Datasets (ArcGIS Online),services2.arcgis.com,11,US
+GeoCAS Institute (ArcGIS Online),services1.arcgis.com,11,US
+Glc,gis.glc.org,11,US
+Hagstofa,px.hagstofa.is,11,IS
+Public ArcGIS Online (ArcGIS Online),services6.arcgis.com,11,US
+University of Massachusetts-Amherst (ArcGIS Online),services.arcgis.com,11,US
+Virginia Tech (ArcGIS Online),services2.arcgis.com,11,US
+Visualising Ballarat Data Catalogue,geo.cerdi.edu.au,11,AU
+Western Washington University (Academic) (ArcGIS Online),services.arcgis.com,11,US
+ca.dep.state.fl.us,ca.dep.state.fl.us,11,US
+geoappext.nrcan.gc.ca,geoappext.nrcan.gc.ca,11,US
+IATI Registry,iati-reporting.s3.amazonaws.com,11,
+Marinespeed,chorizo.marinespeed.org,11,
+Africa GeoPortal (ArcGIS Online),services8.arcgis.com,10,AE|GB|US
+ArcGIS organization gPAeJh41oYEgw9wR,services.arcgis.com,10,BE|NL|US
+ArcGIS organization fNDSmjeOehME2psY,services8.arcgis.com,10,CA|US
+Europa,marine.discomap.eea.europa.eu,10,EU|RU
+ArcGIS organization 44C95LOqZjbh8Row,services1.arcgis.com,10,US
+ArcGIS organization RQcpPaCpMAXzUI5g,services2.arcgis.com,10,US
+ArcGIS organization b3fMqPOmotX6SV4k,services.arcgis.com,10,US
+ArcGIS organization g7OtfotLzNoMMSUp,services5.arcgis.com,10,US
+ArcGIS organization jzlMsmscSx37zEbh,services4.arcgis.com,10,US
+ArcGIS organization vQ3OYhyPnynK3Zqb,services3.arcgis.com,10,US
+Bayareametro,data.bayareametro.gov,10,US
+Copernicus,catalogue.dataspace.copernicus.eu,10,EU
+Copernicus,stac.dataspace.copernicus.eu,10,EU
+Doe,prod.arcgis.netl.doe.gov,10,US
+Jefferson Middle School (ArcGIS Online),services4.arcgis.com,10,US
+Latvijas Atvērto datu portāls,data.gov.lv,10,LV
+Monmouth County NJ GIS (ArcGIS Online),services1.arcgis.com,10,US
+"Ocean City, MD (ArcGIS Online)",services1.arcgis.com,10,US
+QSpatial Live (ArcGIS Online),services1.arcgis.com,10,AU
+The Evergreen State College (TESC) (ArcGIS Online),services3.arcgis.com,10,US
+The GRACE Project Organization (ArcGIS Online),services4.arcgis.com,10,US
+Uni Hamburg,icdc.cen.uni-hamburg.de,10,DE
+University of Michigan (ArcGIS Online),services1.arcgis.com,10,US
+West Chester University GIS (ArcGIS Online),services1.arcgis.com,10,US
+Eurobis,www.eurobis.org,10,
+Environment,gis.environment.gov.au,9,AU|GB|US
+The GPML (ArcGIS Online),services3.arcgis.com,9,DE|DK|US
+ArcGIS organization 2zdLB7oo67wV4Ezg,services-eu1.arcgis.com,9,GB|IE
+ArcGIS organization wNMu5mi0eOU5tY3u,services-eu1.arcgis.com,9,FR|US
+Northland Regional Council (ArcGIS Online),services2.arcgis.com,9,NZ|US
+ArcGIS organization 0MSEUqKaxRlEPj5g,services1.arcgis.com,9,US
+ArcGIS organization jcVUvxpWnajErgCr,services7.arcgis.com,9,US
+ArcGIS organization uafdUvFoEqq0BFXp,services7.arcgis.com,9,US
+ArcGIS organization ypkPEy1AmwPKGNNv,services-ap1.arcgis.com,9,AU
+CNMI Division of Coastal Resources Management (ArcGIS Online),services.arcgis.com,9,US
+Copernicus,cds.climate.copernicus.eu,9,EU
+Delaware,enterprise.firstmap.delaware.gov,9,US
+Enea,dati.enea.it,9,IT
+"GeoAdaptive, LLC (ArcGIS Online)",services2.arcgis.com,9,US
+Golden Gate National Parks Conservancy (ArcGIS Online),services5.arcgis.com,9,US
+Great Lakes Commission (ArcGIS Online),services7.arcgis.com,9,US
+Inspire Geoportal,www.inspire-geoportal.lt,9,LT
+Nrsc,bhuvan-vec2.nrsc.gov.in,9,IN
+Purdue University (ArcGIS Online),services1.arcgis.com,9,US
+RI Health Dept. Online Mapping (ArcGIS Online),services1.arcgis.com,9,US
+Samford's Geospatial Portal (ArcGIS Online),services1.arcgis.com,9,US
+Sdsc,wifire-data.sdsc.edu,9,US
+gISU (ArcGIS Online),services1.arcgis.com,9,US
+ArcGIS Online: Soil Colors CONUS 125 cm 2022,www.arcgis.com,9,
+Openei,data.openei.org,9,
+Opentopography,portal.opentopography.org,9,
+S3 (AWS),production-raw-data-api.s3.amazonaws.com,9,
+ArcGIS organization poOcx60xJtGtoR7g,services7.arcgis.com,8,GB|US
+US Aviation Weather Center,aviationweather.gov,8,CA|US
+University of Illinois (ArcGIS Online),services.arcgis.com,8,CN|US
+ArcGIS Online for Maryland (ArcGIS Online),services.arcgis.com,8,US
+ArcGIS organization C2yYpahRgrVlBqfg,services8.arcgis.com,8,US
+ArcGIS organization IkktFdUAcY3WrH25,services9.arcgis.com,8,US
+ArcGIS organization KB6uNVj5ZcJr7jUP,services-eu1.arcgis.com,8,US
+ArcGIS organization RNiDAwzXkRi0jwcI,services-eu1.arcgis.com,8,US
+ArcGIS organization gTlspGrEJpLEbIN9,services7.arcgis.com,8,US
+ArcGIS organization jzHsRPm3d1aMJuBp,services9.arcgis.com,8,US
+ArcGIS organization qyhIwgTR80dzQD7l,services2.arcgis.com,8,US
+CCBC - Geospatial Applications Program (ArcGIS Online),services1.arcgis.com,8,US
+Clark University (ArcGIS Online),services5.arcgis.com,8,US
+Conservation International (ArcGIS Online),services.arcgis.com,8,US
+Emodnet Bathymetry,ows.emodnet-bathymetry.eu,8,EU
+Esri JSAPI (ArcGIS Online),services.arcgis.com,8,US
+HDR ArcGIS Online (ArcGIS Online),services.arcgis.com,8,US
+Hong Kong Open Data Portal,cd.epic.epd.gov.hk,8,HK
+Indiana University (ArcGIS Online),services.arcgis.com,8,US
+Ird,dataverse.ird.fr,8,FR
+KAPSARC Data Portal,datasource.kapsarc.org,8,SA
+MOE-EduGIS (ArcGIS Online),services5.arcgis.com,8,SG
+MSP Knowledge Catalogue,catalogue.tools4msp.eu,8,EU
+Marine,basemap.marine.ie,8,GB
+Ngu,nedlasting.ngu.no,8,NO
+Noaa,mapservices.weather.noaa.gov,8,US
+Ofb,wxs.ofb.fr,8,FR
+Robinson Secondary School (ArcGIS Online),services4.arcgis.com,8,US
+"Rowan University Geography, Planning, & Sustainability (ArcGIS Online)",services8.arcgis.com,8,US
+Statistics Canada WDS,www150.statcan.gc.ca,8,CA
+University of Tennessee at Chattanooga (ArcGIS Online),services.arcgis.com,8,US
+gnb.socrata.com,gnb.socrata.com,8,CA
+Amerigeoss,climate-amerigeoss.hub.arcgis.com,8,
+Doi,dx.doi.org,8,
+S3 (AWS),meeo-s3.s3.amazonaws.com,8,
+ArcGIS organization BPanpTIPlgauyyhp,services2.arcgis.com,7,GB|US
+ArcGIS organization jYHC0Oa2n7z2uKcM,services1.arcgis.com,7,CA|US
+Department of Conservation (ArcGIS Online),services1.arcgis.com,7,GB|NZ
+Universidade de Lisboa (ArcGIS Online),services3.arcgis.com,7,BG|PT
+ArcGIS organization 70X0jB6UtsfE8L2y,services6.arcgis.com,7,US
+ArcGIS organization EGheeB0VDT6EarZv,services9.arcgis.com,7,US
+ArcGIS organization EksqEpNbvM07IZjR,services3.arcgis.com,7,AU
+ArcGIS organization G6DXGK5rvqNmL5gx,services5.arcgis.com,7,US
+ArcGIS organization HWxP3uhYtUIaFpDD,services6.arcgis.com,7,US
+ArcGIS organization UAsvVbK8QjNQizHD,services3.arcgis.com,7,US
+ArcGIS organization W1uyphp8h2tna3qJ,services5.arcgis.com,7,US
+ArcGIS organization YiULsZbgRKmBtdZN,services1.arcgis.com,7,US
+ArcGIS organization aknZhNpfQunD2p0u,services6.arcgis.com,7,US
+Capecodcommission,gis-services.capecodcommission.org,7,US
+City of Providence (ArcGIS Online),services6.arcgis.com,7,US
+Environment Agency (ArcGIS Online),services1.arcgis.com,7,GB
+Federalregister,www.federalregister.gov,7,US
+Florida Department of Environmental Protection (ArcGIS Online),services1.arcgis.com,7,US
+Florida Department of Health (ArcGIS Online),services1.arcgis.com,7,US
+Gables GIS (ArcGIS Online),services1.arcgis.com,7,US
+Gmu,dataverse.orc.gmu.edu,7,US
+Hbrc,data.hbrc.govt.nz,7,NZ
+Hidrografico,webgeo4.hidrografico.pt,7,PT
+Hrsd,geo.hrsd.com,7,US
+Ireland Open Data Portal,ws.cso.ie,7,IE
+Mdi De Dienste,mdi-de-dienste.org,7,DE
+New York State Department of Environmental Conservation (ArcGIS Online),services6.arcgis.com,7,US
+Pacific Northwest National Laboratory (ArcGIS Online),services7.arcgis.com,7,US
+Palomar College (ArcGIS Online),services1.arcgis.com,7,US
+Santamonica,gis.santamonica.gov,7,US
+Usf,gis.waterinstitute.usf.edu,7,US
+Westchestergov,giswww.westchestergov.com,7,US
+Whiterockcity,maps.whiterockcity.ca,7,US
+Wyo,portal.wsgs.wyo.gov,7,US
+data.csiro.au,data.csiro.au,7,AU
+data.gov.au,data.melbourne.vic.gov.au,7,AU
+data.ny.gov,data.ny.gov,7,US
+www.mcgi.state.mi.us,www.mcgi.state.mi.us,7,US
+ArcGIS Online: seep anomaly confirmed buried carbonate - GeoJSON,boem-metaport-boem.hub.arcgis.com,7,
+ArcGIS organization DkiP78JSGPUvyPXT,services8.arcgis.com,6,BZ|US
+ArcGIS organization kJjJ8lxiyn8LOYyS,services7.arcgis.com,6,CN|US
+Geospatial Lab (ArcGIS Online),services4.arcgis.com,6,HK|US
+Jacobs ArcGIS Online (ArcGIS Online),services9.arcgis.com,6,GB|US
+Palau Automated Land And Resource Information System (ArcGIS Online),services7.arcgis.com,6,PW|US
+Smithsonian Institution (ArcGIS Online),services2.arcgis.com,6,PA|US
+www.apps.geomatics.gov.nt.ca,www.apps.geomatics.gov.nt.ca,6,CA|US
+Afcd,www.afcd.gov.hk,6,HK
+Agglo Rochefortocean,sig.agglo-rochefortocean.fr,6,FR
+American Samoa Government (ArcGIS Online),services5.arcgis.com,6,US
+ArcGIS Online: Fairfax County,data-fairfaxcountygis.opendata.arcgis.com,6,US
+ArcGIS organization 8vAM7KeYw8jt7MVr,services1.arcgis.com,6,GB
+ArcGIS organization DPQ7yLDIWIyMUXzD,services9.arcgis.com,6,US
+ArcGIS organization OgE7FqbWDqBBSJ4f,services7.arcgis.com,6,PL
+ArcGIS organization ROYridpvbRwP5woD,services1.arcgis.com,6,US
+ArcGIS organization SXTf0Ge1QQ2wZRs9,services5.arcgis.com,6,US
+ArcGIS organization ag0PQXb0mBxAuSZw,services8.arcgis.com,6,US
+ArcGIS organization bArMqVntXvGojzII,services7.arcgis.com,6,US
+ArcGIS organization iRXQh9fsThHqHhAy,services2.arcgis.com,6,US
+ArcGIS organization s8wtJX9suxFen6TA,services.arcgis.com,6,US
+ArcGIS organization sbUjYcF5FKWKRP5Q,services6.arcgis.com,6,AU
+ArcGIS organization yBpcgwrSzC8e9mEj,services3.arcgis.com,6,US
+Atlas Digital de Puerto Rico (ArcGIS Online),services5.arcgis.com,6,US
+CA Coastal Commission Mapping Unit (ArcGIS Online),services9.arcgis.com,6,US
+Canadian Urban Data Catalogue (CUDC),catalogue.data.gov.bc.ca,6,CA
+County of Santa Barbara (ArcGIS Online),services.arcgis.com,6,US
+Duke University (ArcGIS Online),services1.arcgis.com,6,US
+Emily Griffith Technical College (ArcGIS Online),services7.arcgis.com,6,US
+Esri Geo Experience Center (ArcGIS Online),services9.arcgis.com,6,US
+Friuliveneziagiulia,www.dati.friuliveneziagiulia.it,6,IT
+Georgia State University (ArcGIS Online),services1.arcgis.com,6,US
+Geoscience Australia (ArcGIS Online),services1.arcgis.com,6,AU
+Geovoorziening,services.rce.geovoorziening.nl,6,NL
+International Joint Commission of Canada and the U.S. (ArcGIS Online),services2.arcgis.com,6,US
+Michael Baker International (ArcGIS Online),services1.arcgis.com,6,US
+Modelscope,www.modelscope.cn,6,CN
+National Geographic Society - GenGeo (ArcGIS Online),services3.arcgis.com,6,US
+Openveda,openveda.cloud,6,US
+RI Coastal Resources Management Council (ArcGIS Online),services8.arcgis.com,6,US
+San Diego Association of Governments (ArcGIS Online),services1.arcgis.com,6,US
+Simon Fraser University (ArcGIS Online),services.arcgis.com,6,CA
+Statistical Office of Slovenia PxWeb,pxweb.stat.si,6,SI
+Tcarta Gis,arcgis.tcarta-gis.com,6,US
+U.S. Forest Service (ArcGIS Online),services1.arcgis.com,6,US
+USCG FSLTP Portal (ArcGIS Online),services9.arcgis.com,6,US
+Uconn,cteco.uconn.edu,6,US
+University of New Brunswick (ArcGIS Online),services1.arcgis.com,6,US
+University of Texas at Arlington (ArcGIS Online),services5.arcgis.com,6,US
+Virginia Institute of Marine Science (ArcGIS Online),services1.arcgis.com,6,US
+Wildlife Conservation Society (ArcGIS Online),services.arcgis.com,6,US
+William Penn Geospatial Portal (ArcGIS Online),services3.arcgis.com,6,US
+geofiles.be.ch,geofiles.be.ch,6,CH
+gisuat.mcgi.state.mi.us,gisuat.mcgi.state.mi.us,6,US
+vector.sitg.ge.ch,vector.sitg.ge.ch,6,CH
+ArcGIS organization bNiqqiBMgHBAmn2w,services4.arcgis.com,6,
+FAO Data Catalogue,api.data.apps.fao.org,6,
+UN Statistics / SDG API,unstats.un.org,6,
+Ministry for Primary Industries (ArcGIS Online),services2.arcgis.com,5,GB|NZ|US
+ArcGIS organization 1tWe8DOygqtrHXCa,services3.arcgis.com,5,GB|US
+ArcGIS organization OffW2AlaoR7SI7I9,services-eu1.arcgis.com,5,GB|US
+ArcGIS organization TUZOXGJ0VXTtmQu3,services3.arcgis.com,5,CN|GB
+ArcGIS organization V9zL6jzLdVCgrx6S,services8.arcgis.com,5,GB|NZ
+ArcGIS organization ZozYr1WfCwexXgcn,services1.arcgis.com,5,CA|US
+ArcGIS organization mApuFcu5vxy76Tiv,services8.arcgis.com,5,AU|US
+ArcGIS organization nV0HyP5uKL48nAKr,services3.arcgis.com,5,GH|US
+City of Fredericton - Ville de Fredericton (ArcGIS Online),services2.arcgis.com,5,GB|US
+Data4MOZ (ArcGIS Online),services7.arcgis.com,5,BR|GB
+Digital-Earth.eu Centres of Excellence (ArcGIS Online),services1.arcgis.com,5,BE|US
+Education and Research | Éducation et recherche (ArcGIS Online),services.arcgis.com,5,CA|US
+Energy Branch DEM GNL (ArcGIS Online),services8.arcgis.com,5,CA|US
+Faculté des Lettres Sorbonne Université (ArcGIS Online),services9.arcgis.com,5,FR|US
+The University of the West Indies (ArcGIS Online),services1.arcgis.com,5,TT|US
+Wild Bird Trust (ArcGIS Online),services7.arcgis.com,5,US|ZA
+ADSK-NAMER (ArcGIS Online),services9.arcgis.com,5,US
+ArcGIS Maps for the Nation (ArcGIS Online),services.arcgis.com,5,US
+ArcGIS Online: ACT Canopy Cover 2020 1m WESTON,actmapi-actgov.opendata.arcgis.com,5,AU
+ArcGIS organization 2yAm9dFr5Sk8XULx,services7.arcgis.com,5,US
+ArcGIS organization 4XnW0LugjJEsZM3v,services6.arcgis.com,5,US
+ArcGIS organization 5CLrTLHFl08WO7ny,services4.arcgis.com,5,US
+ArcGIS organization 89nf7xPK7dpkEZnF,services8.arcgis.com,5,AU
+ArcGIS organization 8T9oLChn87ExnqDl,services2.arcgis.com,5,US
+ArcGIS organization B4MnusZHL3vmqU3t,services1.arcgis.com,5,US
+ArcGIS organization BJsTwyFppSPsP7Nt,services2.arcgis.com,5,US
+ArcGIS organization E9nHvoLcPMrfFwgp,services9.arcgis.com,5,GB
+ArcGIS organization I88u8wDux7Kis2GZ,services3.arcgis.com,5,US
+ArcGIS organization JMPIT6s30gZCBizs,services4.arcgis.com,5,DE
+ArcGIS organization M7jfYoTaLM0yE75d,services.arcgis.com,5,US
+ArcGIS organization N65dxSyMVFhifVLo,services7.arcgis.com,5,US
+ArcGIS organization OO2s4OoyCZkYJ6oE,services6.arcgis.com,5,US
+ArcGIS organization OtvI1SexACVJlil5,services9.arcgis.com,5,US
+ArcGIS organization QWTIBrIwJUnIdXND,services1.arcgis.com,5,US
+ArcGIS organization Ue34o2qxc9h430hV,services3.arcgis.com,5,US
+ArcGIS organization WLUaDXlM9e7NEAEl,services6.arcgis.com,5,US
+ArcGIS organization ci0kSsvh5NZiSvac,services9.arcgis.com,5,US
+ArcGIS organization gugky7Lw7jXLeqF5,services-eu1.arcgis.com,5,NO
+ArcGIS organization iM8Z8cy9AkfcFfro,services9.arcgis.com,5,US
+ArcGIS organization iq8zYa0SRsvIFFKz,services2.arcgis.com,5,US
+ArcGIS organization l5y3Vt2v5EQrESk5,services8.arcgis.com,5,US
+ArcGIS organization lnVW0dLI3fvST2hd,services-ap1.arcgis.com,5,AU
+ArcGIS organization n1YM8pTrFmm7L4hs,services7.arcgis.com,5,US
+ArcGIS organization qRqOFxxnwUHOSocZ,services2.arcgis.com,5,CA
+ArcGIS organization rUYLHezFtXEbE5Eh,services2.arcgis.com,5,US
+ArcGIS organization rbb2iNgQKjXE64T8,services6.arcgis.com,5,IN
+ArcGIS organization tuxY7TQIaDhLWARO,services6.arcgis.com,5,US
+Biodiversityireland,maps.biodiversityireland.ie,5,IE
+CSA Ocean Sciences Inc. (ArcGIS Online),services3.arcgis.com,5,US
+Canada,api-proxy.edh-cde.dfo-mpo.gc.ca,5,CA
+Capecoral,capeims.capecoral.gov,5,US
+Ccc,gis.ccc.govt.nz,5,NZ
+Clemson University (ArcGIS Online),services1.arcgis.com,5,US
+Cookcountyil,gis.cookcountyil.gov,5,US
+Cuesta College (ArcGIS Online),services9.arcgis.com,5,US
+Disl,data.disl.edu,5,US
+Esri Aid & Development Team (ArcGIS Online),services.arcgis.com,5,US
+Esri China (Hong Kong) Ltd. (ArcGIS Online),services3.arcgis.com,5,US
+Esri France (ArcGIS Online),services.arcgis.com,5,FR
+Esri National Government (ArcGIS Online),services.arcgis.com,5,US
+Esri SDI (ArcGIS Online),services8.arcgis.com,5,US
+Fiskeridir,gis.fiskeridir.no,5,NO
+Florida International University GIS Center (ArcGIS Online),services2.arcgis.com,5,US
+Geoseaportal,www.geoseaportal.de,5,DE
+Geospatial Analysis Lab (GsAL) at USF (ArcGIS Online),services5.arcgis.com,5,US
+GreenInfo Network (ArcGIS Online),services1.arcgis.com,5,US
+Hagstova,statbank.hagstova.fo,5,FO
+Institute for China-America Studies (ArcGIS Online),services9.arcgis.com,5,US
+King County (ArcGIS Online),services.arcgis.com,5,US
+Met,www.met.ie,5,IE
+NASA ArcGIS Online (ArcGIS Online),services7.arcgis.com,5,US
+National Geographic Learning K-12 (ArcGIS Online),services2.arcgis.com,5,US
+NatureScot (ArcGIS Online),services1.arcgis.com,5,GB
+Necca,geohub.necca.gov.gr,5,GR
+New Mexico Highlands University (ArcGIS Online),services1.arcgis.com,5,US
+Noaa,maps.coast.noaa.gov,5,US
+North Carolina State University (ArcGIS Online),services1.arcgis.com,5,US
+Northern Agricultural Catchments Council (ArcGIS Online),services1.arcgis.com,5,AU
+Open data van de Overheid,inspire1.bathy.online,5,NL
+Oregon Community Colleges (ArcGIS Online),services2.arcgis.com,5,US
+RSPB (ArcGIS Online),services1.arcgis.com,5,GB
+Regional Centre for Mapping of Resource for Development (ArcGIS Online),services6.arcgis.com,5,US
+Salisbury University (ArcGIS Online),services1.arcgis.com,5,US
+Santacruzca,vwgisportal2.santacruzca.gov,5,US
+Smith College Spatial Analysis Lab (ArcGIS Online),services.arcgis.com,5,US
+State of Florida Geographic Information Office (ArcGIS Online),services9.arcgis.com,5,US
+State of Rhode Island - DOA - Division of Planning (ArcGIS Online),services1.arcgis.com,5,US
+Temple University (ArcGIS Online),services.arcgis.com,5,US
+The Crown Estate - Mapping Portal (ArcGIS Online),services2.arcgis.com,5,GB
+Turismodeportugal,geo.turismodeportugal.pt,5,PT
+UGA Skidaway Institute of Oceanography (ArcGIS Online),services6.arcgis.com,5,US
+University of Alaska (ArcGIS Online),services.arcgis.com,5,US
+University of South Florida GIS (ArcGIS Online),services1.arcgis.com,5,US
+Uri,maps.edc.uri.edu,5,US
+Versar Inc. (ArcGIS Online),services9.arcgis.com,5,US
+Westerly Land Trust (ArcGIS Online),services2.arcgis.com,5,US
+World Health Organization (ArcGIS Online),services.arcgis.com,5,US
+data.europa.eu (EU open data portal),ocean.bazg.admin.ch,5,EU
+wfs.geo.sz.ch,wfs.geo.sz.ch,5,CH
+www.geelongdataexchange.com.au,www.geelongdataexchange.com.au,5,AU
+Cdmsmithgis,gishost.cdmsmithgis.com,5,
+World Bank Indicators API,api.worldbank.org,5,
+ArcGIS Online for Ontario Schools (ArcGIS Online),services.arcgis.com,4,CA|US
+ArcGIS organization 3wgo1qnFL7YLB8lT,services.arcgis.com,4,CA|US
+Australian Capital Territory Government (ArcGIS Online),services1.arcgis.com,4,AU|GB
+Department of City Planning (ArcGIS Online),services1.arcgis.com,4,HK|US
+"Dept of Climate Change, Energy, the Environment & Water (ArcGIS Online)",services1.arcgis.com,4,AU|GB
+International Geodesign Collaboration (ArcGIS Online),services9.arcgis.com,4,BR|CA
+ProtectedSeas (ArcGIS Online),services9.arcgis.com,4,CA|US
+data.gov.au,mapprod3.environment.nsw.gov.au,4,AU|US
+daten.bw - Das Datenportal für Baden-Wür,haleconnect.com,4,AT|DK
+Aeronomie,data.aeronomie.be,4,BE
+Alaska,dec.alaska.gov,4,US
+ArcGIS Tutorials (ArcGIS Online),services2.arcgis.com,4,US
+ArcGIS organization 0zuv5ZFEncBv7NQQ,services-eu1.arcgis.com,4,GB
+ArcGIS organization 1qjjJoUN1p26Md36,services2.arcgis.com,4,GB
+ArcGIS organization 7D4cznW9Yiz17FBY,services7.arcgis.com,4,US
+ArcGIS organization DBcRJmfPI2l07jMS,services2.arcgis.com,4,US
+ArcGIS organization ISxsdAFVQu7s0bli,services9.arcgis.com,4,US
+ArcGIS organization Oy2JTCD10wkoelxS,services3.arcgis.com,4,US
+ArcGIS organization Y2oCp2poGkbPJp1E,services7.arcgis.com,4,US
+ArcGIS organization dXxgdxy3qGTavh0e,services9.arcgis.com,4,US
+ArcGIS organization de9awAHJGTPtVVLW,services-eu1.arcgis.com,4,FR
+ArcGIS organization eV8mfscEDwBdWYoS,services3.arcgis.com,4,US
+ArcGIS organization euKKjtGUuDiy24vy,services6.arcgis.com,4,US
+ArcGIS organization fwbG5nLNWCg01lTE,services8.arcgis.com,4,US
+ArcGIS organization h9rfBxQ2Y2P0FlYA,services5.arcgis.com,4,US
+ArcGIS organization jOKMO9vKmc98J4JC,services1.arcgis.com,4,US
+ArcGIS organization laJLcfjeTyPbQBef,services3.arcgis.com,4,US
+ArcGIS organization oNj7i3UB9cjxvxwj,services4.arcgis.com,4,US
+ArcGIS organization rGGrs6HCnw87OFOT,services8.arcgis.com,4,US
+ArcGIS organization tsh3MgS57Cs86wmq,services.arcgis.com,4,US
+ArcGIS organization zzN1kKcv4jyJtkCg,services2.arcgis.com,4,US
+Bgr,services.bgr.de,4,DE
+Boem,gis.boem.gov,4,US
+British Antarctic Survey (ArcGIS Online),services7.arcgis.com,4,GB
+Bucknell GIS & Spatial Thinking (ArcGIS Online),services2.arcgis.com,4,US
+CDC,data.cdc.gov,4,US
+Carto,carto.gouv.nc,4,NC
+Cex,cex.io,4,GB
+Chesapeake Bay Foundation (ArcGIS Online),services5.arcgis.com,4,US
+Chesapeakebay,gis.chesapeakebay.net,4,US
+City & County of Honolulu GIS (ArcGIS Online),services.arcgis.com,4,US
+City and County of San Francisco (ArcGIS Online),services.arcgis.com,4,US
+City of Oakland GIS (ArcGIS Online),services.arcgis.com,4,US
+Colorado State University (ArcGIS Online),services1.arcgis.com,4,US
+Contenidos Esri España (ArcGIS Online),services1.arcgis.com,4,ES
+Cossppgis (ArcGIS Online),services.arcgis.com,4,US
+County of Fairfax (ArcGIS Online),services1.arcgis.com,4,US
+County of San Luis Obispo (ArcGIS Online),services6.arcgis.com,4,US
+County of Ventura (ArcGIS Online),services2.arcgis.com,4,US
+Cpc,vipmbr.cpc.com.tw,4,TW
+Currituckcountync,maps.currituckcountync.gov,4,US
+Delaware Technical Community College - GIS (ArcGIS Online),services3.arcgis.com,4,US
+EPA,gis.epa.ie,4,IE
+Eagle Labs (ArcGIS Online),services.arcgis.com,4,NZ
+East Carolina University (ArcGIS Online),services2.arcgis.com,4,US
+Environment and Climate Change Canada GeoMet/MSC,api.weather.gc.ca,4,CA
+Esri (ArcGIS Online),services9.arcgis.com,4,US
+Esri Denver Regional Office (ArcGIS Online),services.arcgis.com,4,US
+Esri UK Education (ArcGIS Online),services.arcgis.com,4,US
+Essex North Shore Agricultural and Technical School (ArcGIS Online),services1.arcgis.com,4,US
+Fandom,endlessocean.fandom.com,4,US
+Fandom,marinetime-massacre-express.fandom.com,4,US
+Fandom,ocean-terror-roblox.fandom.com,4,US
+Fandom,oceanhorn.fandom.com,4,US
+Fandom,oceania.fandom.com,4,US
+Fandom,oceanishome.fandom.com,4,US
+Fandom,oceanside.fandom.com,4,US
+Fandom,resonance-of-the-ocean.fandom.com,4,US
+Fandom,roblox-us-marine-corps.fandom.com,4,US
+Fandom,starocean.fandom.com,4,US
+Finnish Ecosystem Observatory CKAN,paikkatiedot.ymparisto.fi,4,FI
+Georgia Department of Education (ArcGIS Online),services4.arcgis.com,4,US
+Glynn County Georgia (ArcGIS Online),services.arcgis.com,4,US
+Government of Guam GISWEB Portal (ArcGIS Online),services2.arcgis.com,4,US
+Greater Portland Council of Governments (ArcGIS Online),services3.arcgis.com,4,US
+Harvard,dataverse.harvard.edu,4,US
+Hub Community (ArcGIS Online),services7.arcgis.com,4,US
+Ideandalucia,www.ideandalucia.es,4,ES
+Laudato Si Action Platform (ArcGIS Online),services8.arcgis.com,4,US
+Lower Columbia Estuary Partnership (ArcGIS Online),services6.arcgis.com,4,US
+MapMaker (ArcGIS Online),services7.arcgis.com,4,US
+"Miami-Dade County, Florida (ArcGIS Online)",services.arcgis.com,4,US
+Miraheze,oceansmp.miraheze.org,4,GB
+Montana Bureau of Mines & Geology (ArcGIS Online),services1.arcgis.com,4,US
+NYCmaps (ArcGIS Online),services6.arcgis.com,4,US
+Napacounty,gis.napacounty.gov,4,US
+Ngu,geo.ngu.no,4,NO
+Nhm,data.nhm.ac.uk,4,GB
+Noaa,gis.charttools.noaa.gov,4,US
+Noaa,maritimeboundaries.noaa.gov,4,US
+Portlandmaps,www.portlandmaps.com,4,US
+Puget Sound Regional Council (ArcGIS Online),services6.arcgis.com,4,US
+South Atlantic Coastal Study (ArcGIS Online),services9.arcgis.com,4,US
+South Australian Government Data Directo,data.sa.gov.au,4,AU
+T&M Associates (ArcGIS Online),services2.arcgis.com,4,US
+"Town of Coventry, RI (ArcGIS Online)",services2.arcgis.com,4,US
+Tplgis,server5.tplgis.org,4,US
+U.S. Army Corps of Engineers - Norfolk District (ArcGIS Online),services5.arcgis.com,4,US
+UH MAGIS (ArcGIS Online),services8.arcgis.com,4,US
+USGS Earthquake Hazards,earthquake.usgs.gov,4,US
+UWE Spatial (ArcGIS Online),services1.arcgis.com,4,GB
+Unitec Institute of Technology (ArcGIS Online),services2.arcgis.com,4,GB
+University of Alberta (ArcGIS Online),services1.arcgis.com,4,US
+University of Arizona GIS (ArcGIS Online),services1.arcgis.com,4,US
+University of Florida (ArcGIS Online),services.arcgis.com,4,US
+University of North Carolina at Asheville (ArcGIS Online),services1.arcgis.com,4,US
+University of the South GIS (ArcGIS Online),services1.arcgis.com,4,US
+Università degli Studi di Cagliari (ArcGIS Online),services3.arcgis.com,4,IT
+Université de Montpellier Paul-Valéry (ArcGIS Online),services2.arcgis.com,4,FR
+Vassar College (ArcGIS Online),services2.arcgis.com,4,US
+Virginia Geographic Alliance (ArcGIS Online),services1.arcgis.com,4,US
+WV Student Maps (ArcGIS Online),services1.arcgis.com,4,US
+Warren County NY (ArcGIS Online),services6.arcgis.com,4,US
+Wikibase,marine-lexicon.wikibase.cloud,4,DE
+William & Mary (ArcGIS Online),services1.arcgis.com,4,US
+Windows,bimpowerapps.blob.core.windows.net,4,IE
+Wwf Sight Maps,wwf-sight-maps.org,4,GB
+Zespół Edukacji Esri Polska (ArcGIS Online),services.arcgis.com,4,PL
+data.gov.au,datahub.moretonbay.qld.gov.au,4,AU
+gisagocss.state.mi.us,gisagocss.state.mi.us,4,US
+gisagomdard.state.mi.us,gisagomdard.state.mi.us,4,US
+hilltop.gw.govt.nz,hilltop.gw.govt.nz,4,NZ
+opendata.gouv.tg,opendata.gouv.tg,4,TG
+opendata.schleswig-holstein.de,opendata.schleswig-holstein.de,4,DE
+Amerigeoss,water-amerigeoss.opendata.arcgis.com,4,
+ArcGIS organization OZMfUznmLTnWccBc,services-eu1.arcgis.com,4,
+ArcGIS organization AfCHcEdszkn6JexS,services4.arcgis.com,3,GB|US
+ArcGIS organization EFg39h3DBNzpxORa,services2.arcgis.com,3,CA|US
+ArcGIS organization G0h1rMzpOti8zvlB,services8.arcgis.com,3,CA|US
+ArcGIS organization G7iVcvOu3F7YCq11,services-ap1.arcgis.com,3,AU|US
+ArcGIS organization ULv86JkyrywnrlnW,services5.arcgis.com,3,AU|US
+ArcGIS organization V0HKtaD602PKtWJz,services1.arcgis.com,3,CA|US
+ArcGIS organization ofyejVZUlnyMK5E7,services5.arcgis.com,3,FR|US
+"Fundación Charles Darwin, Galápagos, Ecuador (ArcGIS Online)",services7.arcgis.com,3,ES|US
+Geospatial and Research Climate Change Division (ArcGIS Online),services3.arcgis.com,3,AU|US
+Government of Jamaica (ArcGIS Online),services6.arcgis.com,3,JM|US
+Kartverket (ArcGIS Online),services.arcgis.com,3,NO|US
+Marlborough,gis.marlborough.govt.nz,3,GB|NZ
+Massey University (ArcGIS Online),services6.arcgis.com,3,NZ|US
+Raincoast Conservation Foundation (ArcGIS Online),services7.arcgis.com,3,CA|US
+UK Environment Agency data,environment.data.gov.uk,3,GB|US
+University of Salzburg - Geoinformatics (ArcGIS Online),services.arcgis.com,3,DE|US
+Wageningen University (ArcGIS Online),services1.arcgis.com,3,GB|US
+2892 Miles to Go Schools (ArcGIS Online),services4.arcgis.com,3,US
+Agriculture,opendata.agriculture.gov.ie,3,IE
+Alaska Department of Fish & Game (ArcGIS Online),services.arcgis.com,3,US
+Anderson Cabot Center for Ocean Life (ArcGIS Online),services1.arcgis.com,3,US
+"Anne Arundel County, MD (ArcGIS Online)",services2.arcgis.com,3,US
+ArcGIS Online: Townland Boundaries,opendata-monaghancc.opendata.arcgis.com,3,IE
+ArcGIS organization 04Mfke8TEc0Pvqvt,services9.arcgis.com,3,US
+ArcGIS organization 4Zeh5m68zOX6235S,services3.arcgis.com,3,US
+ArcGIS organization 521mtqdr3XkfNNsN,services3.arcgis.com,3,US
+ArcGIS organization 6euNCaGPCgCzgAVF,services1.arcgis.com,3,US
+ArcGIS organization 6jEyBm2OMIBxuM1E,services1.arcgis.com,3,US
+ArcGIS organization 7CBAH5uwUzOIDR3W,services.arcgis.com,3,US
+ArcGIS organization 8CpMUd3fdw6aXef7,services1.arcgis.com,3,US
+ArcGIS organization 8Pvebfs9NT5KOmuc,services3.arcgis.com,3,US
+ArcGIS organization AFB2OfbV8ZevekJ0,services.arcgis.com,3,FR
+ArcGIS organization AdYB7LvDmN7hzWUb,services3.arcgis.com,3,US
+ArcGIS organization C9LHD7GWHq42ijpd,services-eu1.arcgis.com,3,GB
+ArcGIS organization CNeUPE1voVc22gNk,services-ap1.arcgis.com,3,AU
+ArcGIS organization CVjsGAKqc34pNrwU,services8.arcgis.com,3,US
+ArcGIS organization CdzoqlryYaw3oV8x,services8.arcgis.com,3,GB
+ArcGIS organization DiwBHSVrZAmWp4B3,services7.arcgis.com,3,US
+ArcGIS organization HyjXgkV6KGMSF3jt,services-eu1.arcgis.com,3,IE
+ArcGIS organization JHV29fylFzuYOfyr,services3.arcgis.com,3,US
+ArcGIS organization KGqoLspjDtQs0VXD,services.arcgis.com,3,US
+ArcGIS organization KaaWtq5i2e6YKmSK,services6.arcgis.com,3,US
+ArcGIS organization L2WXFx9ePOpz5meU,services.arcgis.com,3,US
+ArcGIS organization NJH7Swrmaq3V2dTS,services4.arcgis.com,3,GB
+ArcGIS organization PCeCk32MjqBcahrl,services8.arcgis.com,3,GB
+ArcGIS organization QStg8wBFmTwSsfNS,services7.arcgis.com,3,FR
+ArcGIS organization QqwweGsWzDm98mss,services4.arcgis.com,3,US
+ArcGIS organization TB0xk3AoU36GwiPH,services4.arcgis.com,3,US
+ArcGIS organization TrmWu33w5N05xAvx,services7.arcgis.com,3,US
+ArcGIS organization W83ZJWdj5f1f4WwG,services1.arcgis.com,3,US
+ArcGIS organization WTeo28TIuKuIFAJu,services1.arcgis.com,3,US
+ArcGIS organization YQyt7djuXN7rQyg4,services-ap1.arcgis.com,3,AU
+ArcGIS organization ZPe1JFmhdSkQVj8o,services7.arcgis.com,3,US
+ArcGIS organization ZrftDl8WETyHb7ah,services1.arcgis.com,3,AU
+ArcGIS organization aVLbUz8eMzxipBPe,services2.arcgis.com,3,US
+ArcGIS organization eomWG3vQOHk0xF7h,services8.arcgis.com,3,US
+ArcGIS organization fxAhIjyTtoPGS6tI,services7.arcgis.com,3,US
+ArcGIS organization fyCU5ZIUBRT4MXgz,services5.arcgis.com,3,AU
+ArcGIS organization gFqWrLF7jCTW9q6S,services1.arcgis.com,3,US
+ArcGIS organization geAgpNQPAw7vELq5,services5.arcgis.com,3,GB
+ArcGIS organization hNKc1r3SBL6SVC6I,services.arcgis.com,3,US
+ArcGIS organization hQoYDJEEJMaPw8Sy,services.arcgis.com,3,GB
+ArcGIS organization hwGL5iUtnD6VQJs0,services4.arcgis.com,3,US
+ArcGIS organization iTDJzT8BuoWYVLqX,services1.arcgis.com,3,US
+ArcGIS organization jbuNoGuN7iH6D0db,services1.arcgis.com,3,US
+ArcGIS organization njxlOVQKvDzk10uN,services2.arcgis.com,3,US
+ArcGIS organization oOUgp466Coyjcu6V,services1.arcgis.com,3,US
+ArcGIS organization p7BdT6cWpK5PgVDD,services4.arcgis.com,3,US
+ArcGIS organization q71cUOp7K0OCBEdp,services4.arcgis.com,3,US
+ArcGIS organization qtHZoRrWRCQ8eh1J,services6.arcgis.com,3,US
+ArcGIS organization rgBblPn1oXbE1xya,services6.arcgis.com,3,US
+ArcGIS organization rlIybMUnGup3xH2v,services-eu1.arcgis.com,3,DK
+ArcGIS organization umIjvohPcWJU5ij6,services5.arcgis.com,3,US
+ArcGIS organization wLDmHsvxROjaiPKt,services.arcgis.com,3,FR
+ArcGIS organization yNYLA0jxavf9Ecrz,services3.arcgis.com,3,US
+ArcGIS organization zX8NTiUjIKUVyth8,services7.arcgis.com,3,US
+Auburnalabama,ocean.auburnalabama.org,3,US
+Baw,dl.datenrepository.baw.de,3,DE
+Bfn,geodienste.bfn.de,3,DE
+Bowdoin College (ArcGIS Online),services5.arcgis.com,3,US
+Broward County GIS (ArcGIS Online),services.arcgis.com,3,US
+CORDIO East Africa (ArcGIS Online),services8.arcgis.com,3,US
+Caib,ideib.caib.es,3,ES
+Canadian Urban Data Catalogue (CUDC),recalls-rappels.canada.ca,3,CA
+Capatlantique,data.capatlantique.fr,3,FR
+Cape Coral GIS (ArcGIS Online),services1.arcgis.com,3,US
+City of Bainbridge Island (ArcGIS Online),services5.arcgis.com,3,US
+City of Kinston (ArcGIS Online),services5.arcgis.com,3,US
+City of Pompano Beach (ArcGIS Online),services.arcgis.com,3,US
+City of Seattle ArcGIS Online (ArcGIS Online),services.arcgis.com,3,US
+Coastal and Hydraulics Laboratory (ArcGIS Online),services6.arcgis.com,3,US
+Cornwall Wildlife Trust (ArcGIS Online),services5.arcgis.com,3,GB
+Data WA Catalogue,catalogue.data.wa.gov.au,3,AU
+DataSF (San Francisco),data.sfgov.org,3,US
+Dublin City University (ArcGIS Online),services8.arcgis.com,3,IE
+Eastern Washington University (ArcGIS Online),services1.arcgis.com,3,US
+Escambia County Florida GIS (ArcGIS Online),services3.arcgis.com,3,US
+Esri DC R&D Center (ArcGIS Online),services.arcgis.com,3,US
+Esri Eastern Africa Mapping and Application Portal (ArcGIS Online),services.arcgis.com,3,US
+Esri’s Disaster Response Program (ArcGIS Online),services.arcgis.com,3,US
+Europa,climate.discomap.eea.europa.eu,3,US
+Europa,noise.discomap.eea.europa.eu,3,EU
+Fairfax High School (ArcGIS Online),services4.arcgis.com,3,US
+Fandom,aquamarine.fandom.com,3,US
+Fandom,spacemarine2.fandom.com,3,US
+Fandom,starocean-fr.fandom.com,3,US
+GHD Pty Ltd (ArcGIS Online),services1.arcgis.com,3,US
+GIS WebTech (ArcGIS Online),services6.arcgis.com,3,US
+Gios,inspire.gios.gov.pl,3,PL
+Gisborne District Council (ArcGIS Online),services7.arcgis.com,3,NZ
+HARC (ArcGIS Online),services2.arcgis.com,3,US
+HNTB GeoShare (ArcGIS Online),services.arcgis.com,3,US
+Hawaii Open Data,opendata.hawaii.gov,3,US
+Hong Kong Open Data Portal,data.weather.gov.hk,3,HK
+Hong Kong Open Data Portal,www.censtatd.gov.hk,3,HK
+Hopeworks (ArcGIS Online),services9.arcgis.com,3,US
+Humboldt Waterkeeper (ArcGIS Online),services7.arcgis.com,3,US
+Hydro,tide1.hydro.gov.hk,3,HK
+Iow,iwc.iow.gov.uk,3,GB
+Lazio,geoportale.regione.lazio.it,3,IT
+Lehigh University (ArcGIS Online),services.arcgis.com,3,US
+Macmillan Learning (ArcGIS Online),services6.arcgis.com,3,US
+"Meridian High School - Meridian, ID (ArcGIS Online)",services4.arcgis.com,3,US
+Met Office (ArcGIS Online),services.arcgis.com,3,GB
+Ministry for the Environment (ArcGIS Online),services2.arcgis.com,3,NZ
+Montana Statewide ArcGIS License (ArcGIS Online),services1.arcgis.com,3,US
+NJDEP Bureau of GIS (ArcGIS Online),services1.arcgis.com,3,US
+Nccde,gis.nccde.org,3,US
+Niva,thredds.niva.no,3,NO
+Noaa,encdirect.noaa.gov,3,US
+North Carolina (ArcGIS Online),services.arcgis.com,3,US
+OC Public (ArcGIS Online),services.arcgis.com,3,US
+Octopus Open Data,odata.org.il,3,IL
+Open Development Cambodia Datahub,data.opendevelopmentcambodia.net,3,KH
+Open Development Laos Datahub,data.laos.opendevelopmentmekong.net,3,LA
+Open Development Myanmar,data.opendevelopmentmyanmar.net,3,MM
+Pacific GeoPortal - Core Organization (ArcGIS Online),services8.arcgis.com,3,SG
+Parametrix (ArcGIS Online),services3.arcgis.com,3,US
+"Plymouth Regional High School, Plymouth, NH (ArcGIS Online)",services1.arcgis.com,3,US
+"Prince William County, Virginia (ArcGIS Online)",services2.arcgis.com,3,US
+Psa,gis.psa.gov.qa,3,US
+Qld,maps1.goldcoast.qld.gov.au,3,AU
+Resilienceacademy,geonode.resilienceacademy.ac.tz,3,TZ
+SARDN (ArcGIS Online),services6.arcgis.com,3,US
+Sam Matey Consulting (ArcGIS Online),services8.arcgis.com,3,US
+San Juan County GIS (ArcGIS Online),services.arcgis.com,3,US
+South Carolina Department of Environmental Services (ArcGIS Online),services5.arcgis.com,3,US
+Southern California Coastal Water Research Project (ArcGIS Online),services1.arcgis.com,3,US
+Statistics Sweden (SCB) PxWeb,api.scb.se,3,SE
+Sustainable Development Solutions Network (ArcGIS Online),services7.arcgis.com,3,US
+Texas,gisweb.glo.texas.gov,3,US
+Texas Parks and Wildlife (ArcGIS Online),services1.arcgis.com,3,US
+The County of Sonoma (ArcGIS Online),services1.arcgis.com,3,US
+The Rivers Trust (ArcGIS Online),services3.arcgis.com,3,GB
+Town of Kiawah Island (ArcGIS Online),services2.arcgis.com,3,US
+Trpa,maps.trpa.org,3,US
+Trunojoyo,journal.trunojoyo.ac.id,3,ID
+U.S. Department of Transportation: ArcGIS Online (ArcGIS Online),services.arcgis.com,3,US
+UC Davis (ArcGIS Online),services9.arcgis.com,3,US
+UCLA Geography (ArcGIS Online),services9.arcgis.com,3,US
+United Nations World Food Programme (ArcGIS Online),services3.arcgis.com,3,US
+University of Calgary (ArcGIS Online),services2.arcgis.com,3,CA
+University of Haifa (ArcGIS Online),services5.arcgis.com,3,IL
+University of Maine at Farmington (ArcGIS Online),services6.arcgis.com,3,US
+University of Manitoba Libraries (ArcGIS Online),services6.arcgis.com,3,CA
+University of Maryland (ArcGIS Online),services1.arcgis.com,3,US
+University of Texas at Austin (ArcGIS Online),services1.arcgis.com,3,US
+Usbr,geo.usbr.gov,3,US
+Utah Department of Environmental Quality (ArcGIS Online),services2.arcgis.com,3,US
+Victoria,maps.victoria.ca,3,US
+Villanova University (ArcGIS Online),services5.arcgis.com,3,US
+Vlaanderen,vmm.vlaanderen.be,3,BE
+Washington State Department of Natural Resources (ArcGIS Online),services.arcgis.com,3,US
+Webgis,webgis.nic.in,3,IN
+Westport (ArcGIS Online),services1.arcgis.com,3,AU
+catalogue-imos.aodn.org.au,catalogue-imos.aodn.org.au,3,AU
+data.bayareametro.gov,data.bayareametro.gov,3,US
+data.gov.au,warehouse.ausseabed.gov.au,3,AU
+gISU_CampusManagement (ArcGIS Online),services2.arcgis.com,3,US
+map.geo.sz.ch,map.geo.sz.ch,3,CH
+mldata.opendata.ai: The Provenance Sandb,data.source.coop,3,AI
+socogis.sonomacounty.ca.gov,socogis.sonomacounty.ca.gov,3,US
+ArcGIS Online: Offshore Wind - Ocean Observing Devices (Proposed or Install,boem.maps.arcgis.com,3,
+ArcGIS organization Gzd5XdFXtWWDeGah,services3.arcgis.com,3,
+ArcGIS organization H8zcmiVIQ7Ap2hNU,services8.arcgis.com,3,
+ArcGIS organization aWQYRN1ujbTvQOGl,services7.arcgis.com,3,
+Caribbeangeoportal,www.caribbeangeoportal.com,3,
+Datopian Open Data,demo.dev.datopian.com,3,
+Esri (ArcGIS Online),rhvpkkiftonktxq3.svcs9.arcgis.com,3,
+Iaea,data.iaea.org,3,
+Wwfkenya,wwfke-giscoe.wwfkenya.org,3,
+ArcGIS Online for the IMF (ArcGIS Online),services9.arcgis.com,2,IT|US
+ArcGIS organization AOi02k7Bi1lNXysu,services9.arcgis.com,2,GB|US
+ArcGIS organization GM2drW70KjAhts06,services7.arcgis.com,2,CA|US
+ArcGIS organization MNgXxsTORgPk9EjE,services7.arcgis.com,2,CA|US
+ArcGIS organization PDfv0I40sqpcaZxV,services3.arcgis.com,2,PH|US
+ArcGIS organization S1CsUOA0hPmVW39L,services1.arcgis.com,2,CH|US
+ArcGIS organization SxxAk81V4RDlzG4G,services2.arcgis.com,2,BB|US
+ArcGIS organization UNdYvgM0AyMBIDAf,services2.arcgis.com,2,AU|US
+ArcGIS organization Xoz8Es66HpfM8jP9,services-ap1.arcgis.com,2,AU|GB
+ArcGIS organization YZ5sYKxzmHH2mL8Q,services5.arcgis.com,2,IE|US
+ArcGIS organization l1sBZgDhCBxBQr5Z,services3.arcgis.com,2,CA|US
+ArcGIS organization pPYcCN1qiPqRfe54,services3.arcgis.com,2,HK|TW
+Centre of Geographic Sciences - NSCC (ArcGIS Online),services.arcgis.com,2,CA|GB
+Community Map of Canada (ArcGIS Online),services1.arcgis.com,2,CA|US
+County Donegal Maps (ArcGIS Online),services2.arcgis.com,2,GB|IE
+Edmonton Metropolitan Region Board (ArcGIS Online),services.arcgis.com,2,CA|US
+Government of Newfoundland and Labrador (ArcGIS Online),services8.arcgis.com,2,CA|US
+ISEAL Alliance (ArcGIS Online),services9.arcgis.com,2,GB|US
+UiT - Norges arktiske universitet (ArcGIS Online),services1.arcgis.com,2,NO|US
+Waimakariri,gisservices.waimakariri.govt.nz,2,GB|US
+Aaron Koelker (ArcGIS Online),services6.arcgis.com,2,US
+Admin,data.geo.admin.ch,2,CH
+Airgradient,api.airgradient.com,2,US
+Alaska,arcgis.dnr.alaska.gov,2,US
+Alaska Department of Transportation & Public Facilities (ArcGIS Online),services.arcgis.com,2,US
+Alta Planning + Design (ArcGIS Online),services2.arcgis.com,2,US
+Amtraker,api-v3.amtraker.com,2,US
+ArcGIS Maps SDK Samples (ArcGIS Online),services2.arcgis.com,2,US
+ArcGIS Online - APNA (ArcGIS Online),services7.arcgis.com,2,GB
+ArcGIS Online: BLM AZ Administrative Unit Office Locations (Point),gbp-blm-egis.hub.arcgis.com,2,US
+ArcGIS Online: Water Framework Directive Lake Fish Ecological Status 2008 t,opendata-ifigeo.hub.arcgis.com,2,IE
+ArcGIS organization 0GKKTnAffPqP9bX4,services3.arcgis.com,2,US
+ArcGIS organization 0vd30ZJwMECKNLFu,services7.arcgis.com,2,US
+ArcGIS organization 0xEpEhgj2AqvWPLe,services8.arcgis.com,2,US
+ArcGIS organization 152ojN3Ts9H3cdtl,services-ap1.arcgis.com,2,AU
+ArcGIS organization 1hLyHCIOPNzAX4s6,services4.arcgis.com,2,US
+ArcGIS organization 2IWtxgPztSRd4H3x,services-ap1.arcgis.com,2,NZ
+ArcGIS organization 2ObnNbVC66z2Swkm,services7.arcgis.com,2,US
+ArcGIS organization 2vFp0qEMvlNVRqdY,services4.arcgis.com,2,US
+ArcGIS organization 3BMWkdyrt45RNCrq,services7.arcgis.com,2,US
+ArcGIS organization 3THQHWc29EM54DFH,services2.arcgis.com,2,AU
+ArcGIS organization 3xOwF6p0r7IHIjfn,services.arcgis.com,2,US
+ArcGIS organization 40CMVGZPtmu7aNof,services.arcgis.com,2,US
+ArcGIS organization 4N6IdOVZJX0EuFxs,services8.arcgis.com,2,US
+ArcGIS organization 4QkhM5AS8YOlkb6T,services-eu1.arcgis.com,2,GB
+ArcGIS organization 4eSmkZn4Z1xN6dXf,services8.arcgis.com,2,US
+ArcGIS organization 5R55vsKfq7f14num,services5.arcgis.com,2,US
+ArcGIS organization 6ldl6K67FkYzPtEE,services8.arcgis.com,2,US
+ArcGIS organization 7EzQnrfw48ewO24q,services1.arcgis.com,2,US
+ArcGIS organization 7nsPwEMP38bSkCjy,services5.arcgis.com,2,US
+ArcGIS organization 7qUjhSdhXbHzGULA,services7.arcgis.com,2,US
+ArcGIS organization 9AhWcGbMUx4ksSj8,services8.arcgis.com,2,US
+ArcGIS organization 9ecg2KpMLcsUv1Oh,services.arcgis.com,2,US
+ArcGIS organization ABt2mMsS5Tnt3jCd,services-ap1.arcgis.com,2,US
+ArcGIS organization AQh9VFCk3JQVazas,services7.arcgis.com,2,US
+ArcGIS organization BLh71157WcIevurr,services8.arcgis.com,2,AU
+ArcGIS organization BYDjud66SsX2pmAB,services.arcgis.com,2,US
+ArcGIS organization BuDSiwZVG3gNaQUz,services8.arcgis.com,2,GB
+ArcGIS organization CGrFkbx1kevqWrte,services-eu1.arcgis.com,2,GB
+ArcGIS organization Cd0TahBm53f4uOqB,services6.arcgis.com,2,CA
+ArcGIS organization Cdxz8r11hT0MGzg1,services3.arcgis.com,2,US
+ArcGIS organization CrxkqCyd1OFRWWA3,services1.arcgis.com,2,BR
+ArcGIS organization Db1xAiSxphB6ddWB,services1.arcgis.com,2,US
+ArcGIS organization Dfak2Pu36UZxOPmY,services.arcgis.com,2,US
+ArcGIS organization Di3lsLiBOSSbGwOF,services-eu1.arcgis.com,2,IE
+ArcGIS organization E3H3dLmHwo799BQr,services.arcgis.com,2,AT
+ArcGIS organization EPKe7OhnzF96nBLL,services5.arcgis.com,2,US
+ArcGIS organization EXyRv0dqed53BmG2,services.arcgis.com,2,CA
+ArcGIS organization EbRTkBEUm8mJnX3m,services7.arcgis.com,2,US
+ArcGIS organization FH5XCsx8rYXqnjF5,services-eu1.arcgis.com,2,IE
+ArcGIS organization FIbWJdFnBvhXVjiO,services1.arcgis.com,2,ES
+ArcGIS organization FjNT4j1knnY5Wsw5,services3.arcgis.com,2,US
+ArcGIS organization GOQOJeobnIB2IPKd,services5.arcgis.com,2,US
+ArcGIS organization HLefjRGiVRUYbT0M,services9.arcgis.com,2,US
+ArcGIS organization I9cUOJUZvdGAJncI,services2.arcgis.com,2,US
+ArcGIS organization IX0rbbPRMd0YfCJN,services6.arcgis.com,2,US
+ArcGIS organization JQIhbnEH5sI1j9OK,services8.arcgis.com,2,US
+ArcGIS organization K1RVqQUkYg8ZCwTQ,services1.arcgis.com,2,FR
+ArcGIS organization KUFrWlIghVG1FCaL,services7.arcgis.com,2,GB
+ArcGIS organization KqlaqVP5Rs5GgFBB,services6.arcgis.com,2,US
+ArcGIS organization OA3oWYqlqH5rRDWJ,services4.arcgis.com,2,US
+ArcGIS organization Oo8jWc9gdGjzB2jx,services3.arcgis.com,2,US
+ArcGIS organization OphsKVX6r0FYcLc8,services6.arcgis.com,2,US
+ArcGIS organization PLcIUwL63jJIlLjw,services7.arcgis.com,2,US
+ArcGIS organization POWnQ9B55SeBoOXX,services.arcgis.com,2,US
+ArcGIS organization QClEuaPkoZwU6r3B,services9.arcgis.com,2,US
+ArcGIS organization QNZCvo8THX0Ka69j,services2.arcgis.com,2,US
+ArcGIS organization RCbhhjhpPZMzteoU,services.arcgis.com,2,US
+ArcGIS organization TIdtHo4Qdu0LOntq,services8.arcgis.com,2,US
+ArcGIS organization TWfTldJhUJG0ITnp,services-eu1.arcgis.com,2,FR
+ArcGIS organization U37S3OTVbnXXjTBq,services2.arcgis.com,2,US
+ArcGIS organization UUWM43GOOZc20QEh,services5.arcgis.com,2,US
+ArcGIS organization VL3y0UFwNNVn5BNL,services3.arcgis.com,2,US
+ArcGIS organization WpDNOlDkuNcxaKfs,services4.arcgis.com,2,US
+ArcGIS organization WunV6yKxvEXfsV4W,services8.arcgis.com,2,US
+ArcGIS organization XWkezNUhD1LUMKPX,services-ap1.arcgis.com,2,US
+ArcGIS organization YRDInqI2lQMNM8xP,services2.arcgis.com,2,US
+ArcGIS organization ZAxMJuWRyDSn4Ubp,services8.arcgis.com,2,US
+ArcGIS organization ZbzBHfbFRpsGgukG,services-eu1.arcgis.com,2,FR
+ArcGIS organization ZicBg54zi1LBnun7,services5.arcgis.com,2,CL
+ArcGIS organization aG2lSkUhVlUaggIT,services7.arcgis.com,2,AU
+ArcGIS organization ag9JycR9d8sRNQBp,services.arcgis.com,2,FI
+ArcGIS organization apkltjLfVpiEIXzr,services3.arcgis.com,2,US
+ArcGIS organization b7JJtCCYY3EjjElW,services6.arcgis.com,2,US
+ArcGIS organization bB9Y1bGKerz1PTl5,services2.arcgis.com,2,US
+ArcGIS organization bFQCiZqoe0LrqfWM,services4.arcgis.com,2,ES
+ArcGIS organization cO7qZDLlyeZv3U2s,services4.arcgis.com,2,US
+ArcGIS organization cSJwzCYLlAugL9vY,services6.arcgis.com,2,US
+ArcGIS organization cjTkfDK7oY4dk5Cd,services2.arcgis.com,2,GB
+ArcGIS organization d7N56TsuJqi0HTl4,services5.arcgis.com,2,US
+ArcGIS organization dDLFlG1wUG0M1opa,services7.arcgis.com,2,US
+ArcGIS organization eIe07iT0FcOFj6r5,services4.arcgis.com,2,US
+ArcGIS organization eQjhhiA2saPpXSTt,services3.arcgis.com,2,US
+ArcGIS organization fGu5pGppxBTX6Y2B,services-eu1.arcgis.com,2,GB
+ArcGIS organization hx9lQkChiZGfwYN3,services6.arcgis.com,2,US
+ArcGIS organization iAGZtprMLMBlxqmY,services1.arcgis.com,2,US
+ArcGIS organization iuy23Zh7eh8I31VY,services4.arcgis.com,2,US
+ArcGIS organization jD89j6JX786MpRBU,services-eu1.arcgis.com,2,IE
+ArcGIS organization jJfZghspGKh8J9Jm,services1.arcgis.com,2,US
+ArcGIS organization jzslazl8UKsLRsUc,services3.arcgis.com,2,US
+ArcGIS organization lkhH4mF2nQtgJX8d,services8.arcgis.com,2,US
+ArcGIS organization lmqEXrumWHbL04zl,services7.arcgis.com,2,US
+ArcGIS organization m84fmcvTQusi2jIj,services6.arcgis.com,2,RO
+ArcGIS organization mUgkK1QjC37PAGmP,services-eu1.arcgis.com,2,GB
+ArcGIS organization n132qPR6OPYplXuW,services6.arcgis.com,2,US
+ArcGIS organization nQHSMRVltyfsxeFe,services.arcgis.com,2,CA
+ArcGIS organization nbwtrV1EDhKfIQhm,services5.arcgis.com,2,US
+ArcGIS organization ns1EEubdWeIzN6zU,services9.arcgis.com,2,US
+ArcGIS organization oF9CDB4lUYF7Um9q,services7.arcgis.com,2,US
+ArcGIS organization sI10pOMc8oZdGmZ9,services2.arcgis.com,2,US
+ArcGIS organization sNauqkn10AAheH0G,services3.arcgis.com,2,US
+ArcGIS organization sdTb0lsRURdKFejG,services2.arcgis.com,2,US
+ArcGIS organization tblHe99qQFMcNzpC,services8.arcgis.com,2,US
+ArcGIS organization tywQwEI878Bqz0Qx,services4.arcgis.com,2,US
+ArcGIS organization uYrPnJ33AoJIVlaW,services3.arcgis.com,2,US
+ArcGIS organization utVR6GjejYAZciWt,services1.arcgis.com,2,US
+ArcGIS organization w0K9MAswvUFWyjPZ,services.arcgis.com,2,US
+ArcGIS organization xdi5ZMR31ITISCHB,services5.arcgis.com,2,US
+ArcGIS organization ycIuRaoIC4UuCDAS,services.arcgis.com,2,US
+ArcGIS organization ym4vv2kwBujSjhwm,services6.arcgis.com,2,US
+ArcGIS organization z5VWEXupJpBJnZRq,services2.arcgis.com,2,US
+Archive,archive.org,2,US
+Arizona State University (ArcGIS Online),services3.arcgis.com,2,US
+B.C.'s Map Hub (ArcGIS Online),services6.arcgis.com,2,US
+Basilicata,rsdi.regione.basilicata.it,2,IT
+Boston College (ArcGIS Online),services1.arcgis.com,2,US
+Boston University (ArcGIS Online),services.arcgis.com,2,US
+Broward,bcgishub.broward.org,2,US
+CA Department of General Services (ArcGIS Online),services8.arcgis.com,2,US
+CA Nature Organization (ArcGIS Online),services8.arcgis.com,2,US
+CDM Smith AGO Projects (ArcGIS Online),services1.arcgis.com,2,US
+Calcofi,calcofi.org,2,US
+California Department of Conservation (ArcGIS Online),services2.arcgis.com,2,US
+California Natural Resources Agency Open,pasta.lternet.edu,2,US
+California Polytechnic State University San Luis Obispo (ArcGIS Online),services1.arcgis.com,2,US
+California State Parks (ArcGIS Online),services2.arcgis.com,2,US
+Canadian Rivers Institute (ArcGIS Online),services.arcgis.com,2,US
+Canadian Urban Data Catalogue (CUDC),geoportal.gov.mb.ca,2,CA
+Capital Area MPO (North Carolina) (ArcGIS Online),services7.arcgis.com,2,US
+Center for Coastal Studies (ArcGIS Online),services3.arcgis.com,2,US
+Center for Digital Heritage and Geospatial Information (ArcGIS Online),services3.arcgis.com,2,US
+Center for Geographic Analysis @Harvard University (ArcGIS Online),services1.arcgis.com,2,US
+City of San Rafael (ArcGIS Online),services5.arcgis.com,2,US
+City of South San Francisco (ArcGIS Online),services5.arcgis.com,2,US
+City of Treasure Island (ArcGIS Online),services7.arcgis.com,2,US
+Climate Justice (ArcGIS Online),services8.arcgis.com,2,US
+County of Monterey (ArcGIS Online),services2.arcgis.com,2,US
+Crisis24 (ArcGIS Online),services7.arcgis.com,2,US
+Croatia Open Data Portal,transformiraj.nipp.hr,2,HR
+Cyfoethnaturiolcymru,gisportal.cyfoethnaturiolcymru.gov.uk,2,US
+DataMX Open Data Portal,datamx.io,2,IO
+Delaware River Basin Commission (ArcGIS Online),services1.arcgis.com,2,US
+Department for Communities GIS (ArcGIS Online),services2.arcgis.com,2,GB
+"Dept of Biodiversity, Conservation and Attractions (ArcGIS Online)",services3.arcgis.com,2,AU
+"Dept of Housing, Local Government and Heritage (ArcGIS Online)",services.arcgis.com,2,US
+"Ducks Unlimited, Inc. (ArcGIS Online)",services2.arcgis.com,2,US
+"Dukes County, MA GIS (ArcGIS Online)",services1.arcgis.com,2,US
+ESRI EA: Natural Resources (ArcGIS Online),services6.arcgis.com,2,US
+Early Learning Policy Group (ArcGIS Online),services3.arcgis.com,2,US
+East Riding of Yorkshire Council (ArcGIS Online),services6.arcgis.com,2,GB
+Eastern Connecticut State University (ArcGIS Online),services6.arcgis.com,2,US
+Eaton County Michigan (ArcGIS Online),services2.arcgis.com,2,US
+Environmental Defense Fund (ArcGIS Online),services6.arcgis.com,2,US
+Esri,livingatlas.esri.in,2,US
+Esri (ArcGIS Online),p3eplmys2rvchkjx.svcs.arcgis.com,2,US
+Esri Deutschland - Schulen (ArcGIS Online),services4.arcgis.com,2,DE
+Esri Product Management Team (ArcGIS Online),services.arcgis.com,2,US
+Esri Professional Services (ArcGIS Online),services1.arcgis.com,2,US
+Esri Retail Maps and Apps (ArcGIS Online),services.arcgis.com,2,US
+Esri Romania (ArcGIS Online),services3.arcgis.com,2,US
+Esri Training Services (ArcGIS Online),services.arcgis.com,2,US
+Europa,bio.discomap.eea.europa.eu,2,EU
+Everett Community College (ArcGIS Online),services5.arcgis.com,2,US
+FAA Enterprise Information Management (ArcGIS Online),services3.arcgis.com,2,US
+Fandom,frankocean.fandom.com,2,US
+Fandom,newmarines.fandom.com,2,US
+First Colonial High School (ArcGIS Online),services4.arcgis.com,2,US
+Fis Wasser Mv,wms.fis-wasser-mv.de,2,DE
+Flotteoceanographique,localisation.flotteoceanographique.fr,2,FR
+Franklincountyva,gis.franklincountyva.gov,2,US
+Fundación Biosférica (ArcGIS Online),services3.arcgis.com,2,US
+Fws,ecos.fws.gov,2,US
+Fws,iris.fws.gov,2,US
+GIS @ UMBC (ArcGIS Online),services1.arcgis.com,2,US
+GSA/OGB (ArcGIS Online),services.arcgis.com,2,US
+Geo Horizons (ArcGIS Online),services3.arcgis.com,2,US
+GeoSYS Malta (ArcGIS Online),services1.arcgis.com,2,PL
+Geoportaal,inspire.geoportaal.ee,2,EE
+Geoporter Costa Rica (ArcGIS Online),services3.arcgis.com,2,US
+Georgia Association of Regional Commissions (ArcGIS Online),services1.arcgis.com,2,US
+"Georgia DNR, Coastal Resources Division (ArcGIS Online)",services3.arcgis.com,2,US
+Global Conservation (ArcGIS Online),services7.arcgis.com,2,US
+Gnb,gis-erd-der.gnb.ca,2,US
+Gouvernement de la Nouvelle-Calédonie (ArcGIS Online),services1.arcgis.com,2,FR
+Grand Valley State University (ArcGIS Online),services5.arcgis.com,2,US
+Gulfcouncil,portal.gulfcouncil.org,2,US
+Harrison County Geospatial Information Services (ArcGIS Online),services1.arcgis.com,2,US
+Hidrografico,ogcapi.hidrografico.pt,2,PT
+"ICON Engineering, Inc. (ArcGIS Online)",services8.arcgis.com,2,US
+Independent researcher (ArcGIS Online),services3.arcgis.com,2,US
+Indiadataportal,ckandev.indiadataportal.com,2,IN
+Indiana,portal.igs.indiana.edu,2,US
+InstantAtlas at ESRI (UK) Limited (ArcGIS Online),services1.arcgis.com,2,GB
+International Union for Conservation of Nature (ArcGIS Online),services9.arcgis.com,2,GB
+Ircgov,gisportal.ircgov.com,2,US
+Ireland Open Data Portal,clidata.met.ie,2,IE
+Island County GIS (ArcGIS Online),services6.arcgis.com,2,US
+Italia Dati municipal dashboards,cruscotto-italia.dati.gov.it,2,IT
+JOINT SPECIAL OPERATIONS UNIVERSITY (ArcGIS Online),services6.arcgis.com,2,US
+Jacksonvillenc,cjaxgisweb.jacksonvillenc.gov,2,US
+Karugeo,datacarto.karugeo.fr,2,FR
+Kennesaw State University - GSS Program (ArcGIS Online),services3.arcgis.com,2,US
+Lacounty,dpw.gis.lacounty.gov,2,US
+Lingnan University (ArcGIS Online),services8.arcgis.com,2,HK
+Locus Ltd (ArcGIS Online),services.arcgis.com,2,US
+Macroalgae,macroalgae.org,2,US
+Malmo,opendata-api.malmo.se,2,SE
+Manaaki Whenua - Landcare Research DataS,datastore.landcareresearch.co.nz,2,NZ
+MapTheNews (ArcGIS Online),services1.arcgis.com,2,FR
+Mapa de noticias (ArcGIS Online),services3.arcgis.com,2,US
+Maps.com (ArcGIS Online),services1.arcgis.com,2,US
+Marine,infomar.marine.ie,2,GB
+Marine,spatial.marine.ie,2,US
+Marinpublic,gis.marinpublic.com,2,US
+MassGIS - Bureau of Geographic Information (ArcGIS Online),services1.arcgis.com,2,US
+Mead & Hunt AGOL (ArcGIS Online),services2.arcgis.com,2,US
+Melbourne Water Corporation (ArcGIS Online),services5.arcgis.com,2,AU
+Met,opendata2.met.ie,2,IE
+Miami Beach GIS (ArcGIS Online),services3.arcgis.com,2,US
+Miljodatasamverkan,stationsregister.miljodatasamverkan.se,2,SE
+Mississippi Department of Marine Resources (ArcGIS Online),services5.arcgis.com,2,US
+NH Fish and Game Department (ArcGIS Online),services8.arcgis.com,2,US
+Nanaimo,nanmap.nanaimo.ca,2,CA
+National Geospatial-Intelligence Agency (ArcGIS Online),services1.arcgis.com,2,US
+Natureserve,gis.natureserve.ca,2,CA
+Nconemap,services.nconemap.gov,2,US
+Net Zero Atlantic (ArcGIS Online),services8.arcgis.com,2,US
+Netherlands Red Cross (ArcGIS Online),services1.arcgis.com,2,US
+New Hampshire Educational GIS Partnership (ArcGIS Online),services.arcgis.com,2,US
+New Jersey Office of GIS (ArcGIS Online),services2.arcgis.com,2,US
+North Florida Land Trust (ArcGIS Online),services7.arcgis.com,2,US
+Notre Dame Senior School (ArcGIS Online),services5.arcgis.com,2,GB
+Nrc,hilltop.nrc.govt.nz,2,NZ
+OHDZA Zoo Academy (ArcGIS Online),services4.arcgis.com,2,US
+Ocean Ops,www.ocean-ops.org,2,GB
+"Oceaneering International, Inc. (ArcGIS Online)",services.arcgis.com,2,US
+Ogs,snap.ogs.it,2,IT
+Ontario Ministry of Natural Resources and Forestry (ArcGIS Online),services1.arcgis.com,2,CA
+Open Data Portal | Queensland Government,data.des.qld.gov.au,2,AU
+Open Development Mekong Datahub,data.opendevelopmentmekong.net,2,KH
+Open data van de Overheid,service.pdok.nl,2,NL
+OpenOceans Global (ArcGIS Online),services.arcgis.com,2,US
+Opendataforafrica,senegal.opendataforafrica.org,2,SN
+OsboHS (ArcGIS Online),services4.arcgis.com,2,US
+Oswego,maps.ci.oswego.or.us,2,US
+Otago Regional Council (ArcGIS Online),services6.arcgis.com,2,NZ
+PRCM (ArcGIS Online),services5.arcgis.com,2,FR
+Pacific States Marine Fisheries Commission (ArcGIS Online),services.arcgis.com,2,US
+Parks Canada / Parcs Canada (ArcGIS Online),services2.arcgis.com,2,CA
+Pasadena City College - GIS (ArcGIS Online),services2.arcgis.com,2,US
+Philippine Disaster Resilience Foundation (ArcGIS Online),services8.arcgis.com,2,PH
+Picto Occitanie,datacarto.picto-occitanie.fr,2,FR
+Ppmaps,ppmaps.gov.im,2,GB
+Prefeitura Municipal de Niterói - AGOL (ArcGIS Online),services8.arcgis.com,2,BR
+Puente Institute (ArcGIS Online),services6.arcgis.com,2,US
+RIDEM - Map Room (ArcGIS Online),services1.arcgis.com,2,US
+Rolnhdf,maps.rolnhdf.fr,2,FR
+Rottnest Island Authority (ArcGIS Online),services6.arcgis.com,2,AU
+Roundrocktexas,maps.roundrocktexas.gov,2,US
+Royal Engineers & Consultants (ArcGIS Online),services1.arcgis.com,2,US
+SIG au collège dans l'Aisne (ArcGIS Online),services4.arcgis.com,2,FR
+SMHI open meteorological observations,opendata-download-metobs.smhi.se,2,SE
+SaFuture (ArcGIS Online),services3.arcgis.com,2,US
+Scottish Wildlife Trust (ArcGIS Online),services1.arcgis.com,2,GB
+Sfplanninggis,sfplanninggis.org,2,US
+Sitka Sound Science Center (ArcGIS Online),services8.arcgis.com,2,US
+Society for Conservation GIS (ArcGIS Online),services1.arcgis.com,2,US
+SonarBAT MAPS (ArcGIS Online),services9.arcgis.com,2,US
+South Carolina Department of Natural Resources (ArcGIS Online),services.arcgis.com,2,US
+Stantec (ArcGIS Online),services.arcgis.com,2,US
+Stat,data.stat.gov.lv,2,LV
+Stmarysmd,stmgis.stmarysmd.com,2,US
+Sullivanny,gis.sullivanny.us,2,US
+Surfrider Foundation Community (ArcGIS Online),services3.arcgis.com,2,US
+Texas,feature.geographic.texas.gov,2,US
+Texas Department of Transportation (ArcGIS Online),services.arcgis.com,2,US
+The Pew Charitable Trusts (ArcGIS Online),services7.arcgis.com,2,US
+"Town of Hilton Head Island, SC (ArcGIS Online)",services1.arcgis.com,2,US
+Township of Ocean (ArcGIS Online),services8.arcgis.com,2,US
+UN-Habitat (ArcGIS Online),services6.arcgis.com,2,US
+UNIGIS International Association (ArcGIS Online),services.arcgis.com,2,ZA
+USACE Charleston District (ArcGIS Online),services7.arcgis.com,2,US
+USMC GEOFidelis Online (ArcGIS Online),services3.arcgis.com,2,US
+Universitetssenteret pa Svalbard AS (ArcGIS Online),services7.arcgis.com,2,GB
+University of Arkansas (ArcGIS Online),services1.arcgis.com,2,US
+University of Connecticut (ArcGIS Online),services1.arcgis.com,2,US
+University of Exeter (ArcGIS Online),services5.arcgis.com,2,GB
+University of Otago (ArcGIS Online),services9.arcgis.com,2,US
+University of Richmond (ArcGIS Online),services.arcgis.com,2,US
+University of South Carolina (ArcGIS Online),services.arcgis.com,2,US
+University of West Florida (ArcGIS Online),services.arcgis.com,2,US
+University of Wisconsin-Madison (ArcGIS Online),services.arcgis.com,2,US
+Univerza v Ljubljani (ArcGIS Online),services5.arcgis.com,2,SI
+Urban Observatory by Esri (ArcGIS Online),services1.arcgis.com,2,US
+Usgs,co2public.er.usgs.gov,2,US
+Usgs,pubs.usgs.gov,2,US
+Virginia Housing (ArcGIS Online),services2.arcgis.com,2,US
+WA Dept of Fish and Wildlife (ArcGIS Online),services.arcgis.com,2,US
+WSDOT Online Map Center (ArcGIS Online),services.arcgis.com,2,US
+Washington College Geospatial Innovation Program (ArcGIS Online),services2.arcgis.com,2,US
+Wave Hill Youth Programs (ArcGIS Online),services4.arcgis.com,2,US
+West Branch Rose City Schools (ArcGIS Online),services4.arcgis.com,2,US
+Western University (ArcGIS Online),services.arcgis.com,2,US
+Whale mAPP (ArcGIS Online),services7.arcgis.com,2,US
+Wyoming Department of Environmental Quality (ArcGIS Online),services6.arcgis.com,2,US
+Xplanungsplattform,sh.xplanungsplattform.de,2,DE
+Yale University ArcGIS Online (ArcGIS Online),services1.arcgis.com,2,US
+Yukon University (ArcGIS Online),services7.arcgis.com,2,US
+data.europa.eu (EU open data portal),digital.csic.es,2,EU
+data.gov.au,spatial.industry.nsw.gov.au,2,AU
+data.gov.uk,admin.opendatani.gov.uk,2,GB
+enterprise.gisdata.mn.gov,enterprise.gisdata.mn.gov,2,US
+extract.sitg.ge.ch,extract.sitg.ge.ch,2,CH
+geodata.ct.gov,geodata.ct.gov,2,US
+gisdata.in.gov,gisdata.in.gov,2,US
+gispublic.waterboards.ca.gov,gispublic.waterboards.ca.gov,2,US
+mapping.gw.govt.nz,mapping.gw.govt.nz,2,US
+maps.bayfieldcounty.wi.gov,maps.bayfieldcounty.wi.gov,2,US
+maps.prd.state.or.us,maps.prd.state.or.us,2,US
+maps.scag.ca.gov,maps.scag.ca.gov,2,US
+maps2.dcgis.dc.gov,maps2.dcgis.dc.gov,2,US
+proxy.transport.data.gouv.fr,proxy.transport.data.gouv.fr,2,FR
+tabular-api.data.gouv.fr,tabular-api.data.gouv.fr,2,FR
+trubel&co (ArcGIS Online),services4.arcgis.com,2,US
+ws.lioservices.lrc.gov.on.ca,ws.lioservices.lrc.gov.on.ca,2,CA
+ArcGIS Online: New Residential Units Permitted - Built and Currently Issued,data-seattlecitygis.opendata.arcgis.com,2,
+ArcGIS organization B6wffRnmMgm6pr7L,services3.arcgis.com,2,
+ArcGIS organization Gqlwts2xdYut42LC,services8.arcgis.com,2,
+ArcGIS organization HFMAqSZEptBjhiQv,services8.arcgis.com,2,
+ArcGIS organization ISqEHdhr3detVO9I,services1.arcgis.com,2,
+ArcGIS organization Zmea819kt4Uu8kML,services-eu1.arcgis.com,2,
+ArcGIS organization a6ZiHo6on1rCIXAc,services1.arcgis.com,2,
+ArcGIS organization cLc8weJftnLKUrhh,services8.arcgis.com,2,
+ArcGIS organization si70weKpzPSa0BGV,services7.arcgis.com,2,
+ArcGIS organization tuaF829zGxPzrij9,services9.arcgis.com,2,
+ArcGIS organization u2lwe9zFvnPuAwZs,services.arcgis.com,2,
+Google,docs.google.com,2,
+Nordic Statistics,pxweb.nordicstatistics.org,2,
+Openei,mhkdr.openei.org,2,
+Ourairports,ourairports.com,2,
+Overturemaps,stac.overturemaps.org,2,
+Pacificdata,stats-nsi-stable.pacificdata.org,2,
+US West 2 (AWS),s3-us-west-2.amazonaws.com,2,
+4 Degrees Consulting (ArcGIS Online),services8.arcgis.com,1,ZA
+AGH University of Science and Technology (ArcGIS Online),services2.arcgis.com,1,US
+AK Department of Environmental Conservation AGO (ArcGIS Online),services.arcgis.com,1,US
+Aacounty,gis.aacounty.org,1,US
+Abds,geo.abds.is,1,IS
+Adventure Scientists (ArcGIS Online),services5.arcgis.com,1,US
+Aeres Hogeschool (ArcGIS Online),services2.arcgis.com,1,NL
+Africa Foundation Trust (ArcGIS Online),services6.arcgis.com,1,US
+African Parks Network (ArcGIS Online),services9.arcgis.com,1,ZA
+African Wildlife Foundation (ArcGIS Online),services2.arcgis.com,1,US
+Agder fylkeskommune (ArcGIS Online),services7.arcgis.com,1,NO
+Agence d'urbanisme de Rouen Boucles de Seine et Eure (ArcGIS Online),services1.arcgis.com,1,FR
+Agenzia ARPA Sardegna (ArcGIS Online),services6.arcgis.com,1,IT
+Agiro (ArcGIS Online),services8.arcgis.com,1,CA
+Ajman,data.ajman.ae,1,AE
+Akiin miinwaa Mooniginan (ArcGIS Online),services8.arcgis.com,1,CA
+Alaska Department of Health and Social Services (ArcGIS Online),services1.arcgis.com,1,US
+Alberta Geological Survey (ArcGIS Online),services2.arcgis.com,1,CA
+Alberta Health Services (ArcGIS Online),services5.arcgis.com,1,US
+Applied Ocean Sciences (ArcGIS Online),services6.arcgis.com,1,US
+ArcGIS Indoors Business Development Online Environment (ArcGIS Online),services3.arcgis.com,1,US
+ArcGIS Online for Wolfville (ArcGIS Online),services8.arcgis.com,1,US
+ArcGIS Online: Helsingin Seudun Liikenteen (HSL) kaupunkipyöräasemat,opendata.arcgis.com,1,GB
+ArcGIS Online: World Elevation Coverage Map,elevation.arcgis.com,1,US
+ArcGIS Solutions Development (ArcGIS Online),services2.arcgis.com,1,US
+ArcGIS for 3D Cities (ArcGIS Online),services2.arcgis.com,1,US
+ArcGIS for Microsoft 365 - Production (ArcGIS Online),services.arcgis.com,1,US
+ArcGIS for Mining (ArcGIS Online),services.arcgis.com,1,US
+ArcGIS organization 0HvWfm6i99NZFHqu,services5.arcgis.com,1,US
+ArcGIS organization 0hega4uOAwpNjIjc,services3.arcgis.com,1,US
+ArcGIS organization 1Cyg6S9yGgIqdFPO,services7.arcgis.com,1,US
+ArcGIS organization 1DJx29KDOyJ9Lv12,services6.arcgis.com,1,US
+ArcGIS organization 1GltNjgCeC4DkW1A,services4.arcgis.com,1,GB
+ArcGIS organization 1IcP0Z0XtY0egEXo,services3.arcgis.com,1,US
+ArcGIS organization 1OXppAkycem0MEel,services3.arcgis.com,1,DE
+ArcGIS organization 1PVldPDlkjfNFNJ3,services8.arcgis.com,1,US
+ArcGIS organization 1SfRZ2qJNChPuKvU,services.arcgis.com,1,US
+ArcGIS organization 1dSrzEWVQn5kHHyK,services.arcgis.com,1,PT
+ArcGIS organization 1haY4PDFLdFJPHf1,services1.arcgis.com,1,US
+ArcGIS organization 1jIzA8RmdWNpYHJ3,services3.arcgis.com,1,US
+ArcGIS organization 1oVdxEFkby5AIGKR,services8.arcgis.com,1,US
+ArcGIS organization 22wyIskRdsHsTOJF,services6.arcgis.com,1,US
+ArcGIS organization 2LJ6Q6yCIIUOP8qx,services3.arcgis.com,1,US
+ArcGIS organization 2WsiAmk95geSmFqr,services-eu1.arcgis.com,1,GB
+ArcGIS organization 2cZSk3EXXiOHcbOl,services6.arcgis.com,1,US
+ArcGIS organization 38fAqAZVRCrVtPUU,services1.arcgis.com,1,US
+ArcGIS organization 3EvdCw4esTDdjyop,services-eu1.arcgis.com,1,FR
+ArcGIS organization 3Gy6zyvWSR2Q8akX,services4.arcgis.com,1,US
+ArcGIS organization 3HJnCDaJt8fFyjQy,services8.arcgis.com,1,US
+ArcGIS organization 3RqZvPA9DIWeSlFC,services8.arcgis.com,1,US
+ArcGIS organization 3a0XKcEft055iu5f,services3.arcgis.com,1,IN
+ArcGIS organization 3ao2G9IcfmOgf73J,services5.arcgis.com,1,IT
+ArcGIS organization 3cilKETUrqcacktu,services2.arcgis.com,1,US
+ArcGIS organization 3h3X4y9OQT9ldnlq,services-eu1.arcgis.com,1,US
+ArcGIS organization 3j4ctu2CXYkptHue,services8.arcgis.com,1,US
+ArcGIS organization 3jDtx85QhirkLgzo,services9.arcgis.com,1,US
+ArcGIS organization 3vStCH7NDoBOZ5zn,services.arcgis.com,1,AU
+ArcGIS organization 4Ko8f1mCWFLyY4NV,services.arcgis.com,1,US
+ArcGIS organization 4biRnCjZju47bNvA,services5.arcgis.com,1,US
+ArcGIS organization 4ctl1uqiDpTVHDcS,services7.arcgis.com,1,US
+ArcGIS organization 4qIOeADCgonipFEW,services.arcgis.com,1,US
+ArcGIS organization 5REoMU162diWrxzT,services1.arcgis.com,1,US
+ArcGIS organization 5UmNeC3YIVXGGkxV,services9.arcgis.com,1,US
+ArcGIS organization 5aTZOBLHgY2JnmmE,services6.arcgis.com,1,US
+ArcGIS organization 5aiR7gURjh2E0gMd,services3.arcgis.com,1,US
+ArcGIS organization 5tzGQ8AufWRTFEgx,services8.arcgis.com,1,GB
+ArcGIS organization 5v1gUi2On4oJfpNj,services3.arcgis.com,1,US
+ArcGIS organization 67Q2MijEffPO3vBi,services9.arcgis.com,1,US
+ArcGIS organization 681aqQje8UA6e0Oa,services5.arcgis.com,1,US
+ArcGIS organization 6eapTsiIRNVFAZ9T,services-eu1.arcgis.com,1,GB
+ArcGIS organization 6tVsHR2ERRUR1RFd,services.arcgis.com,1,US
+ArcGIS organization 6vX5VUfaAYOP3Im3,services-eu1.arcgis.com,1,IT
+ArcGIS organization 7WLdZzgC4pHhD2jF,services8.arcgis.com,1,US
+ArcGIS organization 7bh1uUKiCBZZDKUN,services6.arcgis.com,1,US
+ArcGIS organization 7iPn1oRX9nq22pFS,services7.arcgis.com,1,US
+ArcGIS organization 7mKrrPSfzHnGVL0W,services4.arcgis.com,1,US
+ArcGIS organization 7nhZCDURIEXIsWuI,services7.arcgis.com,1,US
+ArcGIS organization 7sEZiHncz1HK9dhD,services6.arcgis.com,1,GB
+ArcGIS organization 7vxqqNxnsIHE3EKt,services5.arcgis.com,1,GB
+ArcGIS organization 84mZBZ1MYG0nVrLE,services5.arcgis.com,1,US
+ArcGIS organization 8S11rQjS4FTlgaYX,services7.arcgis.com,1,US
+ArcGIS organization 8TufBwUCMF4Azg37,services5.arcgis.com,1,US
+ArcGIS organization 8UwUyNPyNnapniYJ,services2.arcgis.com,1,CA
+ArcGIS organization 8V9ShUQ1DGYVLtOg,services1.arcgis.com,1,US
+ArcGIS organization 8XFoPVBCQgMU7YqP,services9.arcgis.com,1,US
+ArcGIS organization 8bWJFnV4L8BXE8HZ,services6.arcgis.com,1,US
+ArcGIS organization 8kZv9DESIQ1hYuyJ,services7.arcgis.com,1,US
+ArcGIS organization 8uevmRlLsZdoxHk8,services2.arcgis.com,1,FR
+ArcGIS organization 9WE7qQUudpTgHjvM,services4.arcgis.com,1,US
+ArcGIS organization 9c4jME54zdJEFmiY,services7.arcgis.com,1,US
+ArcGIS organization 9dU2h39d1cyBNESP,services6.arcgis.com,1,US
+ArcGIS organization 9nlQUywsHzFwAwIM,services7.arcgis.com,1,AU
+ArcGIS organization A0IzXJQERiZA0mm2,services7.arcgis.com,1,US
+ArcGIS organization A1mc9jYGh92BooOr,services3.arcgis.com,1,US
+ArcGIS organization AEBnIKcKe4XvASsK,services8.arcgis.com,1,CO
+ArcGIS organization AFmms6ZaYBqCn2O3,services8.arcgis.com,1,US
+ArcGIS organization AIpgPd90HZWKb855,services8.arcgis.com,1,US
+ArcGIS organization AXFsXjicw0JApvnd,services9.arcgis.com,1,US
+ArcGIS organization AXjQ3FXOpcQsVnBx,services3.arcgis.com,1,US
+ArcGIS organization AYGZtmUtpARUKBlB,services8.arcgis.com,1,NZ
+ArcGIS organization AbQpv9doWn5so44u,services1.arcgis.com,1,US
+ArcGIS organization AfAsr0V4hHFWm0h5,services5.arcgis.com,1,GB
+ArcGIS organization AogJr2Gh9DhDCNaE,services4.arcgis.com,1,US
+ArcGIS organization Apfah47SjPplGvZO,services6.arcgis.com,1,US
+ArcGIS organization AyOrEUT98rGojPcC,services6.arcgis.com,1,US
+ArcGIS organization B7X7NCOKKXditlwZ,services.arcgis.com,1,US
+ArcGIS organization BMLtN1U4gHHX7Oyl,services5.arcgis.com,1,GB
+ArcGIS organization BQDvFD8K2GlchDoM,services6.arcgis.com,1,US
+ArcGIS organization BRw9oAFsMtCIHtra,services3.arcgis.com,1,US
+ArcGIS organization BWxIWo0VU9FAwkUc,services7.arcgis.com,1,US
+ArcGIS organization C0AzspRIJqIFEABz,services4.arcgis.com,1,CA
+ArcGIS organization CStZMxQGcaeGZXoN,services9.arcgis.com,1,AU
+ArcGIS organization CbIh5YT1mFDxBZuj,services4.arcgis.com,1,US
+ArcGIS organization CgOSc11uky3egK6O,services1.arcgis.com,1,US
+ArcGIS organization CnoCSmpSr2hZ3lII,services6.arcgis.com,1,FR
+ArcGIS organization CqJ3TIubjwIc1v0a,services9.arcgis.com,1,CA
+ArcGIS organization D2GiQOd2jzaj2Pzh,services1.arcgis.com,1,US
+ArcGIS organization DOZXuly5d6GJsQHD,services4.arcgis.com,1,US
+ArcGIS organization DTvpQUWMbWzNQoVI,services-ap1.arcgis.com,1,GB
+ArcGIS organization DbPykcCwUUYq5zKg,services1.arcgis.com,1,DE
+ArcGIS organization DsjLzv3VWAC42vWJ,services8.arcgis.com,1,US
+ArcGIS organization E4zmITc5k3J3fWRw,services6.arcgis.com,1,US
+ArcGIS organization E7lxuAIsnIhy1IyZ,services4.arcgis.com,1,ES
+ArcGIS organization ECLDetvwjuWO4lfb,services7.arcgis.com,1,CA
+ArcGIS organization EDFKKZivVyfUwPAb,services6.arcgis.com,1,US
+ArcGIS organization EUqgcsADO9TICWu2,services3.arcgis.com,1,US
+ArcGIS organization F08O6iQSL5aHrJX0,services3.arcgis.com,1,US
+ArcGIS organization F3r6faJEFz95LR6M,services4.arcgis.com,1,US
+ArcGIS organization F8POR271LxJO47bS,services2.arcgis.com,1,US
+ArcGIS organization FXEqYGc1BbYd8O1x,services3.arcgis.com,1,US
+ArcGIS organization Fq3mfY2kJ1WCOiyn,services2.arcgis.com,1,US
+ArcGIS organization FyuuHO4sqcgu4Cm1,services6.arcgis.com,1,US
+ArcGIS organization G3nmNsarwQblLhip,services.arcgis.com,1,US
+ArcGIS organization G6FjzGRPjTGb23VM,services9.arcgis.com,1,US
+ArcGIS organization GDVaV4SDJDDBT8gi,services9.arcgis.com,1,US
+ArcGIS organization GnEwJGU9SGTv1641,services3.arcgis.com,1,US
+ArcGIS organization HUP9nOAGSEOUUsmE,services6.arcgis.com,1,US
+ArcGIS organization HWZoxt6xpBMlkJEQ,services1.arcgis.com,1,US
+ArcGIS organization I4gI6NWsuGrIM5YT,services-eu1.arcgis.com,1,GB
+ArcGIS organization ILcfubvFUvftgAjx,services5.arcgis.com,1,US
+ArcGIS organization IXYmdkndf6VGeFte,services8.arcgis.com,1,AR
+ArcGIS organization IlPWdcfGIAGcPc3S,services4.arcgis.com,1,GB
+ArcGIS organization J0tsnoNKqR02vNPh,services9.arcgis.com,1,US
+ArcGIS organization J9ly9mqFE8PFT61a,services5.arcgis.com,1,CA
+ArcGIS organization JXBurs0uwQlwOiHt,services1.arcgis.com,1,US
+ArcGIS organization JlQfDvP4s2tZttI1,services2.arcgis.com,1,US
+ArcGIS organization JrBT6JVVu83wFjjB,services9.arcgis.com,1,US
+ArcGIS organization JthOmqz8HxPqljUO,services2.arcgis.com,1,NZ
+ArcGIS organization KAS2Ol4X7Ca0Dta5,services9.arcgis.com,1,US
+ArcGIS organization KQ5cPAPtSmwo7LRP,services7.arcgis.com,1,US
+ArcGIS organization KZcv0G0UvX0bPG3L,services3.arcgis.com,1,US
+ArcGIS organization KbZdXlqDThmfGhaG,services3.arcgis.com,1,US
+ArcGIS organization KciNm1Iv5DgViAnE,services8.arcgis.com,1,US
+ArcGIS organization KeXEcG5B7Do2yT5m,services5.arcgis.com,1,US
+ArcGIS organization KsnB2VOAvO5LjdB4,services1.arcgis.com,1,CA
+ArcGIS organization LDOS3GJ8BDJiPo87,services7.arcgis.com,1,US
+ArcGIS organization LDyICFHkbJw1xv8M,services6.arcgis.com,1,US
+ArcGIS organization LLVEmB8Lsae3Um4s,services.arcgis.com,1,US
+ArcGIS organization LZmganhe8Aecx8ve,services7.arcgis.com,1,US
+ArcGIS organization Lu7Uh8HEPwu0SbYS,services2.arcgis.com,1,US
+ArcGIS organization MVdIMZHV7qpWV5sa,services4.arcgis.com,1,US
+ArcGIS organization N2jmXNGTOZvCtiih,services5.arcgis.com,1,US
+ArcGIS organization NJJAMXTzj98caILi,services3.arcgis.com,1,US
+ArcGIS organization NKDiql1bnx0BQ5g8,services4.arcgis.com,1,US
+ArcGIS organization NVoNCkbilxu55r0h,services-ap1.arcgis.com,1,AU
+ArcGIS organization NWEAAZQmNh4FLFc2,services3.arcgis.com,1,US
+ArcGIS organization NaFf4UaPo3IgQXqn,services3.arcgis.com,1,US
+ArcGIS organization NpUZ2jEsnfm9HSQT,services9.arcgis.com,1,US
+ArcGIS organization Nt9PzCzX9tz2k5Lq,services-eu1.arcgis.com,1,FR
+ArcGIS organization O0WNu8LYU2Zm8uhP,services2.arcgis.com,1,FI
+ArcGIS organization O1Rm75XW8zZczaHP,services1.arcgis.com,1,NZ
+ArcGIS organization O4fSTHEa0abGLhAh,services4.arcgis.com,1,US
+ArcGIS organization OLGiTpY23dOr43X0,services6.arcgis.com,1,GB
+ArcGIS organization OmhjjQKPQ4s7vrAK,services2.arcgis.com,1,US
+ArcGIS organization OnVO7RdvOUzLkMGS,services1.arcgis.com,1,AU
+ArcGIS organization OvFcVUsTtqEiQ1SJ,services3.arcgis.com,1,US
+ArcGIS organization OzJ0acGRKGkrXkJv,services.arcgis.com,1,US
+ArcGIS organization PJXNouZlyP0qayac,services-eu1.arcgis.com,1,GB
+ArcGIS organization PMo7oQ8whBKOysNq,services6.arcgis.com,1,US
+ArcGIS organization PN9z0HwZjGTtZhLT,services8.arcgis.com,1,US
+ArcGIS organization PhkL97KbkzUBf4PQ,services1.arcgis.com,1,GB
+ArcGIS organization Qoz71wOtFJtgqb9Y,services1.arcgis.com,1,US
+ArcGIS organization RDOvATgMLgyXpfnv,services8.arcgis.com,1,US
+ArcGIS organization REyHDX7diNDrZlqv,services7.arcgis.com,1,CL
+ArcGIS organization RFuOTEnlfXtwymou,services8.arcgis.com,1,BR
+ArcGIS organization RaOCFLqeDC4J8rZe,services5.arcgis.com,1,US
+ArcGIS organization Rdc63CmgJeRuTPMX,services4.arcgis.com,1,US
+ArcGIS organization RnTc4SLzqmVjBY3S,services7.arcgis.com,1,ES
+ArcGIS organization S5d6CWOTC6u65yob,services2.arcgis.com,1,US
+ArcGIS organization S66CRdL8f8xUVY2e,services4.arcgis.com,1,US
+ArcGIS organization SEIHigRppeVyVssQ,services-eu1.arcgis.com,1,US
+ArcGIS organization SJkm0GLoDlywQXGE,services5.arcgis.com,1,US
+ArcGIS organization SR1muQK0r6SVF2nb,services1.arcgis.com,1,US
+ArcGIS organization SYpad0iYlEFm2dV1,services7.arcgis.com,1,US
+ArcGIS organization SaBe5HMtmnbqSWlu,services5.arcgis.com,1,US
+ArcGIS organization SbxFMy5nFd6wmwCw,services2.arcgis.com,1,US
+ArcGIS organization SfvtKAxCn62UWpRg,services9.arcgis.com,1,US
+ArcGIS organization Sh1QwLSVKYk2AYjx,services1.arcgis.com,1,CA
+ArcGIS organization SsXzXbgOD1pGQPCx,services5.arcgis.com,1,US
+ArcGIS organization T7bSyF14ldyLZMjl,services9.arcgis.com,1,US
+ArcGIS organization ThExf1r1eIhz35uv,services1.arcgis.com,1,NO
+ArcGIS organization Tn4wEZ0eH9wSsA4l,services6.arcgis.com,1,US
+ArcGIS organization U21nV2DFXJVOnfAY,services6.arcgis.com,1,GR
+ArcGIS organization UIDEa9S9iqq5orpE,services3.arcgis.com,1,US
+ArcGIS organization UN2BoTelitQIJWcd,services8.arcgis.com,1,US
+ArcGIS organization UU7tTFVUDsAZtSYx,services6.arcgis.com,1,FR
+ArcGIS organization V4Rx2DXlIHdEvTZA,services.arcgis.com,1,US
+ArcGIS organization VELJvq5s7onWhdB5,services8.arcgis.com,1,US
+ArcGIS organization VUwL60dqTsjNz8gw,services3.arcgis.com,1,US
+ArcGIS organization Voq75CPyvxgC5TGs,services9.arcgis.com,1,US
+ArcGIS organization Vr4pJuhEJB9F4bUA,services.arcgis.com,1,US
+ArcGIS organization W19jlmTjXPeixpAm,services5.arcgis.com,1,US
+ArcGIS organization W3oitRH5wSVajyRX,services4.arcgis.com,1,US
+ArcGIS organization WTosIGSFx8SISAaB,services8.arcgis.com,1,US
+ArcGIS organization WtxUtKxjT3lvYwhq,services5.arcgis.com,1,TW
+ArcGIS organization X3qSy0bYVFfbfwMe,services2.arcgis.com,1,NZ
+ArcGIS organization Xau5BEIiNiTBGhwO,services9.arcgis.com,1,US
+ArcGIS organization XoI0XxNFw6UzweBP,services4.arcgis.com,1,US
+ArcGIS organization Xqd7UHgodoHV31bQ,services5.arcgis.com,1,UY
+ArcGIS organization XzQIGWOKjRuVk0Xy,services7.arcgis.com,1,NZ
+ArcGIS organization Y9SYXfWO4zfXuO4q,services3.arcgis.com,1,US
+ArcGIS organization Y9jgVEvgymHqAYPW,services-eu1.arcgis.com,1,GB
+ArcGIS organization YPZZRcK4Jvh09Ovf,services6.arcgis.com,1,US
+ArcGIS organization YWG34dhJxrbxQWdF,services1.arcgis.com,1,US
+ArcGIS organization ZA9NQql1N7YIgpFE,services5.arcgis.com,1,US
+ArcGIS organization ZIkHjw9PIAlen5wN,services6.arcgis.com,1,GB
+ArcGIS organization ZMERqClYW5qHkDyZ,services-ap1.arcgis.com,1,US
+ArcGIS organization ZOdPfBS3aqqDYPUQ,services-eu1.arcgis.com,1,GB
+ArcGIS organization ZhTpwEGNVUBxG9VW,services8.arcgis.com,1,US
+ArcGIS organization ZnIYHsIAta5wlG3g,services9.arcgis.com,1,US
+ArcGIS organization aJALNPqSMdpTFlcT,services5.arcgis.com,1,JP
+ArcGIS organization aJFEkAYERwjt5yhZ,services9.arcgis.com,1,US
+ArcGIS organization apQoc7QtDZkPPGVg,services5.arcgis.com,1,AU
+ArcGIS organization bOwKF88V88IGdqzT,services9.arcgis.com,1,AU
+ArcGIS organization bl88rKe05mQw1GUH,services1.arcgis.com,1,US
+ArcGIS organization c3f29mC2Vg6nyPHB,services-ap1.arcgis.com,1,GB
+ArcGIS organization c546Bhayya6NsV2c,services6.arcgis.com,1,GB
+ArcGIS organization c7K3QHahe7xQvitn,services7.arcgis.com,1,US
+ArcGIS organization cOhMqNf3ihcdtO7J,services-eu1.arcgis.com,1,US
+ArcGIS organization cRkMirRJ1HkW5ipZ,services9.arcgis.com,1,US
+ArcGIS organization cU94txTGEY4ovort,services6.arcgis.com,1,US
+ArcGIS organization caWDr9qv9f34KIAZ,services5.arcgis.com,1,US
+ArcGIS organization co15Y7Q02mBEZqnK,services7.arcgis.com,1,US
+ArcGIS organization cpBc8nssZgPMsPDZ,services3.arcgis.com,1,AU
+ArcGIS organization d0NFID1O0ng4wccB,services2.arcgis.com,1,US
+ArcGIS organization dGslO4qyszb2lMSq,services5.arcgis.com,1,US
+ArcGIS organization dQJe6ihzzP4QNX01,services6.arcgis.com,1,GB
+ArcGIS organization daDLTHi0YR1PbqaF,services5.arcgis.com,1,US
+ArcGIS organization dneckuOoBQJpV4oz,services-ap1.arcgis.com,1,AU
+ArcGIS organization dzbAg9KH3PDgCcVO,services5.arcgis.com,1,GB
+ArcGIS organization eBM1JW3Jf2fRLgz7,services8.arcgis.com,1,US
+ArcGIS organization eCKetAnooD7eDTFW,services5.arcgis.com,1,US
+ArcGIS organization eKyqz2IyguDGBjaK,services6.arcgis.com,1,US
+ArcGIS organization eQokUDmReWyB8og0,services8.arcgis.com,1,US
+ArcGIS organization eg6NFKWWqd0OlsZ1,services8.arcgis.com,1,US
+ArcGIS organization evjvf6OwzhM4vIyx,services6.arcgis.com,1,US
+ArcGIS organization f05w7xwVVWGAEAtB,services-ap1.arcgis.com,1,AU
+ArcGIS organization fOgr04PojF5HJLBj,services6.arcgis.com,1,FR
+ArcGIS organization feUM6sTOP0Mfde8s,services3.arcgis.com,1,US
+ArcGIS organization for2CDQLY9vTWeDK,services.arcgis.com,1,US
+ArcGIS organization fxnFqGOVRzV4g6ac,services5.arcgis.com,1,US
+ArcGIS organization g2Kr20zHzABrX0sS,services3.arcgis.com,1,US
+ArcGIS organization g2TonOxuRkIqSOFx,services1.arcgis.com,1,US
+ArcGIS organization gAAqLWNS2IKt1zU1,services.arcgis.com,1,US
+ArcGIS organization gBHbzA1KTLoBfN4x,services7.arcgis.com,1,US
+ArcGIS organization gQECRXmKqiljYPkH,services2.arcgis.com,1,DE
+ArcGIS organization gfpXnknjcY6QHKhU,services.arcgis.com,1,US
+ArcGIS organization gmEC1e2ecZnyynki,services2.arcgis.com,1,CA
+ArcGIS organization gpd02mszbJGuTXv7,services3.arcgis.com,1,US
+ArcGIS organization grXuZUhTWHWbCm3A,services1.arcgis.com,1,GB
+ArcGIS organization guiEgv5T1fmjU8SW,services7.arcgis.com,1,CA
+ArcGIS organization gvPkBym2W5Rr1TDr,services9.arcgis.com,1,US
+ArcGIS organization hMpg7vsYb74pEKjX,services3.arcgis.com,1,US
+ArcGIS organization hSKL9bYjhP4rHxSD,services3.arcgis.com,1,US
+ArcGIS organization hVrbyhwrr6bdMQQu,services6.arcgis.com,1,US
+ArcGIS organization hdQqKG79FQ3myAhC,services.arcgis.com,1,GB
+ArcGIS organization hjIlHDmMjAmSLrd7,services3.arcgis.com,1,ES
+ArcGIS organization hnXJHZmZ99edSw14,services1.arcgis.com,1,US
+ArcGIS organization htn1ahZEnMsSvMRx,services8.arcgis.com,1,US
+ArcGIS organization i3pVQ0I5XNlnO24X,services7.arcgis.com,1,US
+ArcGIS organization i98k2ArKnv7zTU7I,services.arcgis.com,1,AU
+ArcGIS organization iTw6xOy3Bqmh62rs,services6.arcgis.com,1,US
+ArcGIS organization iU8baZHhUTFjyxkJ,services7.arcgis.com,1,US
+ArcGIS organization iiACCsQ38azg6eDv,services.arcgis.com,1,US
+ArcGIS organization ijaGq4vK7LsUtOQG,services1.arcgis.com,1,US
+ArcGIS organization ipj52cMAgRJ1n7e3,services.arcgis.com,1,US
+ArcGIS organization iqcnnBr89xcsz2B6,services9.arcgis.com,1,US
+ArcGIS organization ixER4RF2ajyx36OB,services3.arcgis.com,1,US
+ArcGIS organization jIRgb54Jq9V3BUeD,services1.arcgis.com,1,US
+ArcGIS organization jJfa5ZTFQLM2BKtn,services-eu1.arcgis.com,1,FR
+ArcGIS organization jRMliNMLfjZe4wXV,services8.arcgis.com,1,US
+ArcGIS organization jXk8r5UriDBVSl7O,services8.arcgis.com,1,US
+ArcGIS organization jpxRWZoffqwhB7dM,services6.arcgis.com,1,US
+ArcGIS organization js4tzmHB2hG1VqLm,services8.arcgis.com,1,US
+ArcGIS organization jyq1iaZPJzCNSQkc,services6.arcgis.com,1,BR
+ArcGIS organization k7vtmDsQzvHhYiEq,services6.arcgis.com,1,US
+ArcGIS organization kBkwjVOhc0QonEjP,services3.arcgis.com,1,US
+ArcGIS organization kfmqp6kwSeDnDKNY,services3.arcgis.com,1,US
+ArcGIS organization koQA4R1fRnxPWm86,services-eu1.arcgis.com,1,US
+ArcGIS organization kofsPE4nGp7oe4wd,services8.arcgis.com,1,US
+ArcGIS organization kswen6BYexuc1SUk,services-eu1.arcgis.com,1,GB
+ArcGIS organization l0PUGx9JqRxaCPsG,services9.arcgis.com,1,US
+ArcGIS organization lGOekm0RsNxYnT3j,services.arcgis.com,1,US
+ArcGIS organization lJyW9OMgwr92IVge,services7.arcgis.com,1,US
+ArcGIS organization lMZkPsqViZQcW3k4,services7.arcgis.com,1,US
+ArcGIS organization lY2g3C94bIrlF60t,services7.arcgis.com,1,US
+ArcGIS organization lYwjaZ80yCYIPh3Q,services8.arcgis.com,1,US
+ArcGIS organization lg3j39Bd63cky7wq,services6.arcgis.com,1,US
+ArcGIS organization lls5Y4fGq6KH79jo,services6.arcgis.com,1,FR
+ArcGIS organization luht1HWRHIzyyX6u,services-eu1.arcgis.com,1,US
+ArcGIS organization m9zYNmX49ddkBsgd,services3.arcgis.com,1,US
+ArcGIS organization mNpZjWRf1hgfaBtT,services6.arcgis.com,1,US
+ArcGIS organization mzpnDjrw3oloU9h6,services1.arcgis.com,1,US
+ArcGIS organization nG6AHBU3xsOtLv4j,services3.arcgis.com,1,US
+ArcGIS organization nUD9ady1mS8uVvoJ,services3.arcgis.com,1,US
+ArcGIS organization nx7jkryssJ4AG7fY,services8.arcgis.com,1,US
+ArcGIS organization o9T47trE5xQ2wsIb,services6.arcgis.com,1,US
+ArcGIS organization oFqO3LMpo2VXNVqF,services7.arcgis.com,1,US
+ArcGIS organization oKenFxF8DE2Ek7Xt,services3.arcgis.com,1,US
+ArcGIS organization oNdz7UhbJwY9LG1j,services2.arcgis.com,1,GB
+ArcGIS organization oZfKvdlWHN1MwS48,services3.arcgis.com,1,US
+ArcGIS organization oeMCUnVnU4LYYGKN,services3.arcgis.com,1,US
+ArcGIS organization orSWcm6ferytEdzR,services9.arcgis.com,1,US
+ArcGIS organization ot4PmFN3nu1t9cOF,services6.arcgis.com,1,US
+ArcGIS organization oybA67QcoH46LtAV,services9.arcgis.com,1,US
+ArcGIS organization pfOmauSzzyThvfXC,services3.arcgis.com,1,US
+ArcGIS organization plUTrFS2hhitIyOl,services8.arcgis.com,1,US
+ArcGIS organization ptMeJSvCigyke2Tt,services9.arcgis.com,1,AU
+ArcGIS organization pwNwIGBE7M7VOXjQ,services.arcgis.com,1,US
+ArcGIS organization q5QaVUsTCQBahQDF,services6.arcgis.com,1,GB
+ArcGIS organization qQ6tqy9VSUry3ySt,services2.arcgis.com,1,US
+ArcGIS organization qo7pCKvZPpNtsBx9,services1.arcgis.com,1,US
+ArcGIS organization qyNLAUrSftTAYBj7,services1.arcgis.com,1,US
+ArcGIS organization r9beY2M9iDqCvoBt,services8.arcgis.com,1,US
+ArcGIS organization rmrALMmpPh0iZNsU,services2.arcgis.com,1,GB
+ArcGIS organization rr3fd8R4zmGTskf1,services3.arcgis.com,1,GB
+ArcGIS organization s3H1EyVuni8rWyBG,services1.arcgis.com,1,ES
+ArcGIS organization s3vGpGobX9nzlLH3,services7.arcgis.com,1,US
+ArcGIS organization s6HIvFTKSGpOFvAc,services.arcgis.com,1,CA
+ArcGIS organization s6OKoKSAZqsNBCMJ,services2.arcgis.com,1,CA
+ArcGIS organization saVeZItOAdgjvI3s,services8.arcgis.com,1,US
+ArcGIS organization salQweOw5doOMYRw,services7.arcgis.com,1,US
+ArcGIS organization sulTbj15m6vd9KRQ,services5.arcgis.com,1,US
+ArcGIS organization supi6xDj3qduY1gn,services2.arcgis.com,1,US
+ArcGIS organization t2yugAJW83eUIFui,services1.arcgis.com,1,US
+ArcGIS organization t5MjED9tR3Etqf4F,services-ap1.arcgis.com,1,US
+ArcGIS organization tAAiBeQ0JotyUoAe,services3.arcgis.com,1,NZ
+ArcGIS organization tQaXW7Zb1Vphzvgd,services2.arcgis.com,1,US
+ArcGIS organization tZFEWjHp68AeFNYg,services4.arcgis.com,1,FR
+ArcGIS organization tc4hh050NPZgWq0B,services-eu1.arcgis.com,1,GB
+ArcGIS organization tdHJEPlA4ngSGfpW,services7.arcgis.com,1,US
+ArcGIS organization teARKG0tKclqvcQ0,services9.arcgis.com,1,US
+ArcGIS organization tyhey9DmkWvyw3xm,services6.arcgis.com,1,US
+ArcGIS organization u68hBtg9YrRh9HYX,services7.arcgis.com,1,US
+ArcGIS organization u6DhOkbNl0FeW1NE,services9.arcgis.com,1,US
+ArcGIS organization uBhCzcYTOtHrwN5X,services1.arcgis.com,1,US
+ArcGIS organization uFAr0LUPy14bDaLg,services7.arcgis.com,1,US
+ArcGIS organization uaOuNze8ggz2HsSW,services-eu1.arcgis.com,1,TR
+ArcGIS organization v5dOXTEOb7ZHdNyQ,services-eu1.arcgis.com,1,IE
+ArcGIS organization vJlmDE1PmdTcJF0N,services2.arcgis.com,1,CA
+ArcGIS organization vVpN3IL0Y4nustY6,services7.arcgis.com,1,US
+ArcGIS organization w6r4LlwgJu8O0neQ,services-ap1.arcgis.com,1,US
+ArcGIS organization wJjg8dt6Yay5gXiU,services5.arcgis.com,1,CA
+ArcGIS organization wYEzTTDGwSuQQW1R,services-ap1.arcgis.com,1,ID
+ArcGIS organization wavszdfpqM8zCMjf,services4.arcgis.com,1,US
+ArcGIS organization wb84GxCwiPzK3Eow,services9.arcgis.com,1,US
+ArcGIS organization wdgKFvvZvYZ3Biji,services7.arcgis.com,1,US
+ArcGIS organization xBPYlXMUfLQbQ3VY,services3.arcgis.com,1,US
+ArcGIS organization xKvDQ9PmaqgzOpn2,services3.arcgis.com,1,US
+ArcGIS organization xQo6zoNjmy3NNfkT,services1.arcgis.com,1,US
+ArcGIS organization xceBU1EBOYJuoBKl,services.arcgis.com,1,AU
+ArcGIS organization y0LEEL8SqmOZJF5x,services7.arcgis.com,1,US
+ArcGIS organization y0Mj0TLNFif07RwB,services3.arcgis.com,1,GB
+ArcGIS organization y21MdSbs8bR7Fb90,services7.arcgis.com,1,US
+ArcGIS organization yKAN6qXNTxhi4ojw,services9.arcgis.com,1,US
+ArcGIS organization yRW96jkKjDj5GeHi,services3.arcgis.com,1,US
+ArcGIS organization yvCbn3q8PPtPLZIM,services7.arcgis.com,1,US
+ArcGIS organization ywzlLPdQBhSwacdw,services2.arcgis.com,1,US
+ArcGIS organization zAmy2uQQIuJsmD8h,services3.arcgis.com,1,GB
+ArcGIS organization zmwWI9Z3Gncv9p7d,services6.arcgis.com,1,US
+ArcGIS organization zow9Ot3ujGSyJI3C,services9.arcgis.com,1,CA
+Arcgisonline,basisregistraties.arcgisonline.nl,1,NL
+Arizona State Land Department (ArcGIS Online),services1.arcgis.com,1,US
+Army,geospatial.sec.usace.army.mil,1,US
+Army,spatial.usace.army.mil,1,US
+Arpc,gis.arpc.org,1,US
+Audubon,gis.audubon.org,1,US
+Austin Community College GIS (ArcGIS Online),services.arcgis.com,1,US
+Australian Hydrographic Office GeoPortal (ArcGIS Online),services6.arcgis.com,1,AU
+Auswaertiges Amt,www.auswaertiges-amt.de,1,DE
+Awi,apgc.awi.de,1,DE
+Bafg,geoportal.bafg.de,1,DE
+Ball State University ArcGIS Online (ArcGIS Online),services1.arcgis.com,1,US
+Baltimore City (ArcGIS Online),services1.arcgis.com,1,US
+Bangor High School (ArcGIS Online),services4.arcgis.com,1,US
+Barbados Meteorological Services (ArcGIS Online),services2.arcgis.com,1,BB
+Bay-Lake Regional Planning Commission GIS (ArcGIS Online),services6.arcgis.com,1,US
+Bertt (Github),bertt.github.io,1,IO
+Bgr,download.bgr.de,1,DE
+Biohabitats (ArcGIS Online),services5.arcgis.com,1,US
+Blue Raster (ArcGIS Online),services.arcgis.com,1,US
+Boffa Miskell (ArcGIS Online),services.arcgis.com,1,NZ
+Bonner County (ArcGIS Online),services3.arcgis.com,1,US
+Boston,bostonopendata-boston.opendata.arcgis.com,1,US
+BostonMaps (ArcGIS Online),services.arcgis.com,1,US
+Bostonplans,gis.bostonplans.org,1,US
+"Brevard County, Board of County Commissioners (ArcGIS Online)",services2.arcgis.com,1,US
+Brigham Young University (ArcGIS Online),services.arcgis.com,1,US
+Brisbane Open Data,prod-brisbane-queensland.opendatasoft.com,1,AU
+Bund,daten.gdz.bkg.bund.de,1,DE
+Bureau of Indian Affairs (ArcGIS Online),services1.arcgis.com,1,US
+Bureau of Land Management (ArcGIS Online),services1.arcgis.com,1,US
+Burnaby,gis.burnaby.ca,1,US
+CA Governor's Office of Emergency Services (ArcGIS Online),services.arcgis.com,1,US
+CBS StatLine (Netherlands),opendata.cbs.nl,1,NL
+CIEP | Ciencia Austral (ArcGIS Online),services.arcgis.com,1,CL
+California Geographic Alliance (ArcGIS Online),services4.arcgis.com,1,TW
+California Sea Grant (ArcGIS Online),services9.arcgis.com,1,US
+California State University Long Beach - Geography (ArcGIS Online),services3.arcgis.com,1,US
+California Trout (ArcGIS Online),services3.arcgis.com,1,US
+Calvert County GIS (ArcGIS Online),services2.arcgis.com,1,US
+Canada,www.canada.ca,1,CA
+Canadian Urban Data Catalogue (CUDC),aquatic.pyr.ec.gc.ca,1,CA
+Canadian Urban Data Catalogue (CUDC),geo.meteo.gc.ca,1,CA
+Canadian Urban Data Catalogue (CUDC),open.alberta.ca,1,CA
+Capilano University (ArcGIS Online),services3.arcgis.com,1,US
+Caribbean Fishery Management Council (ArcGIS Online),services.arcgis.com,1,US
+Caribbean GeoPortal Hub Community (ArcGIS Online),services8.arcgis.com,1,US
+Case Western Reserve University (ArcGIS Online),services3.arcgis.com,1,US
+Cawthron Institute (ArcGIS Online),services7.arcgis.com,1,NZ
+Cdrmaguire,gis.cdrmaguire.com,1,US
+Cenagis,polar.cenagis.edu.pl,1,PL
+Center for Western Priorities (ArcGIS Online),services9.arcgis.com,1,US
+Centre for Geographical Information and Geomatics - QUB (ArcGIS Online),services3.arcgis.com,1,GB
+Century West Engineering (ArcGIS Online),services7.arcgis.com,1,US
+"Charlotte County, Florida Board of County Commissioners (ArcGIS Online)",services2.arcgis.com,1,US
+Chesapeake Conservancy (ArcGIS Online),services.arcgis.com,1,US
+Chinese International School - InSo Department (ArcGIS Online),services1.arcgis.com,1,US
+Chugach Regional Resources Commission (ArcGIS Online),services5.arcgis.com,1,US
+Cittametropolitanaroma,opendata.cittametropolitanaroma.it,1,IT
+City Of North Miami Beach (ArcGIS Online),services.arcgis.com,1,US
+City of Austin (ArcGIS Online),services.arcgis.com,1,US
+City of Chattanooga (ArcGIS Online),services2.arcgis.com,1,US
+City of Cloud Creek (ArcGIS Online),services.arcgis.com,1,US
+City of Cold Lake on ArcGIS Online (ArcGIS Online),services2.arcgis.com,1,CA
+City of Detroit (ArcGIS Online),services2.arcgis.com,1,US
+City of Emeryville (ArcGIS Online),services3.arcgis.com,1,US
+City of Harrisburg Pennsylvania (ArcGIS Online),services5.arcgis.com,1,US
+"City of Hermantown, Minnesota (ArcGIS Online)",services7.arcgis.com,1,US
+"City of Lawrence, Kansas (ArcGIS Online)",services.arcgis.com,1,US
+City of Marysville WA GIS (ArcGIS Online),services2.arcgis.com,1,US
+City of Miramar (ArcGIS Online),services6.arcgis.com,1,US
+City of Mission (ArcGIS Online),services9.arcgis.com,1,US
+"City of Monroe, Ohio (ArcGIS Online)",services5.arcgis.com,1,US
+City of Myrtle Beach GEO (ArcGIS Online),services2.arcgis.com,1,US
+City of Norfolk (ArcGIS Online),services2.arcgis.com,1,US
+City of Oxnard GIS (ArcGIS Online),services3.arcgis.com,1,US
+City of Port Adelaide Enfield (ArcGIS Online),services1.arcgis.com,1,AU
+City of Port Hueneme Public Department (ArcGIS Online),services5.arcgis.com,1,US
+City of Portsmouth NH (ArcGIS Online),services3.arcgis.com,1,US
+City of Prince Albert (ArcGIS Online),services5.arcgis.com,1,CA
+"City of Salem, Oregon (ArcGIS Online)",services.arcgis.com,1,US
+"City of Sarasota, Florida (ArcGIS Online)",services3.arcgis.com,1,US
+City of Surrey (ArcGIS Online),services5.arcgis.com,1,US
+"City of Venice, FL (ArcGIS Online)",services7.arcgis.com,1,US
+City of Vero Beach GIS Division (ArcGIS Online),services1.arcgis.com,1,US
+Cityoffederalway,geoportal.cityoffederalway.com,1,US
+Civilsolutions,ags.civilsolutions.biz,1,US
+Clallam County (ArcGIS Online),services8.arcgis.com,1,US
+Clean Power Alliance (ArcGIS Online),services5.arcgis.com,1,US
+Climatecentre,data-portal.climatecentre.be,1,BE
+Coastal Resource Mapping Ltd (ArcGIS Online),services2.arcgis.com,1,US
+Codb,gis2.codb.us,1,US
+College of Western Idaho (ArcGIS Online),services1.arcgis.com,1,US
+Colleton GIS (ArcGIS Online),services1.arcgis.com,1,US
+Collier County Sheriff (ArcGIS Online),services3.arcgis.com,1,US
+Colorado,data.colorado.gov,1,US
+Columbia College GIS Program (ArcGIS Online),services.arcgis.com,1,US
+CommunityScale (ArcGIS Online),services5.arcgis.com,1,US
+Conseil départemental de l'Aisne (ArcGIS Online),services1.arcgis.com,1,FR
+Conservation Ontario (ArcGIS Online),services1.arcgis.com,1,CA
+"Cook County, MN (ArcGIS Online)",services.arcgis.com,1,US
+Cornell Cooperative Extension Geospatial Mapping (ArcGIS Online),services1.arcgis.com,1,US
+County of Bruce (ArcGIS Online),services5.arcgis.com,1,US
+"County of Burlington, New Jersey (ArcGIS Online)",services1.arcgis.com,1,US
+County of Hawaii GIS (ArcGIS Online),services1.arcgis.com,1,US
+County of Renfrew (ArcGIS Online),services2.arcgis.com,1,US
+County of San Bernardino (ArcGIS Online),services.arcgis.com,1,US
+County of San Diego GIS Portal (ArcGIS Online),services1.arcgis.com,1,US
+Countyofriverside,gis.countyofriverside.us,1,US
+Courte Oreilles Lakes Association (COLA) (ArcGIS Online),services8.arcgis.com,1,US
+CreeGeo - Mushkegowuk Cree Geomatics (ArcGIS Online),services.arcgis.com,1,CA
+DCGS Marine Corps (ArcGIS Online),services5.arcgis.com,1,US
+DLR Group GIS (ArcGIS Online),services7.arcgis.com,1,US
+DMI Open Data (Denmark),opendataapi.dmi.dk,1,DK
+DNREC GIS (ArcGIS Online),services2.arcgis.com,1,US
+DNV GL AS (ArcGIS Online),services1.arcgis.com,1,US
+DTNWeather (ArcGIS Online),services3.arcgis.com,1,US
+Dallas College Geospatial Technology Program (ArcGIS Online),services.arcgis.com,1,US
+Dartmouth (ArcGIS Online),services1.arcgis.com,1,US
+DataHub - Open Data Portal,api.old.datahub.io,1,IO
+DataSF (San Francisco),data.sf.gov,1,US
+DeKalb County GIS (ArcGIS Online),services2.arcgis.com,1,US
+Deer Creek GIS (ArcGIS Online),services.arcgis.com,1,US
+"Delta Stewardship Council, a California State Agency (ArcGIS Online)",services5.arcgis.com,1,US
+Development & Marine Planning (ArcGIS Online),services5.arcgis.com,1,GB
+Developpement Durable,data.statistiques.developpement-durable.gouv.fr,1,FR
+Digicult Verbund,oamh.digicult-verbund.de,1,DE
+Digitaloceanspaces,sozialhelden-opendata.fra1.digitaloceanspaces.com,1,DE
+Disaster Tech (ArcGIS Online),services2.arcgis.com,1,US
+District of Squamish (ArcGIS Online),services.arcgis.com,1,CA
+Diva Portal,havochvatten.diva-portal.org,1,SE
+Dudek (ArcGIS Online),services.arcgis.com,1,US
+Dunedin City Council (ArcGIS Online),services1.arcgis.com,1,GB
+Dunottar School (ArcGIS Online),services4.arcgis.com,1,GB
+Dynamic Link Solutions Sdn Bhd (ArcGIS Online),services9.arcgis.com,1,US
+EPA Ireland Environmental Open Data catalog API,data.epa.ie,1,IE
+Eagle Technology Group Ltd (ArcGIS Online),services.arcgis.com,1,US
+East Tennessee State University (ArcGIS Online),services5.arcgis.com,1,US
+Elk Center Elementary School (ArcGIS Online),services9.arcgis.com,1,US
+"Emmons & Olivier Resources, Inc (ArcGIS Online)",services5.arcgis.com,1,US
+Energy & Geoscience Institute (ArcGIS Online),services5.arcgis.com,1,US
+Environment,dffeportal.environment.gov.za,1,US
+Environmental Science Associates (ArcGIS Online),services1.arcgis.com,1,US
+Esri,defense.esri.com,1,US
+Esri (ArcGIS Online),services5.arcgis.com,1,US
+Esri Canada (ArcGIS Online),services.arcgis.com,1,US
+Esri Canada - Atlantic Region (ArcGIS Online),services1.arcgis.com,1,US
+Esri Community Portal for GEOSS (ArcGIS Online),services2.arcgis.com,1,US
+Esri Deutschland (ArcGIS Online),services2.arcgis.com,1,DE
+Esri Ed Services Instructors (ArcGIS Online),services.arcgis.com,1,US
+Esri International Distributors (ArcGIS Online),services9.arcgis.com,1,NL
+Esri Portugal (ArcGIS Online),services.arcgis.com,1,PT
+Esri R&D Center Zurich (ArcGIS Online),services2.arcgis.com,1,US
+Esri UK Bureau (ArcGIS Online),services.arcgis.com,1,GB
+Esrikr,portal.esrikr.com,1,US
+Euroinfosicilia,opendata.euroinfosicilia.it,1,IT
+Europa,water.discomap.eea.europa.eu,1,EU
+Exprodat (ArcGIS Online),services1.arcgis.com,1,GB
+FEWS NET Decision Support (ArcGIS Online),services.arcgis.com,1,US
+FHS Geospatial Analysis (ArcGIS Online),services8.arcgis.com,1,US
+FLO Analytics (ArcGIS Online),services1.arcgis.com,1,US
+Fairfaxcounty,www.fairfaxcounty.gov,1,US
+Fandom,iron-marines.fandom.com,1,US
+Flood Science Center (ArcGIS Online),services3.arcgis.com,1,US
+Food and Agriculture Organization of the United Nations (ArcGIS Online),services5.arcgis.com,1,GB
+Fundy Regional Service Commission (ArcGIS Online),services5.arcgis.com,1,US
+GIS Center at UC Merced (ArcGIS Online),services2.arcgis.com,1,US
+GIS for Education (ArcGIS Online),services7.arcgis.com,1,AU
+GSQ Open Data Portal,geoscience.data.qld.gov.au,1,AU
+Gaia (ArcGIS Online),services3.arcgis.com,1,PL
+Galway County Council (ArcGIS Online),services1.arcgis.com,1,GB
+Gdcatalog,chumphon.gdcatalog.go.th,1,TH
+Geo Equity Tech (ArcGIS Online),services3.arcgis.com,1,MG
+GeoEarth Solutions: Geological & GIS Services (ArcGIS Online),services8.arcgis.com,1,US
+GeoPlatform ArcGIS Online (ArcGIS Online),services1.arcgis.com,1,US
+"Geography & Spatial Sciences, University of Tasmania (ArcGIS Online)",services2.arcgis.com,1,US
+Geoguyane,datacarto.geoguyane.fr,1,FR
+Geonode,development.demo.geonode.org,1,IT
+Georgia Geospatial Information Office (ArcGIS Online),services7.arcgis.com,1,US
+Georgia Southern University (ArcGIS Online),services7.arcgis.com,1,US
+Getech Group plc (ArcGIS Online),services1.arcgis.com,1,GB
+Github,github.com,1,CA
+Glenn County | GIS (ArcGIS Online),services3.arcgis.com,1,US
+Global Fishing Watch (ArcGIS Online),services7.arcgis.com,1,US
+Global to Local to Global (ArcGIS Online),services3.arcgis.com,1,CA
+Globalnames,verifier.globalnames.org,1,US
+Gobierno Nacional (ArcGIS Online),services5.arcgis.com,1,US
+Goulburn Broken CMA (ArcGIS Online),services.arcgis.com,1,AU
+Govcloud,opendataapi.dmi.dk,1,DK
+Government of Bermuda (ArcGIS Online),services5.arcgis.com,1,US
+"Grant County, Washington (ArcGIS Online)",services2.arcgis.com,1,US
+Great Egg Harbor Watershed Association (ArcGIS Online),services6.arcgis.com,1,US
+Great Plains Institute (ArcGIS Online),services1.arcgis.com,1,US
+Greater Wellington Regional Council (ArcGIS Online),services2.arcgis.com,1,NZ
+Greek Biotope Wetland Center (ArcGIS Online),services9.arcgis.com,1,US
+"Green Lake County, Wisconsin (ArcGIS Online)",services2.arcgis.com,1,US
+Grey County (ArcGIS Online),services1.arcgis.com,1,US
+Guide to the Geographic Approach (ArcGIS Online),services3.arcgis.com,1,US
+Gulf Coast Water Authority (ArcGIS Online),services3.arcgis.com,1,US
+Gulf Council Geospatial Data Portal (ArcGIS Online),services9.arcgis.com,1,US
+HR&A Advisors (ArcGIS Online),services3.arcgis.com,1,US
+Hakai,geospatial.hakai.org,1,US
+Hampden-Sydney College (ArcGIS Online),services6.arcgis.com,1,US
+Hawaii Local2030 Hub (ArcGIS Online),services8.arcgis.com,1,US
+Heritage High School (ArcGIS Online),services2.arcgis.com,1,US
+Hood Canal Coordinating Council (ArcGIS Online),services.arcgis.com,1,US
+Horizons,maps.horizons.govt.nz,1,NZ
+Horne,arcgis.horne.com,1,US
+Housing and Community Development (ArcGIS Online),services6.arcgis.com,1,US
+HubEau (French water data),hubeau.eaufrance.fr,1,FR
+IATI Registry,www.data.gouv.fr,1,FR
+IES Corona de Aragón (ArcGIS Online),services4.arcgis.com,1,ES
+Icgc,geoserveis.icgc.cat,1,ES
+Impact Assessment Agency of Canada (ArcGIS Online),services7.arcgis.com,1,US
+Individual (ArcGIS Online),services8.arcgis.com,1,US
+Ine,servicios.ine.es,1,ES
+Ine,www.ine.es,1,ES
+Ingham County Drain Office (ArcGIS Online),services3.arcgis.com,1,US
+"Inner Corridor Technologies, Inc. (ArcGIS Online)",services.arcgis.com,1,US
+Instituto de Investigaciones Marinas y Costeras (ArcGIS Online),services7.arcgis.com,1,ES
+"Integra Design Group, PSC (ArcGIS Online)",services2.arcgis.com,1,US
+International Research Institute of Disaster Science (ArcGIS Online),services6.arcgis.com,1,US
+Ipma,api.ipma.pt,1,PT
+Ipswich Public Schools (ArcGIS Online),services4.arcgis.com,1,US
+Island Conservation (ArcGIS Online),services5.arcgis.com,1,US
+JMT Technology Group (ArcGIS Online),services1.arcgis.com,1,US
+JPT with RECS international (ArcGIS Online),services5.arcgis.com,1,JP
+Jagiellonian University (ArcGIS Online),services6.arcgis.com,1,GB
+James Madison University Geospatial Semester KK (ArcGIS Online),services.arcgis.com,1,US
+James River Association (ArcGIS Online),services7.arcgis.com,1,US
+Jekyll Island State Park Authority (ArcGIS Online),services9.arcgis.com,1,US
+Kansas State Government GIS (ArcGIS Online),services1.arcgis.com,1,US
+Kearsarge Regional School District (ArcGIS Online),services4.arcgis.com,1,US
+Keene State College Geography (ArcGIS Online),services5.arcgis.com,1,US
+Kingston University (ArcGIS Online),services6.arcgis.com,1,GB
+Kurt Radamaker (Birding The Cloud) (ArcGIS Online),services6.arcgis.com,1,US
+LCRV Council of Governments (ArcGIS Online),services7.arcgis.com,1,US
+LINGO (ArcGIS Online),services6.arcgis.com,1,US
+Lacounty,arcgis.gis.lacounty.gov,1,US
+Lacounty,public.gis.lacounty.gov,1,US
+Lacounty,rpgis.isd.lacounty.gov,1,US
+Laguna Ocean Foundation (ArcGIS Online),services7.arcgis.com,1,US
+Land Information New Zealand (ArcGIS Online),services.arcgis.com,1,NZ
+Land and Natural Resources (ArcGIS Online),services.arcgis.com,1,US
+Lazio,dati.lazio.it,1,IT
+Lbeg,nibis.lbeg.de,1,DE
+Lee County Florida GIS (ArcGIS Online),services2.arcgis.com,1,US
+Lewis Center For Educational Research (ArcGIS Online),services4.arcgis.com,1,US
+Library of Congress Online GIS Portal (ArcGIS Online),services5.arcgis.com,1,US
+LimnoTech (ArcGIS Online),services1.arcgis.com,1,US
+Lincolncounty,arcgisserver.lincolncounty.org,1,US
+Lomma,gis.lomma.se,1,SE
+Lounaistieto,geoserver.lounaistieto.fi,1,FI
+MSP Knowledge Catalogue,ows.emodnet-humanactivities.eu,1,EU
+MSP Knowledge Catalogue,ows.emodnet-seabedhabitats.eu,1,EU
+Maine,gis.maine.gov,1,US
+Manatee County Organization (ArcGIS Online),services1.arcgis.com,1,US
+Map GeoGeeks from Spain (ArcGIS Online),services3.arcgis.com,1,ES
+MapAction (ArcGIS Online),services2.arcgis.com,1,FR
+MapX (ArcGIS Online),services8.arcgis.com,1,CA
+Mappmycity,mappmycity.ca,1,US
+Maps & Apps (ArcGIS Online),services5.arcgis.com,1,US
+MarinMap (ArcGIS Online),services7.arcgis.com,1,US
+Marine & Port Consultans SAS (ArcGIS Online),services2.arcgis.com,1,CO
+Marine Institute (ArcGIS Online),services8.arcgis.com,1,IE
+Marist GeoSpatial (ArcGIS Online),services5.arcgis.com,1,US
+Marlborough,hydro.marlborough.govt.nz,1,NZ
+"Marstel-Day, LLC (ArcGIS Online)",services6.arcgis.com,1,US
+"Martin County, Florida (ArcGIS Online)",services.arcgis.com,1,US
+Mbta,api-v3.mbta.com,1,US
+Mcht,gis.mcht.org,1,US
+Mdba,gis.mdba.gov.au,1,GB
+Memphremagog Conservation (MCI) (ArcGIS Online),services6.arcgis.com,1,FR
+Menv,gis.menv.com,1,US
+Miami University (ArcGIS Online),services1.arcgis.com,1,US
+Midpeninsula Regional Open Space District (ArcGIS Online),services2.arcgis.com,1,US
+Miljodirektoratet,kart2.miljodirektoratet.no,1,NO
+Min. de l'Environnement et de la Transition Ecologique (ArcGIS Online),services3.arcgis.com,1,FR
+Ministry of VROMI ArcGIS Online (ArcGIS Online),services7.arcgis.com,1,US
+"Minnesota State University, Mankato (ArcGIS Online)",services.arcgis.com,1,US
+Model Health Organization (ArcGIS Online),services2.arcgis.com,1,US
+Moffatt & Nichol (ArcGIS Online),services1.arcgis.com,1,US
+Montana Geographic Information (ArcGIS Online),services.arcgis.com,1,US
+Montgomeryplans,montgomeryplans.org,1,US
+Mountain Rescue Association (ArcGIS Online),services2.arcgis.com,1,US
+Mountainland Association of Governments (ArcGIS Online),services2.arcgis.com,1,US
+Mozgis,www.mozgis.gov.mz,1,MZ
+Multnomah County Maps (ArcGIS Online),services5.arcgis.com,1,US
+Municipality of Anchorage (ArcGIS Online),services2.arcgis.com,1,US
+Myanmar Information Management Unit (ArcGIS Online),services6.arcgis.com,1,US
+Myokaloosa,okgis.myokaloosa.com,1,US
+NAPSG Foundation (ArcGIS Online),services.arcgis.com,1,US
+NHDES ArcGIS Online (ArcGIS Online),services1.arcgis.com,1,US
+NYS OPRHP (ArcGIS Online),services.arcgis.com,1,US
+NYSERDA (NYS Energy R&D Authority) (ArcGIS Online),services7.arcgis.com,1,US
+Nantes Métropole (ArcGIS Online),services6.arcgis.com,1,FR
+Nasa,archive.podaac.earthdata.nasa.gov,1,US
+National Center for Atmospheric Research (ArcGIS Online),services1.arcgis.com,1,US
+National Tribal Geographic Information Support Center (ArcGIS Online),services6.arcgis.com,1,US
+Nationalmap,partnerships.nationalmap.gov,1,US
+Nature Foundation Sint Maarten (ArcGIS Online),services.arcgis.com,1,NL
+Naturvardsverket,geodata.naturvardsverket.se,1,SE
+Nelson City Council (ArcGIS Online),services1.arcgis.com,1,NZ
+Network Integrity Assurance Technologies (NiAT) Sdn Bhd (ArcGIS Online),services3.arcgis.com,1,US
+New York Metropolitan Transportation Council (ArcGIS Online),services1.arcgis.com,1,US
+Noaa,maps.fisheries.noaa.gov,1,US
+Noaa,services.dat.noaa.gov,1,US
+Norfolk,gisshare.norfolk.gov,1,US
+Northern Virginia Regional Commission (ArcGIS Online),services5.arcgis.com,1,US
+Novascotia,nsgiwa2.novascotia.ca,1,CA
+Npmjs,registry.npmjs.org,1,US
+Nsw,mapprod1.environment.nsw.gov.au,1,US
+OEUK (ArcGIS Online),services3.arcgis.com,1,GB
+Ocean City NJ (ArcGIS Online),services7.arcgis.com,1,US
+Ocean Wise (ArcGIS Online),services8.arcgis.com,1,US
+Oceans North (ArcGIS Online),services6.arcgis.com,1,US
+Ocfl,ocgis4.ocfl.net,1,US
+Ocgis,www.ocgis.com,1,US
+Office National pour l'Environnement (ArcGIS Online),services7.arcgis.com,1,US
+Official Statistics (ArcGIS Online),services6.arcgis.com,1,US
+Oil Spill Response Ltd (ArcGIS Online),services6.arcgis.com,1,GB
+Onslow County GIS (ArcGIS Online),services7.arcgis.com,1,US
+Open Data Pakistan,opendata.com.pk,1,PK
+Open data van de Overheid,inspire.bathy.online,1,NL
+Orange Water and Sewer Authority (ArcGIS Online),services2.arcgis.com,1,US
+Oregon,gis.odf.oregon.gov,1,US
+Organizaciones globales y sin ánimo de lucro (ArcGIS Online),services3.arcgis.com,1,CO
+Ornl,openenergyhub.ornl.gov,1,US
+Outdoor Alliance (ArcGIS Online),services7.arcgis.com,1,US
+Pacific Wild Alliance (ArcGIS Online),services5.arcgis.com,1,US
+Palm Beach County GIS (ArcGIS Online),services1.arcgis.com,1,US
+Palm Beach State College (ArcGIS Online),services7.arcgis.com,1,US
+Pape Dawson,maps.pape-dawson.com,1,US
+Pdok,api.pdok.nl,1,NL
+Philadelphia Water Department (ArcGIS Online),services2.arcgis.com,1,US
+"Pierce County, Washington (ArcGIS Online)",services2.arcgis.com,1,US
+Piercecountywa,internal.open.piercecountywa.gov,1,US
+Piercecountywa,open.piercecountywa.gov,1,US
+Pigma,www.pigma.org,1,FR
+Pilbara Ports Authority (ArcGIS Online),services2.arcgis.com,1,AU
+Politecnico di Torino (ArcGIS Online),services3.arcgis.com,1,US
+Portal de datos abiertos - Junta de Anda,www.juntadeandalucia.es,1,ES
+Portland District ArcGIS Online Organization (ArcGIS Online),services6.arcgis.com,1,US
+Power of Data (ArcGIS Online),services4.arcgis.com,1,US
+Profiling Evil (ArcGIS Online),services5.arcgis.com,1,US
+Puget Sound Restoration Fund (ArcGIS Online),services5.arcgis.com,1,US
+Purchase College (ArcGIS Online),services3.arcgis.com,1,US
+Qld,geopublic.scc.qld.gov.au,1,US
+Qld,spatial-gis.information.qld.gov.au,1,GB
+REDLINE HOLDINGS SAS (ArcGIS Online),services3.arcgis.com,1,CO
+RI Emergency Management Agency (ArcGIS Online),services.arcgis.com,1,US
+Remington & Vernick Engineers (ArcGIS Online),services5.arcgis.com,1,US
+Roktech,arcgis5.roktech.net,1,US
+Roumoiseine,opendata.roumoiseine.fr,1,FR
+Rummel Klepper & Kahl (ArcGIS Online),services1.arcgis.com,1,US
+Rvca,gis.rvca.ca,1,US
+Région Réunion (ArcGIS Online),services8.arcgis.com,1,FR
+SAU66 Schools (ArcGIS Online),services1.arcgis.com,1,US
+SDG Data Alliance (ArcGIS Online),services7.arcgis.com,1,US
+SIG Universidad del Zulia (ArcGIS Online),services1.arcgis.com,1,VE
+SIP4D-CKAN,gbank.gsj.jp,1,JP
+Saint Mary's University of Minnesota (ArcGIS Online),services.arcgis.com,1,US
+Salisbury,geoservices.salisbury.edu,1,US
+Salzburg,www.salzburg.gv.at,1,AT
+San Bernardino County Countywide Plan (ArcGIS Online),services9.arcgis.com,1,US
+San Diego State University (ArcGIS Online),services1.arcgis.com,1,US
+Santa Barbara County Trails Council (ArcGIS Online),services5.arcgis.com,1,US
+Santa Clara Valley Water District (ArcGIS Online),services2.arcgis.com,1,US
+Santabarbaraca,gisportal.santabarbaraca.gov,1,US
+Santfeliu,gis.santfeliu.cat,1,ES
+Sarawak Information Systems Sdn Bhd (ArcGIS Online),services9.arcgis.com,1,US
+Sardegnasira,www.sardegnasira.it,1,IT
+Scgov,ags3.scgov.net,1,US
+Seabrook Island Property Owners Association (ArcGIS Online),services3.arcgis.com,1,US
+Selkirk College SEG & Selkirk Innovates (ArcGIS Online),services2.arcgis.com,1,US
+Servicio de Biodiversidad y Áreas Protegidas (ArcGIS Online),services.arcgis.com,1,CL
+Sfwmd,geoportal.sfwmd.gov,1,US
+Sierra Nevada Conservancy (ArcGIS Online),services1.arcgis.com,1,US
+Smcgov,gis.smcgov.org,1,US
+Snohomish County (ArcGIS Online),services6.arcgis.com,1,US
+South Florida Water Management District (ArcGIS Online),services1.arcgis.com,1,US
+South Florida Water Management District Community Hub (ArcGIS Online),services.arcgis.com,1,US
+South Portland GIS (ArcGIS Online),services5.arcgis.com,1,US
+South-East Zoo Alliance for Reproduction & Conservation (ArcGIS Online),services1.arcgis.com,1,US
+Squidle,squidle.org,1,AU
+St Pete Innovation District (ArcGIS Online),services7.arcgis.com,1,US
+Stacindex,stacindex.org,1,US
+Stat,andmed.stat.ee,1,EE
+Stat,bank.stat.gl,1,GL
+State of Connecticut (ArcGIS Online),services3.arcgis.com,1,US
+State of North Dakota (ArcGIS Online),services1.arcgis.com,1,US
+Stevens County AGOL (ArcGIS Online),services.arcgis.com,1,US
+Sussex Biodiversity Record Centre (ArcGIS Online),services3.arcgis.com,1,GB
+Syracuse University (ArcGIS Online),services.arcgis.com,1,US
+Tangipahoa,tangis.tangipahoa.org,1,US
+Tco,data.tco.re,1,RE
+Teaching Atlas (ArcGIS Online),services7.arcgis.com,1,US
+Technion - Israel Institute of Technology (ArcGIS Online),services1.arcgis.com,1,IL
+Tellus Civic Science (ArcGIS Online),services6.arcgis.com,1,US
+Tendring District Council (ArcGIS Online),services1.arcgis.com,1,GB
+Tennessee Wildlife Resources Agency (ArcGIS Online),services3.arcgis.com,1,US
+Texas State University (ArcGIS Online),services1.arcgis.com,1,US
+Texas Tech University (ArcGIS Online),services2.arcgis.com,1,US
+The Children's Trust (ArcGIS Online),services5.arcgis.com,1,US
+The Geospatial Center at Delta State University (ArcGIS Online),services6.arcgis.com,1,US
+The Stimson Center (ArcGIS Online),services9.arcgis.com,1,US
+The University of Melbourne (ArcGIS Online),services6.arcgis.com,1,US
+The Xerces Society (ArcGIS Online),services5.arcgis.com,1,US
+Thedata,plymouth.thedata.place,1,GB
+Thompson-Nicola Regional District (ArcGIS Online),services3.arcgis.com,1,CA
+Timmons Group (ArcGIS Online),services.arcgis.com,1,US
+Toms River Township (ArcGIS Online),services2.arcgis.com,1,US
+Topofthesouthmaps,topofthesouthmaps.co.nz,1,US
+"Town of Amherst, NH (ArcGIS Online)",services7.arcgis.com,1,US
+Town of Oak Island (ArcGIS Online),services1.arcgis.com,1,US
+"Town of Rockport, MA (ArcGIS Online)",services5.arcgis.com,1,US
+Town of Sidney (ArcGIS Online),services5.arcgis.com,1,US
+Town of Wellesley (ArcGIS Online),services6.arcgis.com,1,US
+Towson University (ArcGIS Online),services1.arcgis.com,1,US
+Transparenciacatalunya,analisi.transparenciacatalunya.cat,1,ES
+Transport Industry (ArcGIS Online),services6.arcgis.com,1,KE
+Tulaliptribes Nsn,gismaps2.tulaliptribes-nsn.gov,1,US
+Tweed Shire Council (ArcGIS Online),services1.arcgis.com,1,AU
+UA Community College - Batesville (ArcGIS Online),services7.arcgis.com,1,US
+UC San Diego Extended Studies (ArcGIS Online),services6.arcgis.com,1,US
+UCSF Academic & Research GIS (ArcGIS Online),services2.arcgis.com,1,US
+UK Open data portal,inspire.hes.scot,1,GB
+UN Environment World Conservation Monitoring Centre (ArcGIS Online),services5.arcgis.com,1,US
+UNIGIS America Latina (ArcGIS Online),services8.arcgis.com,1,ES
+UPlan Map Center (ArcGIS Online),services.arcgis.com,1,US
+"US Army Corps of Engineers, Sacramento District (ArcGIS Online)",services5.arcgis.com,1,US
+USDA NRCS ArcGIS Online (ArcGIS Online),services.arcgis.com,1,US
+Unep Wcmc,data-gis.unep-wcmc.org,1,US
+Unipa,dati.unipa.it,1,IT
+Universidade de Coimbra (ArcGIS Online),services7.arcgis.com,1,PT
+Universita degli studi di Milano - Bicocca (ArcGIS Online),services1.arcgis.com,1,IT
+Universitat Autònoma de Barcelona (ArcGIS Online),services.arcgis.com,1,US
+University College Cork (ArcGIS Online),services.arcgis.com,1,US
+University of Amsterdam (ArcGIS Online),services1.arcgis.com,1,NL
+University of Arkansas Geosciences (ArcGIS Online),services6.arcgis.com,1,US
+University of Maine at Machias GIS Service Center (ArcGIS Online),services1.arcgis.com,1,US
+University of Memphis (ArcGIS Online),services1.arcgis.com,1,US
+University of Michigan (Dev) (ArcGIS Online),services8.arcgis.com,1,US
+University of Montana | Academic and Research Site (ArcGIS Online),services1.arcgis.com,1,US
+University of Otago (ArcGIS Online),services1.arcgis.com,1,NZ
+University of Texas at Dallas (ArcGIS Online),services2.arcgis.com,1,GB
+University of Virginia (ArcGIS Online),services2.arcgis.com,1,US
+University of Washington Tacoma Geospatial Technologies (ArcGIS Online),services3.arcgis.com,1,US
+University of Wisconsin - Whitewater (ArcGIS Online),services1.arcgis.com,1,US
+Université de Genève (ArcGIS Online),services1.arcgis.com,1,FR
+Usda,agtransport.usda.gov,1,US
+Usda,geo.fas.usda.gov,1,US
+VHB Maps Online (ArcGIS Online),services1.arcgis.com,1,US
+VT Center for Geographic Information (ArcGIS Online),services1.arcgis.com,1,US
+"Van Cleef Engineering, LLC (ArcGIS Online)",services7.arcgis.com,1,US
+Vcgov,maps5.vcgov.org,1,US
+Vermont,anrmaps.vermont.gov,1,US
+Village of Palmetto Bay (ArcGIS Online),services5.arcgis.com,1,US
+WILDCOAST (ArcGIS Online),services8.arcgis.com,1,US
+Waimakariri District Council (ArcGIS Online),services1.arcgis.com,1,US
+Walworth County ArcGIS Online (ArcGIS Online),services1.arcgis.com,1,US
+Washington State Geospatial Portal (ArcGIS Online),services.arcgis.com,1,US
+Washington State Parks and Recreation (ArcGIS Online),services5.arcgis.com,1,US
+Washington University in St. Louis (ArcGIS Online),services2.arcgis.com,1,US
+Wcc,gis.wcc.govt.nz,1,GB
+Welcome to the City of Corona GIS System (ArcGIS Online),services3.arcgis.com,1,US
+Wesleyan University (ArcGIS Online),services2.arcgis.com,1,US
+West Michigan Shoreline Regional Development Commission (ArcGIS Online),services.arcgis.com,1,US
+Wiedner Gymnasium (ArcGIS Online),services4.arcgis.com,1,AT
+Williams College (ArcGIS Online),services.arcgis.com,1,US
+Wyoming State Geological Survey (ArcGIS Online),services.arcgis.com,1,US
+"akorn environmental consulting, LLC (ArcGIS Online)",services8.arcgis.com,1,US
+arcgis_dae (ArcGIS Online),services7.arcgis.com,1,US
+data.europa.eu (EU open data portal),geofiles.be.ch,1,EU
+data.europa.eu (EU open data portal),ocean.nivel.bazg.admin.ch,1,EU
+data.gouv.fr (France open data),data.statistiques.developpement-durable.gouv.fr,1,FR
+data.gouv.nc,data.gouv.nc,1,NC
+data.gov.au,data.ballarat.vic.gov.au,1,AU
+data.gov.au,discover.data.vic.gov.au,1,AU
+data.gov.hk,cd.epic.epd.gov.hk,1,HK
+data.gov.sg,data.gov.sg,1,SG
+datamillnorth.org,datamillnorth.org,1,GB
+fwp-gis.mt.gov,fwp-gis.mt.gov,1,US
+geo.salvador.ba.gov.br,geo.salvador.ba.gov.br,1,BR
+geodataservices.wdfw.wa.gov,geodataservices.wdfw.wa.gov,1,US
+geoserver.digitale-mrn.de,geoserver.digitale-mrn.de,1,DE
+gis.co.richland.nd.us,gis.co.richland.nd.us,1,US
+gis.des.nh.gov,gis.des.nh.gov,1,US
+gis.slocounty.ca.gov,gis.slocounty.ca.gov,1,US
+maps-cartes.ec.gc.ca,maps-cartes.ec.gc.ca,1,CA
+maps.brucecounty.on.ca,maps.brucecounty.on.ca,1,US
+maps.cityofventura.ca.gov,maps.cityofventura.ca.gov,1,US
+maps.co.palm-beach.fl.us,maps.co.palm-beach.fl.us,1,US
+maps.es.govt.nz,maps.es.govt.nz,1,NZ
+maps.gov.scot,maps.gov.scot,1,GB
+maps.nj.gov,maps.nj.gov,1,US
+mapservices.crd.bc.ca,mapservices.crd.bc.ca,1,US
+opendata.readi.de,opendata.readi.de,1,DE
+shared.tern.org.au,shared.tern.org.au,1,AU
+tiles-eu1.arcgis.com,tiles-eu1.arcgis.com,1,GB
+www.data.gov.bh,www.data.gov.bh,1,BH
+החברה להגנת הטבע (ArcGIS Online),services1.arcgis.com,1,IL
+משרד החקלאות ופיתוח הכפר (ArcGIS Online),services3.arcgis.com,1,IL
+北海道立総合研究機構 (ArcGIS Online),services6.arcgis.com,1,JP
+ArcGIS Online: BLM Natl REA Middle Rockies Rapid Ecoregional Assessment (RE,blm-egis.maps.arcgis.com,1,
+ArcGIS Online: Long Range Flood Outlook 3 Months 5 Percent,mapservices.weather.noaa.gov,1,
+ArcGIS organization 3lrF0m5n9lXKppw2,services4.arcgis.com,1,
+ArcGIS organization 3v7Xc1SNYZV9hhmP,services-eu1.arcgis.com,1,
+ArcGIS organization 3zO4MTaCrKgSue0g,services6.arcgis.com,1,
+ArcGIS organization 7rtHjarZXSDfzbIf,services2.arcgis.com,1,
+ArcGIS organization 92HO0J5O9FPqRx5K,services6.arcgis.com,1,
+ArcGIS organization BuS9rtTsYEV5C0xh,services-eu1.arcgis.com,1,
+ArcGIS organization FGcnAbfUGHEZZ7XP,services6.arcgis.com,1,
+ArcGIS organization JUtqLSIOCrNXmrNJ,services8.arcgis.com,1,
+ArcGIS organization L4H4rU26VyhEF588,services.arcgis.com,1,
+ArcGIS organization PFVCIFl50Rw7JkgE,services5.arcgis.com,1,
+ArcGIS organization Qidq6401tFLB4s0T,services6.arcgis.com,1,
+ArcGIS organization QweyPk0HoFrLzJR6,services1.arcgis.com,1,
+ArcGIS organization TRR9BpAzCSTHJxrA,services6.arcgis.com,1,
+ArcGIS organization TTlMc8ABDAennz3C,services9.arcgis.com,1,
+ArcGIS organization XUJAGlV0BI2vjmLV,services4.arcgis.com,1,
+ArcGIS organization avPnMsVZCi41V9RF,services2.arcgis.com,1,
+ArcGIS organization d0aKoUP6SrSc9Otp,services-eu1.arcgis.com,1,
+ArcGIS organization eGxbjQHAaCzj5COh,services5.arcgis.com,1,
+ArcGIS organization eyU1lVcSnKSGItET,services3.arcgis.com,1,
+ArcGIS organization f40K08Oi6MJ81grg,services6.arcgis.com,1,
+ArcGIS organization g9yGZvLOFadHi4eJ,services9.arcgis.com,1,
+ArcGIS organization iv0BLxm1Ob5oB8rs,services6.arcgis.com,1,
+ArcGIS organization jnepx3j92brrdjQc,services6.arcgis.com,1,
+ArcGIS organization n1Zybd8unmcByNwc,services9.arcgis.com,1,
+ArcGIS organization ne6DRAEjrxNIp2Wo,services7.arcgis.com,1,
+ArcGIS organization oVOe9aGGWRAgVVXZ,services7.arcgis.com,1,
+ArcGIS organization pmcEyn9tLWCoX7Dm,services.arcgis.com,1,
+ArcGIS organization qnuLPzqZhawWzvJ1,services6.arcgis.com,1,
+ArcGIS organization sl2MIZLsarThM3UA,services-ap1.arcgis.com,1,
+ArcGIS organization t1x2fCpzwVTiotcK,services6.arcgis.com,1,
+ArcGIS organization tpgQPPMZ7gXydUFJ,services8.arcgis.com,1,
+ArcGIS organization vc7UZnG2GuqHGnrs,services4.arcgis.com,1,
+ArcGIS organization wUTTi9yj7Gootw3V,services9.arcgis.com,1,
+ArcGIS organization xDuE8FAOSRUO8uaZ,services.arcgis.com,1,
+Columbus State Community College (ArcGIS Online),services.arcgis.com,1,
+DataCite,api.datacite.org,1,
+Dataanr (Opendatasoft),dataanr.opendatasoft.com,1,
+Datopian Open Data,d2ad6b4ur7yvpq.cloudfront.net,1,
+EGNOS (ArcGIS Online),services6.arcgis.com,1,
+Ecosis,data.ecosis.org,1,
+Electricitedemayotte,opendata.electricitedemayotte.com,1,
+Forest Atlas,gis.forest-atlas.org,1,
+IATI Registry,s3.amazonaws.com,1,
+Ohsome,downloads.ohsome.org,1,
+Okanagan College (ArcGIS Online),services3.arcgis.com,1,
+Pacificdata,stats-sdmx-disseminate.pacificdata.org,1,
+Submarine Cable Map data,www.submarinecablemap.com,1,
+Tpcmaps,gis.tpcmaps.org,1,
+UNIDO PST/SIB (ArcGIS Online),services6.arcgis.com,1,
+Unece,w3.unece.org,1,
+University of Central Arkansas (ArcGIS Online),services6.arcgis.com,1,
+Windows,coclico.blob.core.windows.net,1,
+WorldPop STAC,api.stac.worldpop.org,1,
+openAFRICA,open.africa,1,

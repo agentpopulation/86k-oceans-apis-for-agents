@@ -1,0 +1,36 @@
+{
+  "name": "86k-oceans-apis-for-agents",
+  "old_name": "oceans-api-endpoints",
+  "new_name": "86k-oceans-apis-for-agents",
+  "url": "https://github.com/agentpopulation/86k-oceans-apis-for-agents",
+  "description": "86,107 ocean and marine API endpoints that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "homepage": "https://agentpopulation.com/apis",
+  "topics": [
+    "api-endpoints",
+    "open-data",
+    "dataset",
+    "ai-agents",
+    "agent-tools",
+    "agentpopulation",
+    "ocean-data",
+    "oceanography",
+    "marine-data",
+    "sea-level",
+    "tide-gauge",
+    "buoy-data",
+    "erddap",
+    "sea-surface-temperature",
+    "coastal",
+    "geospatial"
+  ],
+  "release": {
+    "tag": "snapshot-2026-11-15",
+    "title": "Ocean and marine API endpoints · snapshot 15 Nov 2026 · 86,107 endpoints",
+    "notesFile": "RELEASE_NOTES.md",
+    "manifest": "../_release/oceans-api-endpoints/release.json",
+    "assets": [
+      "../_release/oceans-api-endpoints/Ocean_Marine_API_Endpoints_AgentPopulation_Snapshot_2026-11-15.csv.gz",
+      "../_release/oceans-api-endpoints/SHA256SUMS.txt"
+    ]
+  }
+}

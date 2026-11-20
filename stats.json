@@ -1,0 +1,1986 @@
+{
+  "repo": "oceans-api-endpoints",
+  "title": "Ocean and marine API endpoints",
+  "snapshot": "2026-11-15",
+  "snapshot_text": "15 Nov 2026",
+  "snapshot_time": "2026-11-15 09:06:22 IST",
+  "tested_total": 5129834,
+  "passed_total": 3726509,
+  "rows": 86107,
+  "unique_urls": 86107,
+  "services": 2241,
+  "country_codes": 129,
+  "single_country": null,
+  "agent_ready": 68292,
+  "range": {
+    "min": "2026-11-10",
+    "max": "2026-11-15",
+    "text": "10–15 Nov 2026"
+  },
+  "formats": {
+    "json": 68292,
+    "xml": 8845,
+    "csv": 5817,
+    "geojson": 1758,
+    "txt": 922,
+    "zip": 471,
+    "gtfs": 2
+  },
+  "categories": {
+    "Hydrology & Oceans": 69282,
+    "Environment": 4201,
+    "Science": 3814,
+    "Maritime": 2484,
+    "Weather & Climate": 2482,
+    "Navigation & Geo/Maps": 1729,
+    "Government & Open Data": 1157,
+    "Hazards": 549,
+    "Transport & Mobility": 149,
+    "Statistics & Economy": 82,
+    "Finance": 75,
+    "Energy": 66,
+    "Aviation": 31,
+    "Health": 6
+  },
+  "tags": {
+    "no-key": 86107,
+    "oceans": 86107,
+    "water": 69282,
+    "agent-ready": 68292,
+    "json": 68292,
+    "science": 22156,
+    "maps": 14648,
+    "open-data": 13855,
+    "xml": 8845,
+    "environment": 5832,
+    "csv": 5817,
+    "weather": 5545,
+    "maritime": 2943,
+    "government": 1832,
+    "geojson": 1758,
+    "statistics": 1631,
+    "rivers": 1321,
+    "traffic": 970,
+    "tides": 919,
+    "elevation": 777,
+    "economy": 714,
+    "climate": 657,
+    "hazards": 574,
+    "forecast": 426,
+    "transit": 420,
+    "energy": 316,
+    "finance": 290,
+    "floods": 245,
+    "health": 179,
+    "aviation": 122,
+    "earthquakes": 90,
+    "groundwater": 83,
+    "tsunami": 48,
+    "air-quality": 25,
+    "volcanoes": 16,
+    "ai-ml": 14,
+    "geocoding": 7,
+    "wildfire": 6,
+    "parking": 5,
+    "speech": 5,
+    "gtfs": 3,
+    "mcp-server": 2
+  },
+  "dates": {
+    "2026-11-15": 52868,
+    "2026-11-14": 32513,
+    "2026-11-13": 146,
+    "2026-11-12": 530,
+    "2026-11-11": 49,
+    "2026-11-10": 1
+  },
+  "countryNames": {
+    "US": "United States",
+    "SE": "Sweden",
+    "CA": "Canada",
+    "EU": "European Union",
+    "IE": "Ireland",
+    "SG": "Singapore",
+    "DE": "Germany",
+    "GB": "United Kingdom",
+    "ES": "Spain",
+    "NZ": "New Zealand",
+    "AU": "Australia",
+    "FR": "France",
+    "NO": "Norway",
+    "FI": "Finland",
+    "CH": "Switzerland",
+    "IN": "India",
+    "PT": "Portugal",
+    "LT": "Lithuania",
+    "JP": "Japan",
+    "IT": "Italy",
+    "GR": "Greece",
+    "CW": "Curaçao",
+    "VC": "Saint Vincent and the Grenadines",
+    "PE": "Peru",
+    "WS": "Samoa",
+    "RU": "Russia",
+    "KW": "Kuwait",
+    "MS": "Montserrat",
+    "SI": "Slovenia",
+    "GL": "Greenland",
+    "AS": "American Samoa",
+    "KI": "Kiribati",
+    "CL": "Chile",
+    "LV": "Latvia",
+    "NL": "Netherlands",
+    "MM": "Myanmar",
+    "BE": "Belgium",
+    "PL": "Poland",
+    "HK": "Hong Kong",
+    "TW": "Taiwan",
+    "ID": "Indonesia",
+    "IO": "British Indian Ocean Territory",
+    "SA": "Saudi Arabia",
+    "MP": "Northern Mariana Islands",
+    "TV": "Tuvalu",
+    "DK": "Denmark",
+    "CO": "Colombia",
+    "PH": "Philippines",
+    "OM": "Oman",
+    "IS": "Iceland",
+    "EE": "Estonia",
+    "AI": "Anguilla",
+    "TH": "Thailand",
+    "BR": "Brazil",
+    "BB": "Barbados",
+    "ZA": "South Africa",
+    "TR": "Turkiye",
+    "GU": "Guam",
+    "NI": "Nicaragua",
+    "BS": "Bahamas",
+    "FO": "Faroe Islands",
+    "UA": "Ukraine",
+    "TT": "Trinidad and Tobago",
+    "MG": "Madagascar",
+    "LB": "Lebanon",
+    "GT": "Guatemala",
+    "GE": "Georgia",
+    "HT": "Haiti",
+    "MH": "Marshall Islands",
+    "KE": "Kenya",
+    "LA": "Laos",
+    "CN": "China",
+    "MZ": "Mozambique",
+    "MV": "Maldives",
+    "TD": "Chad",
+    "NR": "Nauru",
+    "CK": "Cook Islands",
+    "TK": "Tokelau",
+    "UM": "United States Minor Outlying Islands",
+    "IL": "Israel",
+    "HR": "Croatia",
+    "AT": "Austria",
+    "RO": "Romania",
+    "CY": "Cyprus",
+    "MT": "Malta",
+    "EG": "Egypt",
+    "RS": "Serbia",
+    "FJ": "Fiji",
+    "CC": "Cocos (Keeling) Islands",
+    "PA": "Panama",
+    "PW": "Palau",
+    "EC": "Ecuador",
+    "ME": "Montenegro",
+    "AG": "Antigua and Barbuda",
+    "SB": "Solomon Islands",
+    "FM": "Micronesia",
+    "TZ": "Tanzania",
+    "JM": "Jamaica",
+    "SC": "Seychelles",
+    "BH": "Bahrain",
+    "NC": "New Caledonia",
+    "NU": "Niue",
+    "BG": "Bulgaria",
+    "TG": "Togo",
+    "BM": "Bermuda",
+    "TC": "Turks and Caicos Islands",
+    "KH": "Cambodia",
+    "BZ": "Belize",
+    "AE": "United Arab Emirates",
+    "TO": "Tonga",
+    "WF": "Wallis and Futuna",
+    "VE": "Venezuela",
+    "JO": "Jordan",
+    "PG": "Papua New Guinea",
+    "AR": "Argentina",
+    "SN": "Senegal",
+    "RE": "Réunion",
+    "NF": "Norfolk Island",
+    "VU": "Vanuatu",
+    "PN": "Pitcairn",
+    "MA": "Morocco",
+    "PF": "French Polynesia",
+    "UY": "Uruguay",
+    "VG": "Virgin Islands, British",
+    "PK": "Pakistan",
+    "CX": "Christmas Island",
+    "ER": "Eritrea",
+    "GH": "Ghana",
+    "KR": "South Korea"
+  },
+  "leftOutCredential": 0,
+  "leftOutListing": 0,
+  "left_out_by_reason": {
+    "listing page, not a data call": 0,
+    "credential in the address": 0,
+    "private or local address": 0,
+    "email-like address": 0,
+    "survey form layer": 130,
+    "camera or image URL": 0,
+    "stored-login proxy": 0,
+    "class-exercise copy": 415,
+    "editable layer": 3,
+    "police stop records": 0,
+    "form answer layer": 14,
+    "needs an Indian network location": 0,
+    "leak check match": 0,
+    "coursework layer": 99,
+    "public input layer": 9,
+    "service name like a class layer or a person": 0,
+    "social network server information": 22,
+    "repeated address": 0
+  },
+  "leftOutExcluded": 0,
+  "left_out_by_rule": [],
+  "sample_rows": 1000,
+  "focus_rows": 39850,
+  "arcgis_online_rows": 8122,
+  "subcategories": {},
+  "agent_formats": [
+    "json"
+  ],
+  "largestServices": [
+    {
+      "service": "GRIIDC ERDDAP (Gulf of Mexico)",
+      "display": "GRIIDC ERDDAP (Gulf of Mexico)",
+      "host": "erddap.griidc.org",
+      "endpoints": 11688,
+      "agent_ready": 11688,
+      "in_focus": 217,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Tamu",
+      "display": "Tamu",
+      "host": "gcoos5.geos.tamu.edu",
+      "endpoints": 7739,
+      "agent_ready": 7738,
+      "in_focus": 5739,
+      "country_codes": 1,
+      "formats": [
+        "json",
+        "xml"
+      ]
+    },
+    {
+      "service": "Usgs",
+      "display": "Usgs",
+      "host": "data.usgs.gov",
+      "endpoints": 3718,
+      "agent_ready": 0,
+      "in_focus": 2809,
+      "country_codes": 1,
+      "formats": [
+        "xml"
+      ]
+    },
+    {
+      "service": "Glos",
+      "display": "Glos",
+      "host": "seagull-erddap.glos.org",
+      "endpoints": 3619,
+      "agent_ready": 3619,
+      "in_focus": 81,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Noaa",
+      "display": "Noaa",
+      "host": "data.ngdc.noaa.gov",
+      "endpoints": 3261,
+      "agent_ready": 0,
+      "in_focus": 216,
+      "country_codes": 1,
+      "formats": [
+        "csv",
+        "xml"
+      ]
+    },
+    {
+      "service": "Bodc",
+      "display": "Bodc",
+      "host": "erddap.bodc.ac.uk",
+      "endpoints": 2529,
+      "agent_ready": 2529,
+      "in_focus": 1741,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Noaa",
+      "display": "Noaa",
+      "host": "polarwatch.noaa.gov",
+      "endpoints": 2088,
+      "agent_ready": 2088,
+      "in_focus": 540,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Noaa",
+      "display": "Noaa",
+      "host": "coastwatch.noaa.gov",
+      "endpoints": 2083,
+      "agent_ready": 2083,
+      "in_focus": 1079,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Secoora",
+      "display": "Secoora",
+      "host": "erddap.secoora.org",
+      "endpoints": 2040,
+      "agent_ready": 2040,
+      "in_focus": 693,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Bco Dmo",
+      "display": "Bco Dmo",
+      "host": "erddap.bco-dmo.org",
+      "endpoints": 1919,
+      "agent_ready": 1919,
+      "in_focus": 1668,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Esipfed",
+      "display": "Esipfed",
+      "host": "geoport.usgs.esipfed.org",
+      "endpoints": 1469,
+      "agent_ready": 1469,
+      "in_focus": 25,
+      "country_codes": 0,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Voiceoftheocean",
+      "display": "Voiceoftheocean",
+      "host": "erddap.observations.voiceoftheocean.org",
+      "endpoints": 1375,
+      "agent_ready": 1375,
+      "in_focus": 3,
+      "country_codes": 0,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Icos Cp",
+      "display": "Icos Cp",
+      "host": "erddap.icos-cp.eu",
+      "endpoints": 1189,
+      "agent_ready": 1189,
+      "in_focus": 479,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Cencoos",
+      "display": "Cencoos",
+      "host": "erddap.cencoos.org",
+      "endpoints": 1085,
+      "agent_ready": 1085,
+      "in_focus": 660,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "OBIS (Ocean Biodiversity Information System)",
+      "display": "OBIS (Ocean Biodiversity Information System)",
+      "host": "api.obis.org",
+      "endpoints": 1000,
+      "agent_ready": 1000,
+      "in_focus": 1000,
+      "country_codes": 0,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Copernicus",
+      "display": "Copernicus",
+      "host": "stac.marine.copernicus.eu",
+      "endpoints": 998,
+      "agent_ready": 998,
+      "in_focus": 998,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Marinespecies",
+      "display": "Marinespecies",
+      "host": "www.marinespecies.org",
+      "endpoints": 998,
+      "agent_ready": 998,
+      "in_focus": 998,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Northeastoceandata",
+      "display": "Northeastoceandata",
+      "host": "devservices.northeastoceandata.org",
+      "endpoints": 996,
+      "agent_ready": 996,
+      "in_focus": 996,
+      "country_codes": 0,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Fathomnet",
+      "display": "Fathomnet",
+      "host": "database.fathomnet.org",
+      "endpoints": 993,
+      "agent_ready": 993,
+      "in_focus": 993,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Mosdac",
+      "display": "Mosdac",
+      "host": "mosdac.gov.in",
+      "endpoints": 993,
+      "agent_ready": 0,
+      "in_focus": 993,
+      "country_codes": 1,
+      "formats": [
+        "xml"
+      ]
+    },
+    {
+      "service": "Rutgers",
+      "display": "Rutgers",
+      "host": "tds.marine.rutgers.edu",
+      "endpoints": 983,
+      "agent_ready": 0,
+      "in_focus": 983,
+      "country_codes": 1,
+      "formats": [
+        "xml"
+      ]
+    },
+    {
+      "service": "Csiro",
+      "display": "Csiro",
+      "host": "www.cmar.csiro.au",
+      "endpoints": 979,
+      "agent_ready": 71,
+      "in_focus": 979,
+      "country_codes": 1,
+      "formats": [
+        "geojson",
+        "json"
+      ]
+    },
+    {
+      "service": "Noaa",
+      "display": "Noaa",
+      "host": "www.ncei.noaa.gov",
+      "endpoints": 962,
+      "agent_ready": 121,
+      "in_focus": 54,
+      "country_codes": 1,
+      "formats": [
+        "xml",
+        "json"
+      ]
+    },
+    {
+      "service": "Digitraffic",
+      "display": "Digitraffic",
+      "host": "meri.digitraffic.fi",
+      "endpoints": 922,
+      "agent_ready": 496,
+      "in_focus": 9,
+      "country_codes": 1,
+      "formats": [
+        "json",
+        "geojson"
+      ]
+    },
+    {
+      "service": "Emodnet Physics",
+      "display": "Emodnet Physics",
+      "host": "erddap.emodnet-physics.eu",
+      "endpoints": 921,
+      "agent_ready": 921,
+      "in_focus": 423,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    }
+  ],
+  "bannerGroups": [
+    {
+      "label": "US",
+      "n": 55588,
+      "agent": 45524
+    },
+    {
+      "label": "EU",
+      "n": 4188,
+      "agent": 4141
+    },
+    {
+      "label": "GB",
+      "n": 3328,
+      "agent": 3208
+    },
+    {
+      "label": "CA",
+      "n": 2642,
+      "agent": 1559
+    },
+    {
+      "label": "AU",
+      "n": 1794,
+      "agent": 363
+    },
+    {
+      "label": "IE",
+      "n": 1190,
+      "agent": 250
+    }
+  ],
+  "focus_text": "(title matches /ocean|\\bseas?\\b|seawater|sea[- ]?(level|surface|ice|floor|bed|grass)|marine|coast|\\btides?\\b|tidal|\\bwaves?\\b|buoy|bathym|salin|current|glider|\\bargo\\b|\\bctd\\b|reef|coral|plankton|benth|estuar|gulf|cruise|underway|offshore|mooring|kelp|whale|dolphin|porpoise|turtle|shore|lighthouse|\\bhav|meer|\\bmer\\b|\\bzee\\b|\\bmar\\b|oceanograph/i OR subcategory matches /glider/i) AND NOT title matches /\\bocean (county|city|township|grove|park|beach|springs|shores|drive|ridge|view|pines)|oceanside|oceanville|ocean to ocean/i AND NOT title matches /airport|air force base|raws_|reservoir|above sea level|über meer|ü\\. ?m\\.|lake bathym|river bathym|tributar/i AND NOT host in (raw.githubusercontent.com, apps.glerl.noaa.gov) AND NOT title matches /:\\s*$/i",
+  "buckets": [
+    {
+      "id": "agent",
+      "emoji": "🤖",
+      "name": "Agent tools",
+      "title": "Sea level, sea temperature, wave and current readings an agent can look up",
+      "build": "Wrap one station URL as a get_sea_level or get_sea_temperature tool: pass the station code, return the latest value, its unit and time, with a timeout. Dataset records and map layers in this list need a query of their own.",
+      "filter": {
+        "and": [
+          {
+            "tag": "agent-ready"
+          },
+          {
+            "not": {
+              "urlIncludes": "/erddap/info/"
+            }
+          },
+          {
+            "titleMatches": "sea level|sea[- ]surface|water level|temperatur|wave|current|tide|tidal|salin|buoy|havs|vattenst"
+          },
+          {
+            "titleMatches": "ocean|\\bseas?\\b|seawater|sea[- ]?(level|surface|ice|floor|bed|grass)|marine|coast|\\btides?\\b|tidal|\\bwaves?\\b|buoy|bathym|salin|current|glider|\\bargo\\b|\\bctd\\b|reef|coral|plankton|benth|estuar|gulf|cruise|underway|offshore|mooring|kelp|whale|dolphin|porpoise|turtle|shore|lighthouse|\\bhav|meer|\\bmer\\b|\\bzee\\b|\\bmar\\b|oceanograph"
+          },
+          {
+            "not": {
+              "titleMatches": "sea level rise|\\bslr\\b|inundat|flood"
+            }
+          }
+        ]
+      },
+      "filter_text": "tags has agent-ready AND NOT url contains \"/erddap/info/\" AND title matches /sea level|sea[- ]surface|water level|temperatur|wave|current|tide|tidal|salin|buoy|havs|vattenst/i AND title matches /ocean|\\bseas?\\b|seawater|sea[- ]?(level|surface|ice|floor|bed|grass)|marine|coast|\\btides?\\b|tidal|\\bwaves?\\b|buoy|bathym|salin|current|glider|\\bargo\\b|\\bctd\\b|reef|coral|plankton|benth|estuar|gulf|cruise|underway|offshore|mooring|kelp|whale|dolphin|porpoise|turtle|shore|lighthouse|\\bhav|meer|\\bmer\\b|\\bzee\\b|\\bmar\\b|oceanograph/i AND NOT title matches /sea level rise|\\bslr\\b|inundat|flood/i",
+      "fallback": false,
+      "notes": [
+        {
+          "count": 605,
+          "text": "are map-layer queries that asked for a few records (`resultRecordCount`); raise it or page through for the whole layer."
+        }
+      ],
+      "count": 1409,
+      "services_matching": 244,
+      "country_codes_matching": 65,
+      "formats_matching": 1,
+      "example": {
+        "url": "https://opendata-download-ocobs.smhi.se/api/version/1.0/parameter/12/station/2055/period/latest-day/data.json",
+        "title": "SMHI ocean: Havsvattenstånd, RW timvärde · Furuögrund",
+        "service": "Smhi",
+        "last_tested": "2026-11-14"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and are tagged `agent-ready` (no key sent in the test call, JSON body, passed a data call). Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Sample preference in this bucket: `host is opendata-download-ocobs.smhi.se OR host is www.ioc-sealevelmonitoring.org OR url contains \"product=currents_predictions\"`. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 236,
+        "services": [
+          {
+            "service": "Smhi",
+            "display": "Smhi",
+            "host": "opendata-download-ocobs.smhi.se",
+            "endpoints_in_bucket": 292,
+            "endpoints_in_pack": 334,
+            "country_codes": [
+              "SE"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://opendata-download-ocobs.smhi.se/api/version/1.0/parameter/12/station/2055/period/latest-day/data.json",
+            "sample_title": "SMHI ocean: Havsvattenstånd, RW timvärde · Furuögrund",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          },
+          {
+            "service": "Ioc Sealevelmonitoring",
+            "display": "Ioc Sealevelmonitoring",
+            "host": "www.ioc-sealevelmonitoring.org",
+            "endpoints_in_bucket": 196,
+            "endpoints_in_pack": 196,
+            "country_codes": [
+              "AG",
+              "BM",
+              "BS",
+              "CC",
+              "CW",
+              "CY",
+              "EG",
+              "ER",
+              "FJ",
+              "FM",
+              "GE",
+              "GL",
+              "GT",
+              "GU",
+              "HT",
+              "JM",
+              "JO",
+              "KE",
+              "KI",
+              "KW",
+              "LB",
+              "MA",
+              "ME",
+              "MG",
+              "MS",
+              "MT",
+              "MV",
+              "NI",
+              "NR",
+              "NU",
+              "OM",
+              "PE",
+              "PG",
+              "RS",
+              "RU",
+              "SC",
+              "SI",
+              "TC",
+              "TD",
+              "TO",
+              "VC",
+              "VG",
+              "WS"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://www.ioc-sealevelmonitoring.org/service.php?query=data&code=IsHor&period=1&format=json",
+            "sample_title": "IOC sea level station: Isla Hormiga,Lima_PE, Peru",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          },
+          {
+            "service": "NOAA CO-OPS tides and currents",
+            "display": "NOAA CO-OPS tides and currents",
+            "host": "api.tidesandcurrents.noaa.gov",
+            "endpoints_in_bucket": 97,
+            "endpoints_in_pack": 98,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?date=today&interval=MAX_SLACK&station=ACT1651&product=currents_predictions&units=metric&time_zone=gmt&format=json&application=AgentPopulation",
+            "sample_title": "NOAA Current predictions: Handkerchief Lighted Whistle Buoy 'H',",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          },
+          {
+            "service": "Northeastoceandata",
+            "display": "Northeastoceandata",
+            "host": "devservices.northeastoceandata.org",
+            "endpoints_in_bucket": 64,
+            "endpoints_in_pack": 996,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://devservices.northeastoceandata.org/neoddev/rest/services/EnergyAndInfrastructure/MapServer/155/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "devservices.northeastoceandata.org: EnergyAndInfrastructure / Buoys Within Offshore Wind Leases",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Compute 1 (AWS)",
+            "display": "Compute 1 (AWS)",
+            "host": "ec2-50-19-218-171.compute-1.amazonaws.com",
+            "endpoints_in_bucket": 58,
+            "endpoints_in_pack": 362,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "http://ec2-50-19-218-171.compute-1.amazonaws.com/arcgis1/rest/services/MarineLifeAndHabitat/MapServer/85/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "ec2-50-19-218-171.compute-1.amazonaws.com: MarineLifeAndHabitat / Current PAM deployments",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "PNDB Open Data",
+            "display": "PNDB Open Data",
+            "host": "pndb.opendatasoft.com",
+            "endpoints_in_bucket": 53,
+            "endpoints_in_pack": 544,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://pndb.opendatasoft.com/api/explore/v2.1/catalog/datasets/annually-binned-sea-surface-salinity-temperature-and-density-in-the-north-atlantic-subpolar-gyre-40degn-70degn/records?limit=1",
+            "sample_title": "annually-binned-sea-surface-salinity-temperature-and-density-in-the-north-atlantic-subpolar-gyre-40degn-70degn",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-13"
+          },
+          {
+            "service": "Doi",
+            "display": "Doi",
+            "host": "doi.org",
+            "endpoints_in_bucket": 42,
+            "endpoints_in_pack": 441,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://doi.org/10.5066/F76W990K",
+            "sample_title": "Bathymetric and tidal discharge data for Wilderness Breach, Fire Island National Seashore, Long Island, NY, May 14, 2015 - Bathymetry Raster Surface: U.S. Geological Survey data release - Digital Data",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "NOAA GeoPlatform (ArcGIS Online)",
+            "display": "NOAA GeoPlatform (ArcGIS Online)",
+            "host": "services2.arcgis.com",
+            "endpoints_in_bucket": 40,
+            "endpoints_in_pack": 379,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/AI_Sample_Locations_CURRENT/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&resultRecordCount=5&f=json",
+            "sample_title": "Aleutian Islands Sample Locations CURRENT",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          }
+        ]
+      }
+    },
+    {
+      "id": "app",
+      "emoji": "📱",
+      "name": "App features",
+      "title": "Marine protected areas, sea level rise and coastal map layers",
+      "build": "Draw protected areas, sea level rise zones or reef layers on a coastal map: each layer query returns features with names and classes you can show on a card.",
+      "filter": {
+        "and": [
+          {
+            "tag": "maps"
+          },
+          {
+            "not": {
+              "urlIncludes": "/erddap/info/"
+            }
+          },
+          {
+            "titleMatches": "ocean|\\bseas?\\b|seawater|sea[- ]?(level|surface|ice|floor|bed|grass)|marine|coast|\\btides?\\b|tidal|\\bwaves?\\b|buoy|bathym|salin|current|glider|\\bargo\\b|\\bctd\\b|reef|coral|plankton|benth|estuar|gulf|cruise|underway|offshore|mooring|kelp|whale|dolphin|porpoise|turtle|shore|lighthouse|\\bhav|meer|\\bmer\\b|\\bzee\\b|\\bmar\\b|oceanograph"
+          },
+          {
+            "not": {
+              "titleMatches": "\\bocean (county|city|township|grove|park|beach|springs|shores|drive|ridge|view|pines)|oceanside|oceanville|ocean to ocean"
+            }
+          }
+        ]
+      },
+      "filter_text": "tags has maps AND NOT url contains \"/erddap/info/\" AND title matches /ocean|\\bseas?\\b|seawater|sea[- ]?(level|surface|ice|floor|bed|grass)|marine|coast|\\btides?\\b|tidal|\\bwaves?\\b|buoy|bathym|salin|current|glider|\\bargo\\b|\\bctd\\b|reef|coral|plankton|benth|estuar|gulf|cruise|underway|offshore|mooring|kelp|whale|dolphin|porpoise|turtle|shore|lighthouse|\\bhav|meer|\\bmer\\b|\\bzee\\b|\\bmar\\b|oceanograph/i AND NOT title matches /\\bocean (county|city|township|grove|park|beach|springs|shores|drive|ridge|view|pines)|oceanside|oceanville|ocean to ocean/i",
+      "fallback": false,
+      "notes": [],
+      "count": 8394,
+      "services_matching": 1235,
+      "country_codes_matching": 49,
+      "formats_matching": 5,
+      "example": {
+        "url": "https://devservices.northeastoceandata.org/neoddev/rest/services/BathymetryAndSeafloor/MapServer/14/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+        "title": "devservices.northeastoceandata.org: BathymetryAndSeafloor / Seascapes II – Interpreted Geoforms",
+        "service": "Northeastoceandata",
+        "last_tested": "2026-11-15"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and passed a data call. Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Sample preference in this bucket: `title matches /marine protected|sea level rise|reef|bathym|benthic|buoy|habitat|shoreline/i`. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 1222,
+        "services": [
+          {
+            "service": "Northeastoceandata",
+            "display": "Northeastoceandata",
+            "host": "devservices.northeastoceandata.org",
+            "endpoints_in_bucket": 996,
+            "endpoints_in_pack": 996,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://devservices.northeastoceandata.org/neoddev/rest/services/BathymetryAndSeafloor/MapServer/14/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "devservices.northeastoceandata.org: BathymetryAndSeafloor / Seascapes II – Interpreted Geoforms",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Csiro",
+            "display": "Csiro",
+            "host": "www.cmar.csiro.au",
+            "endpoints_in_bucket": 979,
+            "endpoints_in_pack": 979,
+            "country_codes": [
+              "AU"
+            ],
+            "formats": [
+              "geojson",
+              "json"
+            ],
+            "formats_in_pack": 2,
+            "sample_url": "https://www.cmar.csiro.au/geoserver/ows?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAMES=becrc:becrc_statefisheries_afma_Torres_Strait_Prawn_Fishery_2022_2023&COUNT=10&OUTPUTFORMAT=application%2Fjson",
+            "sample_title": "CSIRO National Collections & Marine Infrastructure (www.cmar.csiro.au): WFS 2.0.0",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Compute 1 (AWS)",
+            "display": "Compute 1 (AWS)",
+            "host": "ec2-50-19-218-171.compute-1.amazonaws.com",
+            "endpoints_in_bucket": 362,
+            "endpoints_in_pack": 362,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "http://ec2-50-19-218-171.compute-1.amazonaws.com/arcgis1/rest/services/Bathymetry/MontaukToNantucketShoalsBathymetry/MapServer/27/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "ec2-50-19-218-171.compute-1.amazonaws.com: Bathymetry/MontaukToNantucketShoalsBathymetry / Contours_10m",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Canadian Urban Data Catalogue (CUDC)",
+            "display": "Canadian Urban Data Catalogue (CUDC)",
+            "host": "geodiscover.alberta.ca",
+            "endpoints_in_bucket": 339,
+            "endpoints_in_pack": 346,
+            "country_codes": [
+              "CA"
+            ],
+            "formats": [
+              "xml"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geodiscover.alberta.ca/geoportal/rest/metadata/item/00520000e9c749bf84f46ebc912ffa37/xml",
+            "sample_title": "Bonnie Lake, Alberta - Bathymetry (GIS data, line features) - Bonnie Lake, Alberta - Bathymetry (GIS data, line features) - (XML)",
+            "sample_format": "xml",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Tnc",
+            "display": "Tnc",
+            "host": "cumulus-ags.tnc.org",
+            "endpoints_in_bucket": 234,
+            "endpoints_in_pack": 234,
+            "country_codes": [],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://cumulus-ags.tnc.org/arcgis/rest/services/CRCS/NECOASTAL_DraftMarchUpdatedLayers_grouped/MapServer/1/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "cumulus-ags.tnc.org: CRCS/NECOASTAL_DraftMarchUpdatedLayers_grouped / Migration space-sea level rise of 1 foot",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Caribbeanmarineatlas",
+            "display": "Caribbeanmarineatlas",
+            "host": "www.caribbeanmarineatlas.net",
+            "endpoints_in_bucket": 185,
+            "endpoints_in_pack": 684,
+            "country_codes": [],
+            "formats": [
+              "zip",
+              "xml",
+              "geojson",
+              "json",
+              "csv"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://www.caribbeanmarineatlas.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Abenthic_habitat_wgs84_2&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326",
+            "sample_title": "TM-BRB_Benthic Habitat (South and East Coast)-1998-1:5000 - benthic_habitat_wgs84_2.json",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Rutgers",
+            "display": "Rutgers",
+            "host": "oceandata.rad.rutgers.edu",
+            "endpoints_in_bucket": 175,
+            "endpoints_in_pack": 175,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://oceandata.rad.rutgers.edu/arcgis/rest/services/CAS_VTR_BTLarge/2011_2015/MapServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&resultRecordCount=5&f=json",
+            "sample_title": "Communities-at-Sea: Groundfish More than 65 ft Commercial Fishing Activity 2011-2015",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "NOAA GeoPlatform (ArcGIS Online)",
+            "display": "NOAA GeoPlatform (ArcGIS Online)",
+            "host": "services2.arcgis.com",
+            "endpoints_in_bucket": 164,
+            "endpoints_in_pack": 379,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/Bathymetric_Contours/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&resultRecordCount=5&f=json",
+            "sample_title": "Bathymetric Contours",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          }
+        ]
+      }
+    },
+    {
+      "id": "grounding",
+      "emoji": "🧠",
+      "name": "Grounding and data pipelines",
+      "title": "ERDDAP ocean datasets, buoy reports and cruise files for scheduled loads",
+      "build": "Read each ERDDAP description for its variables and time range, then load the series from tabledap or griddap on a schedule into your own store, so answers about sea conditions cite a dated source.",
+      "filter": {
+        "or": [
+          {
+            "urlIncludes": "/erddap/"
+          },
+          {
+            "format": [
+              "csv",
+              "txt",
+              "xml",
+              "zip"
+            ]
+          }
+        ]
+      },
+      "filter_text": "url contains \"/erddap/\" OR format in (csv, txt, xml, zip)",
+      "fallback": false,
+      "notes": [
+        {
+          "count": 44704,
+          "text": "are ERDDAP dataset descriptions (`/erddap/info/`): they list the variables and time range, and the series needs a second request to `tabledap` or `griddap`."
+        }
+      ],
+      "count": 65097,
+      "services_matching": 267,
+      "country_codes_matching": 31,
+      "formats_matching": 5,
+      "example": {
+        "url": "https://coastwatch.noaa.gov/erddap/griddap/PIFSCchlMonthly.json?time%5Blast%5D",
+        "title": "NOAA NESDIS STAR (ERDDAP coastwatch.noaa.gov): ERDDAP griddap (latest time axis value JSON)",
+        "service": "Noaa",
+        "last_tested": "2026-11-15"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and passed a data call. Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Sample preference in this bucket: `url contains \"/tabledap/\" OR url contains \"/griddap/\" OR (url contains \"ndbc.noaa.gov/data/realtime2/\" AND title matches /: \\S/i)`. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 217,
+        "services": [
+          {
+            "service": "GRIIDC ERDDAP (Gulf of Mexico)",
+            "display": "GRIIDC ERDDAP (Gulf of Mexico)",
+            "host": "erddap.griidc.org",
+            "endpoints_in_bucket": 11688,
+            "endpoints_in_pack": 11688,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://erddap.griidc.org/erddap/info/FGBNMS_FGBNMS_17_01_DiMarco_Glider_Recovery/index.json",
+            "sample_title": "ERDDAP GRIIDC: \"RV Manta - FGBNMS - FGBNMS-17-01-DiMarco_Glider_Recovery.nc - 29.31N, 94.82W - 2017-01-20\"",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          },
+          {
+            "service": "Tamu",
+            "display": "Tamu",
+            "host": "gcoos5.geos.tamu.edu",
+            "endpoints_in_bucket": 7739,
+            "endpoints_in_pack": 7739,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json",
+              "xml"
+            ],
+            "formats_in_pack": 2,
+            "sample_url": "https://gcoos5.geos.tamu.edu/erddap/info/4901043/index.json",
+            "sample_title": "US Argo (US GDAC) (ERDDAP gcoos5.geos.tamu.edu): ERDDAP info (dataset metadata JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Usgs",
+            "display": "Usgs",
+            "host": "data.usgs.gov",
+            "endpoints_in_bucket": 3718,
+            "endpoints_in_pack": 3718,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "xml"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://data.usgs.gov/datacatalog/metadata/USGS.0000a76f-c6be-4366-8be3-6f8487442e8a.xml",
+            "sample_title": "Raw HYPACK navigation logs (text) collected by the U.S. Geological Survey - St. Petersburg Coastal and Marine Science Center offshore of the Gulf Islands, MS, 2010 - Original Metadata",
+            "sample_format": "xml",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Glos",
+            "display": "Glos",
+            "host": "seagull-erddap.glos.org",
+            "endpoints_in_bucket": 3619,
+            "endpoints_in_pack": 3619,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://seagull-erddap.glos.org/erddap/info/45001_archive/index.json",
+            "sample_title": "National Data Buoy Center (ERDDAP seagull-erddap.glos.org): ERDDAP info (dataset metadata JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Noaa",
+            "display": "Noaa",
+            "host": "data.ngdc.noaa.gov",
+            "endpoints_in_bucket": 3261,
+            "endpoints_in_pack": 3261,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "csv",
+              "xml"
+            ],
+            "formats_in_pack": 2,
+            "sample_url": "https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/D00001-D02000/D00111/GEODAS/D00111.a93.gz",
+            "sample_title": "D00111: NOS Hydrographic Survey , Southern New England Coast, Connecticut and New York, 1991-11-14 - D00111.a93.gz",
+            "sample_format": "csv",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Bodc",
+            "display": "Bodc",
+            "host": "erddap.bodc.ac.uk",
+            "endpoints_in_bucket": 2529,
+            "endpoints_in_pack": 2529,
+            "country_codes": [
+              "GB"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://erddap.bodc.ac.uk/erddap/info/10007_0210S_CTD/index.json",
+            "sample_title": "Marine Scotland Science (ERDDAP erddap.bodc.ac.uk): ERDDAP info (dataset metadata JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Noaa",
+            "display": "Noaa",
+            "host": "polarwatch.noaa.gov",
+            "endpoints_in_bucket": 2088,
+            "endpoints_in_pack": 2088,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://polarwatch.noaa.gov/erddap/griddap/ims1k_15day_baseline_stats.json?time%5Blast%5D",
+            "sample_title": "NOAA CoastWatch PolarWatch (ERDDAP polarwatch.noaa.gov): ERDDAP griddap (latest time axis value JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Noaa",
+            "display": "Noaa",
+            "host": "coastwatch.noaa.gov",
+            "endpoints_in_bucket": 2083,
+            "endpoints_in_pack": 2083,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://coastwatch.noaa.gov/erddap/griddap/PIFSCchlMonthly.json?time%5Blast%5D",
+            "sample_title": "NOAA NESDIS STAR (ERDDAP coastwatch.noaa.gov): ERDDAP griddap (latest time axis value JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          }
+        ]
+      }
+    },
+    {
+      "id": "evals",
+      "emoji": "🧪",
+      "name": "Evals and testing",
+      "title": "Gauges, buoys, datasets and layers to test an ocean tool",
+      "build": "Run your ocean tool against a fixed set of URLs across formats; check that time, value, unit and position parse, and keep last_tested as the baseline for your own re-tests.",
+      "filter": {
+        "whole": true
+      },
+      "filter_text": "the whole pack",
+      "fallback": false,
+      "notes": [],
+      "count": 86107,
+      "services_matching": 2241,
+      "country_codes_matching": 129,
+      "formats_matching": 7,
+      "example": {
+        "url": "https://coastwatch.noaa.gov/erddap/griddap/PIFSCchlMonthly.json?time%5Blast%5D",
+        "title": "NOAA NESDIS STAR (ERDDAP coastwatch.noaa.gov): ERDDAP griddap (latest time axis value JSON)",
+        "service": "Noaa",
+        "last_tested": "2026-11-15"
+      },
+      "recommended": {
+        "criteria": "Services in this pack that returned the most different formats, then the most endpoints that passed a data call, then by name: a mix of response shapes to test parsers and tool calls. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 1468,
+        "services": [
+          {
+            "service": "Caribbeanmarineatlas",
+            "display": "Caribbeanmarineatlas",
+            "host": "www.caribbeanmarineatlas.net",
+            "endpoints_in_bucket": 684,
+            "endpoints_in_pack": 684,
+            "country_codes": [],
+            "formats": [
+              "zip",
+              "xml",
+              "json",
+              "geojson",
+              "csv"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://www.caribbeanmarineatlas.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__014_001_wcmc007_turtlenestingsites1999_v1_1&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326",
+            "sample_title": "TV_Global Distribution of Sea Turtle Nesting Sites (1999) - a__014_001_wcmc007_turtlenestingsites1999_v1_1.json",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "ArcGIS Online: Vegetation",
+            "display": "ArcGIS Online: Vegetation",
+            "host": "data-cdfw.opendata.arcgis.com",
+            "endpoints_in_bucket": 179,
+            "endpoints_in_pack": 179,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "csv",
+              "xml",
+              "json",
+              "geojson",
+              "zip"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://data-cdfw.opendata.arcgis.com/api/download/v1/items/117a99c8745a48c6a48bac70005b1b11/geojson?layers=0",
+            "sample_title": "California Marine Protected Areas [ds582] - GeoJSON",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "ArcGIS Online: opendata",
+            "display": "ArcGIS Online: opendata",
+            "host": "opendata-daerani.hub.arcgis.com",
+            "endpoints_in_bucket": 137,
+            "endpoints_in_pack": 137,
+            "country_codes": [
+              "GB"
+            ],
+            "formats": [
+              "csv",
+              "json",
+              "geojson",
+              "xml",
+              "zip"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://opendata-daerani.hub.arcgis.com/api/download/v1/items/1d7bba4c40b541a486c874dee45c7046/geojson?layers=11",
+            "sample_title": "2021 NI Coastal Survey - GeoJSON",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "California Natural Resources Agency Open",
+            "display": "California Natural Resources Agency Open",
+            "host": "gis.data.cnra.ca.gov",
+            "endpoints_in_bucket": 28,
+            "endpoints_in_pack": 28,
+            "country_codes": [
+              "US"
+            ],
+            "formats": [
+              "csv",
+              "json",
+              "xml",
+              "geojson",
+              "zip"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://gis.data.cnra.ca.gov/api/download/v1/items/522e43aa970c4079977af3d8ff08fc9f/geojson?layers=0",
+            "sample_title": "30x30 Conserved Areas, Marine - GeoJSON",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Napsgfoundation",
+            "display": "Napsgfoundation",
+            "host": "prep-response-portal.napsgfoundation.org",
+            "endpoints_in_bucket": 20,
+            "endpoints_in_pack": 20,
+            "country_codes": [],
+            "formats": [
+              "json",
+              "csv",
+              "zip",
+              "xml",
+              "geojson"
+            ],
+            "formats_in_pack": 5,
+            "sample_url": "https://prep-response-portal.napsgfoundation.org/api/download/v1/items/9b8acf46b6d64b3dbfd99cd609097eb7/geojson?layers=5",
+            "sample_title": "Coastal and Offshore Marine Zones - GeoJSON",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "ArcGIS Online: Blue Whiting Spawning & Nursery Grounds",
+            "display": "ArcGIS Online: Blue Whiting Spawning & Nursery Grounds",
+            "host": "msp-opendata-marineplan.hub.arcgis.com",
+            "endpoints_in_bucket": 405,
+            "endpoints_in_pack": 405,
+            "country_codes": [
+              "IE"
+            ],
+            "formats": [
+              "csv",
+              "xml",
+              "geojson",
+              "json"
+            ],
+            "formats_in_pack": 4,
+            "sample_url": "https://msp-opendata-marineplan.hub.arcgis.com/api/download/v1/items/076c96cbb7254b5bab6ee419efd9f222/geojson?layers=2",
+            "sample_title": "Shore Angling Locations",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-14"
+          },
+          {
+            "service": "BSH geospatial data (Germany)",
+            "display": "BSH geospatial data (Germany)",
+            "host": "gdi.bsh.de",
+            "endpoints_in_bucket": 186,
+            "endpoints_in_pack": 186,
+            "country_codes": [
+              "DE"
+            ],
+            "formats": [
+              "xml",
+              "csv",
+              "txt",
+              "json"
+            ],
+            "formats_in_pack": 4,
+            "sample_url": "https://gdi.bsh.de/52n-sensorthings-webapp/v1.1/Locations?$top=10",
+            "sample_title": "BSH MARNET marine stations: OGC SensorThings API",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          },
+          {
+            "service": "Mardep",
+            "display": "Mardep",
+            "host": "www.mardep.gov.hk",
+            "endpoints_in_bucket": 59,
+            "endpoints_in_pack": 59,
+            "country_codes": [
+              "HK"
+            ],
+            "formats": [
+              "xml",
+              "csv",
+              "txt",
+              "json"
+            ],
+            "formats_in_pack": 4,
+            "sample_url": "https://www.mardep.gov.hk/e_files/en/opendata/GRA_Spending_data_of_Head_100.json",
+            "sample_title": "Marine Department: data.gov.hk resource (JSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-15"
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "q": "What sea level did the IOC gauge at Alexandria, Egypt record over the last day?",
+      "filter": "url contains \"ioc-sealevelmonitoring.org/service.php?query=data&code=alex&\"",
+      "url": "https://www.ioc-sealevelmonitoring.org/service.php?query=data&code=alex&period=1&format=json",
+      "title": "IOC sea level station: Alexandria, Egypt",
+      "service": "Ioc Sealevelmonitoring",
+      "last_tested": "2026-11-14",
+      "matching": 1
+    },
+    {
+      "q": "What is the latest sea temperature at a Swedish coastal station?",
+      "filter": "url contains \"opendata-download-ocobs.smhi.se/api/version/1.0/parameter/5/station/\" AND title matches /Havstemperatur/i",
+      "url": "https://opendata-download-ocobs.smhi.se/api/version/1.0/parameter/5/station/2088/period/latest-day/data.json",
+      "title": "SMHI ocean: Havstemperatur · Kungsholmsfort",
+      "service": "Smhi",
+      "last_tested": "2026-11-14",
+      "matching": 43
+    },
+    {
+      "q": "What wave height, wind and water temperature does an NDBC buoy report?",
+      "filter": "url contains \"ndbc.noaa.gov/data/realtime2/\" AND title matches /NDBC buoy/station 46/i",
+      "url": "https://www.ndbc.noaa.gov/data/realtime2/46001.txt",
+      "title": "NDBC buoy/station 46001: WESTERN GULF OF ALASKA - 175NM SE of Kodiak, AK",
+      "service": "Noaa",
+      "last_tested": "2026-11-14",
+      "matching": 96
+    },
+    {
+      "q": "When is the next slack water or peak current at a NOAA current station?",
+      "filter": "url contains \"product=currents_predictions\"",
+      "url": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?date=today&interval=MAX_SLACK&station=ACT1651&product=currents_predictions&units=metric&time_zone=gmt&format=json&application=AgentPopulation",
+      "title": "NOAA Current predictions: Handkerchief Lighted Whistle Buoy 'H',",
+      "service": "NOAA CO-OPS tides and currents",
+      "last_tested": "2026-11-14",
+      "matching": 38
+    }
+  ],
+  "preview_focused": true,
+  "preview": [
+    {
+      "title": "Raw HYPACK navigation logs (text) collected by the U.S. Geological Survey - St. Petersburg Coastal and Marine Science Center offshore of the Gulf Islands, MS, 2010 - Original Metadata",
+      "service": "Usgs",
+      "country": "US",
+      "category": "Maritime",
+      "subcategory": "",
+      "format": "xml",
+      "tags": "maritime|oceans|science|open-data|no-key|xml",
+      "last_tested": "2026-11-15",
+      "host": "data.usgs.gov",
+      "url": "https://data.usgs.gov/datacatalog/metadata/USGS.0000a76f-c6be-4366-8be3-6f8487442e8a.xml"
+    },
+    {
+      "title": "NOAA NESDIS STAR (ERDDAP coastwatch.noaa.gov): ERDDAP griddap (latest time axis value JSON)",
+      "service": "Noaa",
+      "country": "US",
+      "category": "Environment",
+      "subcategory": "",
+      "format": "json",
+      "tags": "environment|oceans|no-key|json|agent-ready",
+      "last_tested": "2026-11-15",
+      "host": "coastwatch.noaa.gov",
+      "url": "https://coastwatch.noaa.gov/erddap/griddap/PIFSCchlMonthly.json?time%5Blast%5D"
+    },
+    {
+      "title": "OBIS (Ocean Biodiversity Information System, UNESCO IOC): OBIS dataset metadata JSON",
+      "service": "OBIS (Ocean Biodiversity Information System)",
+      "country": "",
+      "category": "Environment",
+      "subcategory": "",
+      "format": "json",
+      "tags": "environment|oceans|no-key|json|agent-ready",
+      "last_tested": "2026-11-15",
+      "host": "api.obis.org",
+      "url": "https://api.obis.org/v3/dataset/002eea41-acbf-4d60-ad84-6f4e3c46d9be"
+    },
+    {
+      "title": "Copernicus Marine (static) (STAC stac.marine.copernicus.eu): STAC static Item JSON",
+      "service": "Copernicus",
+      "country": "EU",
+      "category": "Science",
+      "subcategory": "",
+      "format": "json",
+      "tags": "science|oceans|no-key|json|agent-ready",
+      "last_tested": "2026-11-15",
+      "host": "stac.marine.copernicus.eu",
+      "url": "https://stac.marine.copernicus.eu/metadata/ANTARCTIC_OMI_SI_extent/antarctic_omi_si_extent_202411/dataset.stac.json"
+    },
+    {
+      "title": "World Register of Marine Species (WoRMS): WoRMS classification tree (JSON)",
+      "service": "Marinespecies",
+      "country": "BE",
+      "category": "Hydrology & Oceans",
+      "subcategory": "",
+      "format": "json",
+      "tags": "water|oceans|no-key|json|agent-ready",
+      "last_tested": "2026-11-15",
+      "host": "www.marinespecies.org",
+      "url": "https://www.marinespecies.org/rest/AphiaClassificationByAphiaID/1"
+    }
+  ],
+  "limits": [
+    {
+      "id": "skew",
+      "text": "64.6% of rows carry country code US; 10,036 rows have no code (global or unknown)."
+    },
+    {
+      "id": "stats-meta",
+      "text": "100 rows come from PxWeb or Statistics Canada services. Some statistics endpoints return metadata or a pointer on GET; the table may need a second request or a POST."
+    },
+    {
+      "id": "erddap-info",
+      "text": "44,704 rows are ERDDAP /info/ pages: they describe a dataset rather than return its values, so the series needs a second request."
+    },
+    {
+      "id": "record-count",
+      "text": "10,828 rows are map-layer queries with resultRecordCount set: the tested call asked for a few records; change the query to get the full layer."
+    },
+    {
+      "id": "limit-1",
+      "text": "702 rows carry limit=1: the tested call asked for one record; raise the limit or page through."
+    },
+    {
+      "id": "portal",
+      "text": "717 rows are open-data portal dataset records, which may return a dataset record with links rather than the table itself."
+    },
+    {
+      "id": "files",
+      "text": "1,393 rows are files (zip 471, txt 922) rather than bodies an agent reads directly."
+    },
+    {
+      "id": "arcgis-online",
+      "text": "8,122 rows are layers on ArcGIS Online, where anyone can publish: some are class projects, tests or copies. Check the owner and the fields before you rely on one."
+    },
+    {
+      "id": "app-name",
+      "text": "94 URLs carry `application=AgentPopulation`; set your own application name when you call them."
+    },
+    {
+      "id": "pack",
+      "text": "170 rows carry a place name such as Ocean County, Ocean City or Oceanside: some are coastal stations, others are local map layers with no ocean data. They are not used as starting points."
+    },
+    {
+      "id": "pack",
+      "text": "189 rows are inland: heights above sea level, lake and river bathymetry, tributaries, reservoirs or airport stations. They are not used as starting points."
+    },
+    {
+      "id": "pack",
+      "text": "402 rows are Great Lakes datasets (NOAA GLERL): fresh water, not sea. They are not used as starting points."
+    },
+    {
+      "id": "pack",
+      "text": "21 rows are country profiles of island states and territories, not ocean data."
+    },
+    {
+      "id": "pack",
+      "text": "75 IOC sea level rows carry a country code and name that do not match the station (Slovenia for stations in Sweden, Chad for the Netherlands, Montenegro for Barbados, Georgia for Mauritius, Serbia for Pitcairn); use the station name, not the code."
+    },
+    {
+      "id": "pack",
+      "text": "59 rows from New Zealand hosts (.nz) carry country code US in this snapshot; filter by host when you need New Zealand only."
+    },
+    {
+      "id": "pack",
+      "text": "31 rows from Canadian hosts (.ca) carry country code US in this snapshot; filter by host when you need Canada only."
+    },
+    {
+      "id": "pack",
+      "text": "This pack sits inside the Rivers and water pack, which selects the oceans tag among others (see Other packs); here the ocean rows stand on their own, with their own starting points."
+    },
+    {
+      "id": "quiet",
+      "text": "Stations and feeds can go quiet after their test date; re-test a URL before you rely on it."
+    },
+    {
+      "id": "not-in",
+      "text": "Not in this pack: endpoints that need a key or a POST, and URLs that did not pass."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 130 ArcGIS Survey123 layers (they can hold people's form answers)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 415 class-exercise copies of the same few ArcGIS Online layers (Miami Beach sea level rise, high-risk areas without shelter, flooded areas, sea level rise and storm surge maps) across many organisations, many with a person's name in the title."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 3 layers marked editable in the title (they can hold entries that people added)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 14 ArcGIS layers that keep a form's default service name (they can hold people's form answers)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 99 ArcGIS class or coursework layers (lab, assignment, exam, quiz, lesson, exercise, tutorial and final-project layers, copies of class layers, layers named for a person or a person's home, and layers whose name ends in a person's name or holds a student number)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 9 ArcGIS layers that hold reports, comments, submissions or form responses sent in by the public."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 22 rows of server information from Mastodon, PeerTube, Lemmy, Nostr and other social network servers (instance documents name the server's contact person)."
+    }
+  ],
+  "name": "86k-oceans-apis-for-agents",
+  "old_name": "oceans-api-endpoints",
+  "services_tested": {
+    "services": 2239,
+    "tested": 1158763,
+    "passed": 977965,
+    "passed_pct": 84,
+    "line": "Across these services: 1.1M tested · 84% passed a keyless call",
+    "note": "Counted over the 2,239 export services that this pack's rows belong to: the sum of each service's own tested count and passed count (a keyless GET that returned a data body). They cover every tested endpoint of those services, not only the rows in this pack. The figures in the line are rounded down. Over every service of the export the same sums are 5,129,846 tested and 3,726,509 passed."
+  },
+  "overlaps": [
+    {
+      "repo": "weather-api-endpoints",
+      "name": "190k-weather-apis-for-agents",
+      "title": "Weather API endpoints",
+      "shared": 5687
+    },
+    {
+      "repo": "transit-api-endpoints",
+      "name": "270k-transit-apis-for-agents",
+      "title": "Transit API endpoints",
+      "shared": 1384
+    },
+    {
+      "repo": "water-api-endpoints",
+      "name": "270k-water-apis-for-agents",
+      "title": "Rivers and water API endpoints",
+      "shared": 86107
+    },
+    {
+      "repo": "finance-economy-api-endpoints",
+      "name": "130k-finance-economy-apis-for-agents",
+      "title": "Finance and economy API endpoints",
+      "shared": 805
+    },
+    {
+      "repo": "india-api-endpoints",
+      "name": "130k-india-apis-for-agents",
+      "title": "India API endpoints",
+      "shared": 1115
+    },
+    {
+      "repo": "government-open-data-api-endpoints",
+      "name": "1.3m-government-open-data-apis",
+      "title": "Government open data API endpoints",
+      "shared": 1157
+    },
+    {
+      "repo": "statistics-api-endpoints",
+      "name": "290k-statistics-apis-for-agents",
+      "title": "Statistics and census API endpoints",
+      "shared": 82
+    },
+    {
+      "repo": "maritime-api-endpoints",
+      "name": "24k-maritime-apis-for-agents",
+      "title": "Maritime API endpoints",
+      "shared": 2484
+    },
+    {
+      "repo": "environment-api-endpoints",
+      "name": "170k-environment-apis-for-agents",
+      "title": "Environment API endpoints",
+      "shared": 4201
+    },
+    {
+      "repo": "air-quality-api-endpoints",
+      "name": "20k-air-quality-apis-for-agents",
+      "title": "Air quality API endpoints",
+      "shared": 25
+    },
+    {
+      "repo": "maps-gis-api-endpoints",
+      "name": "380k-maps-gis-apis-for-agents",
+      "title": "Maps and GIS API endpoints",
+      "shared": 1729
+    },
+    {
+      "repo": "agent-ready-api-endpoints",
+      "name": "2.5m-agent-ready-apis",
+      "title": "Agent-ready API endpoints",
+      "shared": 68292
+    },
+    {
+      "repo": "health-api-endpoints",
+      "name": "96k-health-apis-for-agents",
+      "title": "Health API endpoints",
+      "shared": 6
+    },
+    {
+      "repo": "science-api-endpoints",
+      "name": "380k-science-apis-for-agents",
+      "title": "Science API endpoints",
+      "shared": 3814
+    },
+    {
+      "repo": "hazards-api-endpoints",
+      "name": "53k-hazards-apis-for-agents",
+      "title": "Hazards and alerts API endpoints",
+      "shared": 549
+    },
+    {
+      "repo": "wildfire-api-endpoints",
+      "name": "6.5k-wildfire-apis-for-agents",
+      "title": "Wildfire API endpoints",
+      "shared": 6
+    },
+    {
+      "repo": "energy-api-endpoints",
+      "name": "72k-energy-apis-for-agents",
+      "title": "Energy API endpoints",
+      "shared": 66
+    },
+    {
+      "repo": "aviation-api-endpoints",
+      "name": "25k-aviation-apis-for-agents",
+      "title": "Aviation API endpoints",
+      "shared": 31
+    },
+    {
+      "repo": "traffic-api-endpoints",
+      "name": "24k-traffic-apis-for-agents",
+      "title": "Traffic and roadworks API endpoints",
+      "shared": 970
+    },
+    {
+      "repo": "parking-api-endpoints",
+      "name": "12k-parking-apis-for-agents",
+      "title": "Parking API endpoints",
+      "shared": 5
+    },
+    {
+      "repo": "earthquake-api-endpoints",
+      "name": "10k-earthquake-apis-for-agents",
+      "title": "Earthquake API endpoints",
+      "shared": 90
+    },
+    {
+      "repo": "volcano-tsunami-api-endpoints",
+      "name": "5.2k-volcano-tsunami-apis-for-agents",
+      "title": "Volcano and tsunami API endpoints",
+      "shared": 64
+    },
+    {
+      "repo": "bike-share-api-endpoints",
+      "name": "17k-bike-share-apis-for-agents",
+      "title": "Bike-share API endpoints",
+      "shared": 0
+    }
+  ],
+  "pack_count": 24,
+  "services_file_rows": 2241,
+  "sample_mix": [
+    {
+      "source": "Tamu (gcoos5.geos.tamu.edu)",
+      "focus_rows": 5739,
+      "sample_rows": 109
+    },
+    {
+      "source": "ArcGIS Online layers",
+      "focus_rows": 3579,
+      "sample_rows": 69
+    },
+    {
+      "source": "Usgs (data.usgs.gov)",
+      "focus_rows": 2809,
+      "sample_rows": 54
+    },
+    {
+      "source": "Bodc (erddap.bodc.ac.uk)",
+      "focus_rows": 1741,
+      "sample_rows": 34
+    },
+    {
+      "source": "Bco Dmo (erddap.bco-dmo.org)",
+      "focus_rows": 1668,
+      "sample_rows": 33
+    },
+    {
+      "source": "Noaa (coastwatch.noaa.gov)",
+      "focus_rows": 1079,
+      "sample_rows": 21
+    },
+    {
+      "source": "OBIS (Ocean Biodiversity Information System) (api.obis.org)",
+      "focus_rows": 1000,
+      "sample_rows": 20
+    },
+    {
+      "source": "Copernicus (stac.marine.copernicus.eu)",
+      "focus_rows": 998,
+      "sample_rows": 20
+    },
+    {
+      "source": "Marinespecies (www.marinespecies.org)",
+      "focus_rows": 998,
+      "sample_rows": 20
+    },
+    {
+      "source": "Northeastoceandata (devservices.northeastoceandata.org)",
+      "focus_rows": 996,
+      "sample_rows": 20
+    }
+  ],
+  "sample_focus_rows": 39850,
+  "sample_rule": "1,000 rows, or one third of the pack rounded down, whichever is smaller",
+  "files": [
+    {
+      "name": "data/Ocean_Marine_API_Services_AgentPopulation.csv",
+      "rows": 2241,
+      "bytes": 132940,
+      "sha256": "298294fb191b39ba537d9dd114185fe859e9b12da9508aea6c20d48f1d395ab8"
+    },
+    {
+      "name": "data/Ocean_Marine_API_Endpoints_AgentPopulation_Sample.csv",
+      "rows": 1000,
+      "bytes": 322590,
+      "sha256": "95ed78ca3a4bda52147bd7c8b7295cdbca20ecdf37b1c4f1516c65dbcdff1aef"
+    },
+    {
+      "name": "data/Ocean_Marine_API_Endpoints_AgentPopulation_Sample.json",
+      "rows": 1000,
+      "bytes": 520081,
+      "sha256": "93223ed31c10c04988dd4cac4c35c36f140209ed8cc6d7a444191655e2da5da1"
+    }
+  ],
+  "release_asset": {
+    "name": "Ocean_Marine_API_Endpoints_AgentPopulation_Snapshot_2026-11-15.csv.gz",
+    "rows": 86107,
+    "bytes": 3051850,
+    "raw_bytes": 27136802,
+    "sha256": "696976e1bb225d1638e671fd4cccdd8906bd81528a4d3227f8aedc594f1ae17c",
+    "url": "https://github.com/agentpopulation/86k-oceans-apis-for-agents/releases/latest/download/Ocean_Marine_API_Endpoints_AgentPopulation_Snapshot_2026-11-15.csv.gz"
+  },
+  "release_tag": "snapshot-2026-11-15",
+  "description": "86,107 ocean and marine API endpoints that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "readme_ap_share": 0.096,
+  "country_counts": {
+    "US": 55588,
+    "": 10036,
+    "EU": 4188,
+    "GB": 3328,
+    "CA": 2642,
+    "AU": 1794,
+    "IE": 1190,
+    "IN": 1115,
+    "BE": 1080,
+    "FI": 960,
+    "NO": 888,
+    "TW": 515,
+    "FR": 427,
+    "SE": 398,
+    "DE": 390,
+    "NZ": 254,
+    "ES": 158,
+    "IT": 155,
+    "CH": 144,
+    "HK": 94,
+    "NL": 71,
+    "SI": 62,
+    "IO": 54,
+    "ZA": 31,
+    "CL": 29,
+    "GR": 28,
+    "PH": 27,
+    "ID": 25,
+    "PE": 24,
+    "PT": 23,
+    "UA": 20,
+    "DK": 19,
+    "RU": 19,
+    "LT": 18,
+    "PL": 17,
+    "BR": 12,
+    "IS": 12,
+    "LV": 12,
+    "SG": 12,
+    "CN": 11,
+    "KE": 11,
+    "TD": 11,
+    "IL": 9,
+    "SA": 8,
+    "WS": 7,
+    "AT": 6,
+    "GL": 6,
+    "JP": 6,
+    "OM": 6,
+    "PW": 6,
+    "CO": 5,
+    "CY": 5,
+    "EG": 5,
+    "FM": 5,
+    "FO": 5,
+    "ME": 5,
+    "NC": 5,
+    "BZ": 4,
+    "JM": 4,
+    "KH": 4,
+    "KI": 4,
+    "TG": 4,
+    "AG": 3,
+    "AI": 3,
+    "BM": 3,
+    "EE": 3,
+    "FJ": 3,
+    "GE": 3,
+    "GT": 3,
+    "LA": 3,
+    "MG": 3,
+    "MM": 3,
+    "MV": 3,
+    "TZ": 3,
+    "AE": 2,
+    "BB": 2,
+    "BG": 2,
+    "CC": 2,
+    "GU": 2,
+    "HR": 2,
+    "KW": 2,
+    "MT": 2,
+    "NU": 2,
+    "PA": 2,
+    "RO": 2,
+    "SN": 2,
+    "TO": 2,
+    "VC": 2,
+    "AR": 1,
+    "AS": 1,
+    "BH": 1,
+    "BS": 1,
+    "CK": 1,
+    "CW": 1,
+    "CX": 1,
+    "EC": 1,
+    "ER": 1,
+    "GH": 1,
+    "HT": 1,
+    "JO": 1,
+    "KR": 1,
+    "LB": 1,
+    "MA": 1,
+    "MH": 1,
+    "MP": 1,
+    "MS": 1,
+    "MZ": 1,
+    "NF": 1,
+    "NI": 1,
+    "NR": 1,
+    "PF": 1,
+    "PG": 1,
+    "PK": 1,
+    "PN": 1,
+    "RE": 1,
+    "RS": 1,
+    "SB": 1,
+    "SC": 1,
+    "TC": 1,
+    "TH": 1,
+    "TK": 1,
+    "TR": 1,
+    "TT": 1,
+    "TV": 1,
+    "UM": 1,
+    "UY": 1,
+    "VE": 1,
+    "VG": 1,
+    "VU": 1,
+    "WF": 1
+  }
+}
